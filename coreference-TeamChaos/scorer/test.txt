@@ -1,0 +1,55 @@
+{'ID':51,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':23,'text':'the company','referrent':[u'64']}  ->  {'ID':64,'text':'the company','referrent':[u'23']}
+{'ID':58,'text':'That meeting','referrent':[u'NEW57']}  ->  {'ID':NEW57,'text':'initial meeting','referrent':['']}
+{'ID':66,'text':'We','referrent':[u'68']}  ->  {'ID':68,'text':'We','referrent':[u'66']}
+{'ID':18,'text':'the National Mediation Board','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'The National Mediation Board','referrent':['']}
+{'ID':1,'text':'Pan Am Corp.','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':10,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':67,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}  ->  {'ID':13,'text':'negotiations','referrent':[u'77']}
+{'ID':56,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':68,'text':'We','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':[u'68']}
+{'ID':16,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
+{'ID':87,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':11,'text':'the board','referrent':[u'22']}  ->  {'ID':22,'text':'the board','referrent':[u'11']}
+{'ID':6,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'6']}
+{'ID':49,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':52,'text':'their talks with the company','referrent':[u'19']}  ->  {'ID':19,'text':'the talks','referrent':[u'52']}
+{'ID':24,'text':'the board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
+{'ID':7,'text':'head of the airline division of the International Brotherhood of Teamsters','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':9,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':36,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':25,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':59,'text':'Mr. Coleman','referrent':[u'NEW54']}  ->  {'ID':NEW54,'text':'Mr. Coleman','referrent':['']}
+{'ID':42,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':72,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':19,'text':'the talks','referrent':[u'52']}  ->  {'ID':52,'text':'their talks with the company','referrent':[u'19']}
+{'ID':75,'text':'the union','referrent':[u'31']}  ->  {'ID':31,'text':'the Teamsters union','referrent':[u'6']}
+{'ID':60,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':74,'text':'The federal mediation board','referrent':[u'14']}  ->  {'ID':14,'text':'the mediation board','referrent':[u'NEW21']}
+{'ID':61,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':46,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':39,'text':'a Pan Am director and Washington attorney','referrent':[u'NEW46']}  ->  {'ID':NEW46,'text':'William T. Coleman','referrent':['']}
+{'ID':31,'text':'the Teamsters union','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':62,'text':'the negotiations','referrent':[u'76']}  ->  {'ID':76,'text':'the negotiations','referrent':[u'62']}
+{'ID':13,'text':'negotiations','referrent':[u'77']}  ->  {'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}
+{'ID':47,'text':'that agreement','referrent':[u'29']}  ->  {'ID':29,'text':'The agreement','referrent':[u'NEW6']}
+{'ID':22,'text':'the board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
+{'ID':76,'text':'the negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'76']}
+{'ID':32,'text':'that coalition','referrent':[u'NEW38']}  ->  {'ID':NEW38,'text':'a coalition','referrent':['']}
+{'ID':15,'text':'both parties','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'both sides','referrent':['']}
+{'ID':17,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':71,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
+{'ID':64,'text':'the company','referrent':[u'23']}  ->  {'ID':23,'text':'the company','referrent':[u'64']}
+{'ID':20,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+Number of pronouns resolved: 6 (0.40)
+Number of common nouns resolved: 17 (0.65)
+Number of proper nouns resolved: 21 (0.75)
+Response resolutions: 66
+Truth resolutions: 69
+Total correct: 44
+Document b13 Score:  0.64
+
+-------------------------------------------------
+Final accuracy score: 0.6377
+-------------------------------------------------

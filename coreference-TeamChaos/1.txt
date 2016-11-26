@@ -1,0 +1,941 @@
+tst1/b13.crf
+ 880111-0081/JJ Federal/NNP Mediators/NNP Expected/NNP
+ Pan/NNP Am/NNP
+ Teamsters/NNP From/NNP Contract/NNP Talks/NNP Teri/NNP Agins/NNP
+ WSJ/NNP Staff/NNP
+ GOVMT/NNP PN/NNP LABOR/NNP AIR/NNP NEW/NNP YORK/NNP
+ The/DT National/NNP Mediation/NNP Board/NNP
+ The/DT release/NN
+ both/DT sides/NNS
+ arbitration/NN
+ one/CD
+ the/DT parties/NNS
+ a/DT 30-day/JJ cooling/NN
+ period/NN
+ effect/NN
+ which/WDT
+ free/JJ
+ William/NNP Genoese/NNP
+ heard/NN late/JJ Friday/NNP
+ negotiator/NN Walter/NNP Wallace/NNP
+ plans/NNS
+ noon/NN EST/NN today/NN
+ an/DT impasse/NN
+ late/JJ December/NNP
+ recent/JJ negotiations/NNS
+ the/DT unions/NNS
+ request/NN
+ a/DT source/NN close/NN
+ last/JJ week/NN
+ changes/NNS
+ senior/JJ management/NN
+ exchange/NN
+ labor-cost/JJ concessions/NNS
+ $/$ 180/CD million/CD
+ a/DT year/NN
+ three/CD years/NNS
+ the/DT unions/NNS
+ its/PRP$ Pan/NNP American/NNP World/NNP Airways/NNP unit/NN
+ a/DT coalition/NN
+ four/CD
+ Pan/NNP Am/NNP five/CD unions/NNS
+ part/NN
+ it/PRP clear/JJ
+ the/DT past/JJ year/NN
+ a/DT restructuring/NN
+ Negotiations/NNS
+ William/NNP T./NNP Coleman/NNP
+ directors/NNS
+ tomorrow/NN
+ It/PRP
+ clear/JJ
+ release/NN
+ Last/JJ Saturday/NNP
+ a/DT telegram/NN
+ Mr./NNP Coleman/NNP
+ plan/NN
+ a/DT ``/`` cordial/JJ
+ initial/JJ meeting/NN
+ Mr./NNP Coleman/NNP last/JJ Thursday/NNP
+ no/DT commitment/NN
+ concessions./NN ``/``
+ it/PRP clear/JJ
+ one/CD source/NN close/NN
+ re/NN
+ this/DT
+ said./NN ``/``
+ re/NN
+ any/DT more/RBR
+ re/NN
+ strike/NN procedure/NN
+ willing/JJ
+ A/DT
+ spokesman/NN
+ several/JJ earlier/RBR requests/NNS
+ Pan/NNP Am/NNP pilots/NNS union/NN
+ an/DT agreement/NN
+ concessions/NNS
+ the/DT company/NN
+ A/DT pilot/NN union/NN spokesman/NN
+ the/DT leaders/NNS
+ membership/NN
+ ratification/NN
+ didnt/NN
+ action/NN
+Anaphora for 880111-0081 Federal Mediators Expected:Mainid =NEW1
+Anaphora for Pan Am:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for Teamsters From Contract Talks Teri Agins:Mainid =NEW3
+/n
+/n
+/n
+Anaphora for WSJ Staff:Mainid =NEW4
+Anaphora for GOVMT PN LABOR AIR NEW YORK:Mainid =NEW5
+Anaphora for The National Mediation Board:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for Pan Am Corp.:Mainid =1
+/n
+/n
+/n
+Anaphora for its Teamsters union:Mainid =2
+/n
+/n
+/n
+Anaphora for their long-stalled contract negotiations:Mainid =77
+/n
+/n
+/n
+Anaphora for The release:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for both sides:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for arbitration:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for one:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for the parties:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for a 30-day  cooling:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for period:Mainid =NEW13
+Anaphora for effect:Mainid =NEW14
+Anaphora for which:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for the Teamsters:Mainid =6
+/n
+/n
+/n
+Anaphora for free:Mainid =NEW16
+Anaphora for William Genoese:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for head of the airline division of the International Brotherhood of Teamsters:Mainid =7
+/n
+/n
+/n
+Anaphora for he:Mainid =9
+/n
+/n
+/n
+Anaphora for he:Mainid =10
+/n
+/n
+/n
+Anaphora for heard late Friday:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for negotiator Walter Wallace:Mainid =NEW19
+Anaphora for the board:Mainid =11
+/n
+/n
+/n
+Anaphora for plans:Mainid =NEW20
+Anaphora for the parties:Mainid =12
+/n
+/n
+/n
+Anaphora for negotiations:Mainid =13
+/n
+/n
+/n
+Anaphora for noon EST today:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for the mediation board:Mainid =14
+/n
+/n
+/n
+Anaphora for both parties:Mainid =15
+/n
+/n
+/n
+Anaphora for arbitration:Mainid =16
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =17
+/n
+/n
+/n
+Anaphora for the National Mediation Board:Mainid =18
+/n
+/n
+/n
+Anaphora for an impasse:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for the talks:Mainid =19
+/n
+/n
+/n
+Anaphora for late December:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =20
+/n
+/n
+/n
+Anaphora for its:Mainid =21
+/n
+/n
+/n
+Anaphora for recent negotiations:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for the unions:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for the board:Mainid =22
+/n
+/n
+/n
+Anaphora for the company:Mainid =23
+/n
+/n
+/n
+Anaphora for request:Mainid =NEW26
+Anaphora for a source  close:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for the board:Mainid =24
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =25
+/n
+/n
+/n
+Anaphora for last week:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for it:Mainid =26
+/n
+/n
+/n
+Anaphora for changes:Mainid =NEW29
+Anaphora for senior management:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for exchange:Mainid =NEW31
+Anaphora for labor-cost concessions:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for $180 million:Mainid =NEW33
+Anaphora for a year:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for three years:Mainid =NEW35
+Anaphora for the unions:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for its Pan American World Airways unit:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for The agreement:Mainid =29
+/n
+/n
+/n
+Anaphora for a coalition:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for four:Mainid =NEW39
+Anaphora for Pan Am five unions:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for the Teamsters union:Mainid =31
+/n
+/n
+/n
+Anaphora for part:Mainid =NEW41
+Anaphora for that coalition:Mainid =32
+/n
+/n
+/n
+Anaphora for it clear:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for it:Mainid =33
+/n
+/n
+/n
+Anaphora for the agreement:Mainid =34
+/n
+/n
+/n
+Anaphora for the past year:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for the coalition:Mainid =35
+/n
+/n
+/n
+Anaphora for a restructuring:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =36
+/n
+/n
+/n
+Anaphora for a change in top management:Mainid =37
+/n
+/n
+/n
+Anaphora for Negotiations:Mainid =NEW45
+Anaphora for William T. Coleman:Mainid =NEW46
+/n
+/n
+/n
+Anaphora for a Pan Am director and Washington attorney:Mainid =39
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =42
+/n
+/n
+/n
+Anaphora for directors:Mainid =NEW47
+Anaphora for tomorrow:Mainid =NEW48
+Anaphora for the deadline set for the union wage-concession agreement:Mainid =43
+/n
+/n
+/n
+Anaphora for It:Mainid =NEW49
+Anaphora for clear:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for the Teamsters:Mainid =46
+/n
+/n
+/n
+Anaphora for release:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for that agreement:Mainid =47
+/n
+/n
+/n
+Anaphora for Last Saturday:Mainid =NEW52
+Anaphora for Mr. Genoese:Mainid =48
+/n
+/n
+/n
+Anaphora for he:Mainid =49
+/n
+/n
+/n
+Anaphora for a telegram:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for Mr. Coleman:Mainid =NEW54
+/n
+/n
+/n
+Anaphora for the Teamsters:Mainid =51
+/n
+/n
+/n
+Anaphora for plan:Mainid =NEW55
+Anaphora for their talks with the company:Mainid =52
+/n
+/n
+/n
+Anaphora for Mr. Genoese:Mainid =55
+/n
+/n
+/n
+Anaphora for he:Mainid =56
+/n
+/n
+/n
+Anaphora for a   cordial:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for initial meeting:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for Mr. Coleman last Thursday:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for no commitment:Mainid =NEW59
+Anaphora for concessions.:Mainid =NEW60
+Anaphora for That meeting:Mainid =58
+/n
+/n
+/n
+Anaphora for it clear:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for Mr. Coleman:Mainid =59
+/n
+/n
+/n
+Anaphora for the Teamsters:Mainid =60
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =61
+/n
+/n
+/n
+Anaphora for one source close:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for the negotiations:Mainid =62
+/n
+/n
+/n
+Anaphora for we:Mainid =63
+Anaphora for re:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for the company:Mainid =64
+/n
+/n
+/n
+Anaphora for this:Mainid =NEW64
+Anaphora for Mr. Genoese:Mainid =65
+/n
+/n
+/n
+Anaphora for said.:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for We:Mainid =66
+/n
+/n
+/n
+Anaphora for re:Mainid =NEW66
+/n
+/n
+/n
+Anaphora for any more:Mainid =NEW67
+Anaphora for Pan Am:Mainid =67
+/n
+/n
+/n
+Anaphora for We:Mainid =68
+/n
+/n
+/n
+Anaphora for re:Mainid =NEW68
+/n
+/n
+/n
+Anaphora for strike procedure:Mainid =NEW69
+Anaphora for The union:Mainid =69
+/n
+/n
+/n
+Anaphora for it:Mainid =70
+/n
+/n
+/n
+Anaphora for willing:Mainid =NEW70
+Anaphora for arbitration:Mainid =71
+/n
+/n
+/n
+Anaphora for A:Mainid =NEW71
+/n
+/n
+/n
+Anaphora for Pan Am:Mainid =72
+/n
+/n
+/n
+Anaphora for spokesman:Mainid =NEW72
+/n
+/n
+/n
+Anaphora for The Teamsters:Mainid =73
+/n
+/n
+/n
+Anaphora for The federal mediation board:Mainid =74
+/n
+/n
+/n
+Anaphora for several earlier requests:Mainid =NEW73
+Anaphora for the union:Mainid =75
+/n
+/n
+/n
+Anaphora for the negotiations:Mainid =76
+/n
+/n
+/n
+Anaphora for Pan Am pilots union:Mainid =NEW74
+/n
+/n
+/n
+Anaphora for it:Mainid =78
+/n
+/n
+/n
+Anaphora for an agreement:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for concessions:Mainid =NEW76
+/n
+/n
+/n
+Anaphora for the company:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for today:Mainid =81
+/n
+/n
+/n
+Anaphora for A pilot  union spokesman:Mainid =NEW78
+/n
+/n
+/n
+Anaphora for the leaders:Mainid =NEW79
+/n
+/n
+/n
+Anaphora for the agreement:Mainid =83
+/n
+/n
+/n
+Anaphora for their:Mainid =84
+/n
+/n
+/n
+Anaphora for membership:Mainid =NEW80
+Anaphora for ratification:Mainid =NEW81
+Anaphora for He:Mainid =85
+Anaphora for he:Mainid =86
+/n
+/n
+/n
+Anaphora for didnt:Mainid =NEW82
+Anaphora for the Teamsters:Mainid =87
+/n
+/n
+/n
+Anaphora for action:Mainid =NEW83
+Anaphora for the union agreement with the company:Mainid =88
+/n
+/n
+/n
+                                                words       headNoun  \
+1                                              Pan Am             am   
+2            Teamsters From Contract Talks Teri Agins          agins   
+3                                           WSJ Staff          staff   
+4                         GOVMT PN LABOR AIR NEW YORK           york   
+5                        The National Mediation Board          board   
+6                                        Pan Am Corp.          corp.   
+7                                 its Teamsters union          union   
+8            their long-stalled contract negotiations   negotiations   
+9                                         The release        release   
+10                                         both sides          sides   
+11                                        arbitration    arbitration   
+12                                                one            one   
+13                                        the parties        parties   
+14                                  a 30-day  cooling        cooling   
+15                                             period         period   
+16                                             effect         effect   
+17                                              which          which   
+18                                      the Teamsters      teamsters   
+19                                               free           free   
+20                                    William Genoese        genoese   
+21  head of the airline division of the Internatio...      teamsters   
+22                                                 he             he   
+23                                                 he             he   
+24                                  heard late Friday         friday   
+25                          negotiator Walter Wallace        wallace   
+26                                          the board          board   
+27                                              plans          plans   
+28                                        the parties        parties   
+29                                       negotiations   negotiations   
+30                                     noon EST today          today   
+..                                                ...            ...   
+70                                      the past year           year   
+71                                      the coalition      coalition   
+72                                    a restructuring  restructuring   
+73                                             Pan Am             am   
+74                         a change in top management     management   
+75                                       Negotiations   negotiations   
+76                                 William T. Coleman        coleman   
+77          a Pan Am director and Washington attorney       attorney   
+78                                             Pan Am             am   
+79                                          directors      directors   
+80                                           tomorrow       tomorrow   
+81  the deadline set for the union wage-concession...      agreement   
+82                                                 It             it   
+83                                              clear          clear   
+84                                      the Teamsters      teamsters   
+85                                            release        release   
+86                                     that agreement      agreement   
+87                                      Last Saturday       saturday   
+88                                        Mr. Genoese        genoese   
+89                                                 he             he   
+90                                         a telegram       telegram   
+91                                        Mr. Coleman        coleman   
+92                                      the Teamsters      teamsters   
+93                                               plan           plan   
+94                       their talks with the company        company   
+95                                        Mr. Genoese        genoese   
+96                                                 he             he   
+97                                        a   cordial        cordial   
+98                                    initial meeting        meeting   
+99                          Mr. Coleman last Thursday       thursday   
+
+    position semanticClass     Id  RefId pronounType article appositive  \
+1          2       COMPANY   NEW2     17       False    NONE         NO   
+2          3       COMPANY   NEW3      2       False    NONE         NO   
+3          4       COMPANY   NEW4   NEW4       False    NONE         NO   
+4          5       COMPANY   NEW5   NEW5       False    NONE         NO   
+5          6       COMPANY   NEW6     18       False    NONE         NO   
+6          7       COMPANY      1   NEW2       False    NONE         NO   
+7          8       COMPANY      2     21       False    NONE         NO   
+8          9       OBJECTS     77     13       False    NONE         NO   
+9         10       OBJECTS   NEW7  NEW51       False    NONE         NO   
+10        11       OBJECTS   NEW8     15       False    NONE         NO   
+11        12       OBJECTS   NEW9     16       False    NONE         NO   
+12        13        NUMBER  NEW10  NEW62       False    NONE         NO   
+13        14       OBJECTS  NEW11     12       False     DEF         NO   
+14        15          TIME  NEW12  NEW27       False   INDEF         NO   
+15        16       OBJECTS  NEW13  NEW13       False    NONE         NO   
+16        17       OBJECTS  NEW14  NEW14       False    NONE         NO   
+17        18       OBJECTS  NEW15     73        True    NONE         NO   
+18        19       COMPANY      6     46       False     DEF         NO   
+19        20       OBJECTS  NEW16  NEW16       False    NONE         NO   
+20        21         HUMAN  NEW17  NEW46       False    NONE         NO   
+21        22       COMPANY      7  NEW17       False     DEF         NO   
+22        23       OBJECTS      9  NEW17        True    NONE         NO   
+23        24       OBJECTS     10  NEW17        True    NONE         NO   
+24        25          TIME  NEW18  NEW23       False    NONE         NO   
+25        26         HUMAN  NEW19  NEW19       False    NONE         NO   
+26        27       OBJECTS     11     22       False     DEF         NO   
+27        28       OBJECTS  NEW20  NEW20       False    NONE         NO   
+28        29       OBJECTS     12  NEW11       False     DEF         NO   
+29        30       OBJECTS     13     77       False    NONE         NO   
+30        31       OBJECTS  NEW21     81       False    NONE         NO   
+..       ...           ...    ...    ...         ...     ...        ...   
+70        71          TIME  NEW43  NEW11       False     DEF         NO   
+71        72       OBJECTS     35  NEW43       False     DEF         NO   
+72        73       OBJECTS  NEW44  NEW12       False   INDEF         NO   
+73        74       COMPANY     36   NEW2       False    NONE         NO   
+74        75       OBJECTS     37  NEW12       False   INDEF         NO   
+75        76       OBJECTS  NEW45  NEW45       False    NONE         NO   
+76        77         HUMAN  NEW46  NEW17       False    NONE         NO   
+77        78       COMPANY     39  NEW46       False   INDEF         NO   
+78        79       COMPANY     42   NEW2       False    NONE         NO   
+79        80       OBJECTS  NEW47  NEW47       False    NONE         NO   
+80        81          TIME  NEW48  NEW48       False    NONE         NO   
+81        82       OBJECTS     43  NEW48       False     DEF         NO   
+82        83       OBJECTS  NEW49  NEW49        True    NONE         NO   
+83        84       OBJECTS  NEW50  NEW42       False    NONE         NO   
+84        85       COMPANY     46      6       False     DEF         NO   
+85        86       OBJECTS  NEW51   NEW7       False    NONE         NO   
+86        87       OBJECTS     47     29       False    NONE         NO   
+87        88          TIME  NEW52  NEW52       False    NONE         NO   
+88        89         HUMAN     48  NEW52       False    NONE         NO   
+89        90       OBJECTS     49  NEW17        True    NONE         NO   
+90        91       OBJECTS  NEW53  NEW12       False   INDEF         NO   
+91        92         HUMAN  NEW54     59       False    NONE         NO   
+92        93       COMPANY     51      6       False     DEF         NO   
+93        94       OBJECTS  NEW55  NEW55       False    NONE         NO   
+94        95       OBJECTS     52     19       False     DEF         NO   
+95        96         HUMAN     55  NEW52       False    NONE         NO   
+96        97       OBJECTS     56  NEW17        True    NONE         NO   
+97        98       OBJECTS  NEW56  NEW12       False   INDEF         NO   
+98        99       OBJECTS  NEW57     58       False    NONE         NO   
+99       100         HUMAN  NEW58  NEW54       False    NONE         NO   
+
+    number properName gender demonym animacy  
+1     SING        YES   NONE   False  INANIM  
+2   PLURAL        YES   NONE   False  INANIM  
+3     SING        YES   NONE   False  INANIM  
+4     SING        YES   NONE   False  INANIM  
+5     SING        YES   NONE   False  INANIM  
+6     SING        YES    NaN   False  INANIM  
+7     SING         NO    NaN   False  INANIM  
+8   PLURAL         NO    NaN   False  INANIM  
+9     SING         NO   NONE   False  INANIM  
+10  PLURAL         NO   NONE   False  INANIM  
+11    SING         NO   NONE   False  INANIM  
+12    SING         NO   NONE   False  INANIM  
+13  PLURAL         NO   NONE   False  INANIM  
+14    SING         NO   NONE   False  INANIM  
+15    SING         NO   NONE   False  INANIM  
+16    SING         NO   NONE   False  INANIM  
+17    SING         NO   NONE   False  INANIM  
+18  PLURAL         NO    NaN   False  INANIM  
+19    SING         NO   NONE   False  INANIM  
+20    SING        YES   NONE   False    ANIM  
+21  PLURAL         NO    NaN   False  INANIM  
+22    SING         NO    NaN   False  INANIM  
+23    SING         NO    NaN   False  INANIM  
+24    SING         NO   NONE   False  INANIM  
+25    SING         NO   NONE   False    ANIM  
+26    SING         NO    NaN   False  INANIM  
+27  PLURAL         NO   NONE   False  INANIM  
+28  PLURAL         NO    NaN   False  INANIM  
+29  PLURAL         NO    NaN   False  INANIM  
+30    SING         NO   NONE   False  INANIM  
+..     ...        ...    ...     ...     ...  
+70    SING         NO   NONE   False  INANIM  
+71    SING         NO    NaN   False  INANIM  
+72    SING         NO   NONE   False  INANIM  
+73    SING        YES    NaN   False  INANIM  
+74    SING         NO    NaN   False  INANIM  
+75  PLURAL        YES   NONE   False  INANIM  
+76    SING        YES   Male   False    ANIM  
+77    SING         NO    NaN   False  INANIM  
+78    SING        YES    NaN   False  INANIM  
+79  PLURAL         NO   NONE   False  INANIM  
+80    SING         NO   NONE   False  INANIM  
+81    SING         NO    NaN   False  INANIM  
+82    SING        YES   NONE   False  INANIM  
+83    SING         NO   NONE   False  INANIM  
+84  PLURAL         NO    NaN   False  INANIM  
+85    SING         NO   NONE   False  INANIM  
+86    SING         NO    NaN   False  INANIM  
+87    SING        YES   NONE   False  INANIM  
+88    SING        YES    NaN   False    ANIM  
+89    SING         NO    NaN   False  INANIM  
+90    SING         NO   NONE   False  INANIM  
+91    SING        YES   Male   False    ANIM  
+92  PLURAL         NO    NaN   False  INANIM  
+93    SING         NO   NONE   False  INANIM  
+94    SING         NO    NaN   False  INANIM  
+95    SING        YES    NaN   False    ANIM  
+96    SING         NO    NaN   False  INANIM  
+97    SING         NO   NONE   False  INANIM  
+98    SING         NO   NONE   False  INANIM  
+99    SING         NO   NONE   False    ANIM  
+
+[99 rows x 14 columns]
+                                    words      headNoun  position  \
+100                         no commitment    commitment       101   
+101                          concessions.  concessions.       102   
+102                          That meeting       meeting       103   
+103                              it clear         clear       104   
+104                           Mr. Coleman       coleman       105   
+105                         the Teamsters     teamsters       106   
+106                                Pan Am            am       107   
+107                      one source close         close       108   
+108                      the negotiations  negotiations       109   
+109                                    we            we       110   
+110                                    re            re       111   
+111                           the company       company       112   
+112                                  this          this       113   
+113                           Mr. Genoese       genoese       114   
+114                                 said.         said.       115   
+115                                    We            we       116   
+116                                    re            re       117   
+117                              any more          more       118   
+118                                Pan Am            am       119   
+119                                    We            we       120   
+120                                    re            re       121   
+121                      strike procedure     procedure       122   
+122                             The union         union       123   
+123                                    it            it       124   
+124                               willing       willing       125   
+125                           arbitration   arbitration       126   
+126                                     A             a       127   
+127                                Pan Am            am       128   
+128                             spokesman     spokesman       129   
+129                         The Teamsters     teamsters       130   
+130           The federal mediation board         board       131   
+131              several earlier requests      requests       132   
+132                             the union         union       133   
+133                      the negotiations  negotiations       134   
+134                   Pan Am pilots union         union       135   
+135                                    it            it       136   
+136                          an agreement     agreement       137   
+137                           concessions   concessions       138   
+138                           the company       company       139   
+139                                 today         today       140   
+140              A pilot  union spokesman     spokesman       141   
+141                           the leaders       leaders       142   
+142                         the agreement     agreement       143   
+143                                 their         their       144   
+144                            membership    membership       145   
+145                          ratification  ratification       146   
+146                                    He            he       147   
+147                                    he            he       148   
+148                                 didnt         didnt       149   
+149                         the Teamsters     teamsters       150   
+150                                action        action       151   
+151  the union agreement with the company       company       152   
+
+    semanticClass     Id  RefId pronounType article appositive  number  \
+100       OBJECTS  NEW59  NEW59       False    NONE         NO    SING   
+101       OBJECTS  NEW60  NEW60       False    NONE         NO    SING   
+102       OBJECTS     58  NEW57       False    NONE         NO    SING   
+103       OBJECTS  NEW61  NEW42       False    NONE         NO    SING   
+104         HUMAN     59  NEW54       False    NONE         NO    SING   
+105       COMPANY     60      6       False     DEF         NO  PLURAL   
+106       COMPANY     61   NEW2       False    NONE         NO    SING   
+107        NUMBER  NEW62  NEW10       False    NONE         NO    SING   
+108       OBJECTS     62     76       False     DEF         NO  PLURAL   
+109       OBJECTS     63     63        True    NONE         NO    SING   
+110       OBJECTS  NEW63  NEW66       False    NONE         NO    SING   
+111       OBJECTS     64     23       False     DEF         NO    SING   
+112       OBJECTS  NEW64  NEW64        True    NONE         NO    SING   
+113         HUMAN     65  NEW52       False    NONE         NO    SING   
+114       OBJECTS  NEW65      7       False    NONE         NO    SING   
+115       OBJECTS     66     68        True    NONE         NO    SING   
+116       OBJECTS  NEW66  NEW63       False    NONE         NO    SING   
+117       OBJECTS  NEW67  NEW67       False    NONE         NO    SING   
+118       COMPANY     67   NEW2       False    NONE         NO    SING   
+119       OBJECTS     68     66        True    NONE         NO    SING   
+120       OBJECTS  NEW68  NEW63       False    NONE         NO    SING   
+121       OBJECTS  NEW69  NEW69       False    NONE         NO    SING   
+122       OBJECTS     69   NEW6       False    NONE         NO    SING   
+123       OBJECTS     70     26        True    NONE         NO    SING   
+124       OBJECTS  NEW70  NEW70       False    NONE         NO    SING   
+125       OBJECTS     71   NEW9       False    NONE         NO    SING   
+126       OBJECTS  NEW71  NEW78       False    NONE         NO    SING   
+127       COMPANY     72   NEW2       False    NONE         NO    SING   
+128       OBJECTS  NEW72  NEW78       False    NONE         NO    SING   
+129       COMPANY     73   NEW3       False    NONE         NO  PLURAL   
+130       OBJECTS     74     14       False    NONE         NO    SING   
+131       OBJECTS  NEW73  NEW73       False    NONE         NO  PLURAL   
+132       OBJECTS     75     31       False     DEF         NO    SING   
+133       OBJECTS     76     62       False     DEF         NO  PLURAL   
+134       COMPANY  NEW74   NEW2       False    NONE         NO    SING   
+135       OBJECTS     78     26        True    NONE         NO    SING   
+136       OBJECTS  NEW75  NEW22       False   INDEF         NO    SING   
+137       OBJECTS  NEW76  NEW32       False    NONE         NO  PLURAL   
+138       OBJECTS  NEW77     23       False     DEF         NO    SING   
+139          TIME     81  NEW21       False    NONE         NO    SING   
+140       OBJECTS  NEW78  NEW71       False    NONE         NO    SING   
+141       OBJECTS  NEW79  NEW11       False     DEF         NO  PLURAL   
+142       OBJECTS     83     34       False     DEF         NO    SING   
+143       OBJECTS     84     77       False    NONE         NO    SING   
+144       OBJECTS  NEW80  NEW80       False    NONE         NO    SING   
+145       OBJECTS  NEW81  NEW81       False    NONE         NO    SING   
+146       OBJECTS     85     85        True    NONE         NO    SING   
+147       OBJECTS     86  NEW17        True    NONE         NO    SING   
+148       OBJECTS  NEW82  NEW82       False    NONE         NO    SING   
+149       COMPANY     87      6       False     DEF         NO  PLURAL   
+150       OBJECTS  NEW83  NEW83       False    NONE         NO    SING   
+151       OBJECTS     88     23       False     DEF         NO    SING   
+
+    properName gender demonym animacy  
+100         NO   NONE   False  INANIM  
+101         NO   NONE   False  INANIM  
+102         NO    NaN   False  INANIM  
+103         NO   NONE   False  INANIM  
+104        YES    NaN   False    ANIM  
+105         NO    NaN   False  INANIM  
+106        YES    NaN   False  INANIM  
+107         NO   NONE   False  INANIM  
+108         NO    NaN   False  INANIM  
+109         NO    NaN   False  INANIM  
+110         NO   NONE   False  INANIM  
+111         NO    NaN   False  INANIM  
+112         NO   NONE   False  INANIM  
+113        YES    NaN   False    ANIM  
+114         NO   NONE   False  INANIM  
+115        YES    NaN   False  INANIM  
+116         NO   NONE   False  INANIM  
+117         NO   NONE   False  INANIM  
+118        YES    NaN   False  INANIM  
+119        YES    NaN   False  INANIM  
+120         NO   NONE   False  INANIM  
+121         NO   NONE   False  INANIM  
+122         NO    NaN   False  INANIM  
+123         NO    NaN   False  INANIM  
+124         NO   NONE   False  INANIM  
+125         NO    NaN   False  INANIM  
+126        YES   NONE   False  INANIM  
+127        YES    NaN   False  INANIM  
+128         NO   NONE   False  INANIM  
+129        YES    NaN   False  INANIM  
+130         NO    NaN   False  INANIM  
+131         NO   NONE   False  INANIM  
+132         NO    NaN   False  INANIM  
+133         NO    NaN   False  INANIM  
+134         NO   NONE   False  INANIM  
+135         NO    NaN   False  INANIM  
+136         NO   NONE   False  INANIM  
+137         NO   NONE   False  INANIM  
+138         NO   NONE   False  INANIM  
+139         NO    NaN   False  INANIM  
+140         NO   NONE   False  INANIM  
+141         NO   NONE   False  INANIM  
+142         NO    NaN   False  INANIM  
+143         NO    NaN   False  INANIM  
+144         NO   NONE   False  INANIM  
+145         NO   NONE   False  INANIM  
+146        YES    NaN   False  INANIM  
+147         NO    NaN   False  INANIM  
+148         NO   NONE   False  INANIM  
+149         NO    NaN   False  INANIM  
+150         NO   NONE   False  INANIM  
+151         NO    NaN   False  INANIM  

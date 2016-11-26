@@ -8,6 +8,7 @@ class Cluster():
         self.distanceMatrix = distanceMatrix
         # print self.distanceMatrix
         self.clusterSetList = [set([i]) for i in range(0,len(self.distanceMatrix[0]))]
+        self.newClusterList = {}
         # print self.clusterSetList
         self.radius = radius
         self.bitMatrix = [i for i in range(0,len(self.distanceMatrix[0]))]
@@ -39,6 +40,16 @@ class Cluster():
                 # print self.distanceMatrix[i][j], i ,j
                 if self.distanceMatrix[i][j] < self.radius:
                     self.mergeCluster(i,j)
+
+
+    def makenewcluster(self):
+        for i in range(0,len(self.distanceMatrix)):
+            self.newClusterList[i] = []
+            for j in range(0, len(self.distanceMatrix[0])):
+                # print self.distanceMatrix[i][j], i ,j
+                if self.distanceMatrix[i][j] < 10 and i != j:
+                    self.newClusterList[i].append((j,self.distanceMatrix[i][j]))
+
     
 if __name__=="__main__":
     cluster = Cluster()

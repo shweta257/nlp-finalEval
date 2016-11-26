@@ -205,10 +205,14 @@ class CoReferenceHandler():
 
 
     def extractNPSpacy(self):
-        spacyObject = English(path='spacy')
-        nerObject = spacyObject(self.inputText)
-        # for np in nerObject.noun_chunks:
-        #     print np
+        nerObject = self.spacyObject(self.inputText)
+
+        for np in nerObject.noun_chunks:
+            # print np
+            newenp = str(np)
+            npElement = NPElement(newenp, 'NEW' + str(self.counter), '')
+            self.nounPhrase.append(npElement)
+            self.counter += 1
         #     # npchunk = str(np)
         #     # # print npchunk
         #     # npchunk = npchunk.replace('\n', ' ')
@@ -287,8 +291,7 @@ class CoReferenceHandler():
 
         if label == '':
             self.NER[self.inputText] = 'OBJECTS'
-        # for obj in self.NER:
-        #     print obj , self.NER[obj]
+
 
 
 
@@ -317,6 +320,7 @@ class CoReferenceHandler():
                 self.fullText += self.inputText
                 self.outputText += self.inputText
                 self.extractNP()
+                # self.extractNPSpacy()
 
 
         #
@@ -336,7 +340,7 @@ class CoReferenceHandler():
             if t.label() == 'NP':
                 npchunk = str(t)
                 npchunk = npchunk.replace('(NP', '').replace(')', '')
-                # print npchunk
+                print npchunk
 
                 npchunk = npchunk.strip().split(' ')
                 npPhrase = ''

@@ -76,7 +76,7 @@ def getCoreference(coreference, corefRadius):
             df.loc[index, 'animacy'] = 'ANIM'
         else:
             df.loc[index, 'animacy'] = 'INANIM'
-    # #print df
+    # print df
     distanceClusterProcessing(df, coreference,corefRadius)
 
 
@@ -97,40 +97,7 @@ def wordSubsumes(wordList1, wordList2):
         return True
     return False
 
-
-def allNPsCompatible(cluster,c1,c2,df, i, j, lengthOfDF, r):
-    # #print cluster
-    # #print len(cluster)
-    # #print c1
-    # #print c2
-
-    for word1 in cluster[c1]:
-        for word2 in cluster[c2]:
-            if calculateDistance(df,df[df['words'] == word1].index.tolist()[0], df[df['words'] == word2].index.tolist()[0], word1, word2, lengthOfDF, r) == sys.maxint:
-                return False
-    return True
-
-
-def formCluster(df, distanceMatrix, cluster, r):
-    # #print 'a'
-    lengthOfDF = len(df.index)
-    for j, row_j in df.iterrows():
-        for i, row_i in df.iterrows():
-            if i != j:
-                # d = calculateDistance(df, i, j, row_i['words'], row_j['words'], lengthOfDF, r)
-                d = distanceMatrix[i][j]
-                # #print row_i['words']+","+ row_j['words'] + "," +str(d)
-                for e in cluster:
-                    if row_i['words'] in e:
-                        c1 = cluster.index(e)
-                    if row_j['words'] in e:
-                        c2 = cluster.index(e)
-                if d < r and allNPsCompatible(cluster, c1, c2, df, i, j, lengthOfDF, r):
-                    # if d < r :
-                    cluster[c1].extend(cluster[c2])
-                    # del cluster[c2]
-    # #print cluster
-
+#
 
 def distanceClusterProcessing(df,coreference, corefRadius):
     r = corefRadius
@@ -141,35 +108,68 @@ def distanceClusterProcessing(df,coreference, corefRadius):
             if i != j and distanceMatrix[i][j] == 0 :
                 d = calculateDistance(df, coreference,i, j, row_i['words'],row_j['words'], lengthOfDF, r)
                 distanceMatrix[i][j] = d
-                # distanceMatrix[j][i] = d
 
-    # formCluster(df, distanceMatrix, cluster, r)
-    # #print distanceMatrix
 
     cluster = clustering.Cluster(r, distanceMatrix)
     cluster.makecluster()
     clusters = cluster.clusterSetList
+
     # print clusters
+
+    cluster.makenewcluster()
+    clusters  = cluster.newClusterList
+
+    #print clusters
+    # for cl in clusters:
+    #     if len(cl) > 0:
+    #         clSorted = sorted(cl)
+    #         currentid = -1
+    #         for c in clSorted:
+    #             if currentid > -1 and not str(currentid).startswith('NEW'):
+    #                 df.loc[c, 'RefId'] = currentid
+    #                 if not df.loc[c,'Id'].startswith('NEW'):
+    #                     currentid = df.loc[c, 'Id']
+    #             else:
+    #                 if str(currentid).startswith('NEW'):
+    #                     df.loc[c, 'RefId'] = currentid
+    #                     currentid = df.loc[c, 'Id']
+    #                 elif currentid == -1:
+    #                     df.loc[c, 'RefId'] = df.loc[c, 'Id']
+    #                     currentid = df.loc[c, 'RefId']
     for cl in clusters:
-        if len(cl) > 0:
-            clSorted = sorted(cl)
+        print "Anaphora for " + df.loc[cl,'words'] + ":Mainid =" + df.loc[cl,'Id']
+        if len(clusters[cl]) > 0:
+            clusters[cl].sort(key=lambda x: x[1])
             currentid = -1
-            for c in clSorted:
-                if currentid > -1 and not str(currentid).startswith('NEW'):
-                    df.loc[c, 'RefId'] = currentid
-                    if not df.loc[c,'Id'].startswith('NEW'):
-                        currentid = df.loc[c, 'Id']
-                else:
-                    if str(currentid).startswith('NEW'):
-                        df.loc[c, 'RefId'] = currentid
-                        currentid = df.loc[c, 'Id']
-                    elif currentid == -1:
-                        df.loc[c, 'RefId'] = df.loc[c, 'Id']
-                        currentid = df.loc[c, 'RefId']
+            df.loc[cl, 'RefId'] = df.loc[clusters[cl][0][0],'Id']
+
+            # for c in clusters[cl]:
+            #
+            #     print str(df.loc[c[0], 'words']) + ':' + str(c[1]) + ":id = " + df.loc[c[0], 'Id']
+            #
+            #     df.loc[c, 'RefId'] = currentid
+                # if currentid > -1 and not str(currentid).startswith('NEW'):
+                #     df.loc[c, 'RefId'] = currentid
+                #     if not df.loc[c,'Id'].startswith('NEW'):
+                #         currentid = df.loc[c, 'Id']
+                # else:
+                #     if str(currentid).startswith('NEW'):
+                #         df.loc[c, 'RefId'] = currentid
+                #         currentid = df.loc[c, 'Id']
+                #     elif currentid == -1:
+                #         df.loc[c, 'RefId'] = df.loc[c, 'Id']
+                #         currentid = df.loc[c, 'RefId']
+
+            print "/n"
+            print "/n"
+            print "/n"
+        else:
+            df.loc[cl, 'RefId'] = df.loc[cl, 'Id']
+
     # #print clusters
 
 def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
-    d = 0
+    d = sys.maxint
     demonym = demonynClassification.DemonymClassify()
     demonym.createDemonym()
 
@@ -180,15 +180,18 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
     lenWordj = len(set(wordList_j))
     matchWordCount  = len(set(wordList_i) & set(wordList_j))
 
+    if isAppositive(wordJ, wordI, coreference):
+        return 0
+
     if wordI == wordJ:
-        return -1
+        return 1
 
-    if wordSubsumes(wordList_i, wordList_j):
-        # return -1
-        d += 10
+    if matchWordCount == min(lenWordj, lenWordi):
+        return 2
 
-    if isAppositive(wordI, wordJ, coreference):
-        return -1
+
+    if matchWordCount > 0:
+        return 10-matchWordCount;
 
     if demonym.isDemonym(wordI, wordJ):
         return -1
@@ -199,33 +202,35 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
     # if df['gender'].loc[indexI] == df['gender'].loc[indexJ] and df['gender'].loc[indexI] != 'NONE' and df['semanticClass'].loc[indexI] == df['semanticClass'].loc[indexJ]:
     #     d += 5
 
-    d += 10 * ((lenWordi +lenWordj -2*matchWordCount)/float(max(lenWordj,lenWordi)))
 
-    if df['headNoun'].loc[indexI] != df['headNoun'].loc[indexJ]:
-        d += 1
-
-    d += 5 * (abs(df['position'].loc[indexI] - df['position'].loc[indexJ]) / (float(length -1)))
-
-    if df['pronounType'].loc[indexI] != df['pronounType'].loc[indexJ] and df['pronounType'].loc[indexI]:
-        d += r
-
-    if df['article'].loc[indexJ] == 'INDEF' and not isAppositive(wordI, wordJ, coreference):
-        d += r
-
-    if df['semanticClass'].loc[indexI] != df['semanticClass'].loc[indexJ]:
-        return sys.maxint
-
-    if df['gender'].loc[indexI] != df['gender'].loc[indexJ] and df['gender'].loc[indexI] != 'NONE' and df['gender'].loc[indexJ] != 'NONE':
-        return sys.maxint
-
-    if df['animacy'].loc[indexI] != df['animacy'].loc[indexJ]:
-        return sys.maxint
-
-    if df['properName'].loc[indexI] == df['properName'].loc[indexJ] and df['properName'].loc[indexJ] == 'YES' and len(set(wordList_j) & set(wordList_i)) == 0:
-        return sys.maxint
-
-    if df['number'].loc[indexI] != df['number'].loc[indexJ]:
-        return sys.maxint
+    #uncomment this later
+    # d += 10 * ((lenWordi +lenWordj -2*matchWordCount)/float(max(lenWordj,lenWordi)))
+    #
+    # if df['headNoun'].loc[indexI] != df['headNoun'].loc[indexJ]:
+    #     d += 1
+    #
+    # d += 5 * (abs(df['position'].loc[indexI] - df['position'].loc[indexJ]) / (float(length -1)))
+    #
+    # if df['pronounType'].loc[indexI] != df['pronounType'].loc[indexJ] and df['pronounType'].loc[indexI]:
+    #     d += r
+    #
+    # if df['article'].loc[indexJ] == 'INDEF' and not isAppositive(wordI, wordJ, coreference):
+    #     d += r
+    #
+    # if df['semanticClass'].loc[indexI] != df['semanticClass'].loc[indexJ]:
+    #     return sys.maxint
+    #
+    # if df['gender'].loc[indexI] != df['gender'].loc[indexJ] and df['gender'].loc[indexI] != 'NONE' and df['gender'].loc[indexJ] != 'NONE':
+    #     return sys.maxint
+    #
+    # if df['animacy'].loc[indexI] != df['animacy'].loc[indexJ]:
+    #     return sys.maxint
+    #
+    # if df['properName'].loc[indexI] == df['properName'].loc[indexJ] and df['properName'].loc[indexJ] == 'YES' and len(set(wordList_j) & set(wordList_i)) == 0:
+    #     return sys.maxint
+    #
+    # if df['number'].loc[indexI] != df['number'].loc[indexJ]:
+    #     return sys.maxint
     return d
 
 def makePronounSeperate(words, pronounList):
@@ -251,6 +256,7 @@ if __name__ == "__main__":
         for line in file:
             coreference.cleanData()
             coreference.inputFile = line.strip().replace('\n','')
+            print coreference.inputFile
             coreference.outputFile = responseDir + os.path.basename(coreference.inputFile).replace('.crf','.response')
             coreference.parseDocument()
             coreference.extractNERsentence()
@@ -274,9 +280,11 @@ if __name__ == "__main__":
             df['RefId'] = -1
 
             getCoreference(coreference, corefRadius)
-            # print df[100:240]
+            print df[1:100]
+            print df[100:240]
             columnReturnList = ['words','Id','RefId']
             slicedDF = df[columnReturnList]
+            # print slicedDF
             coreference.writeOutput(slicedDF)
             #print slicedDF
 
