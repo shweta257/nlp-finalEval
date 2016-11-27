@@ -340,7 +340,7 @@ class CoReferenceHandler():
             if t.label() == 'NP':
                 npchunk = str(t)
                 npchunk = npchunk.replace('(NP', '').replace(')', '')
-                print npchunk
+                # print npchunk
 
                 npchunk = npchunk.strip().split(' ')
                 npPhrase = ''

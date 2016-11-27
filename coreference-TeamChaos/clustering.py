@@ -48,7 +48,7 @@ class Cluster():
             for j in range(0, len(self.distanceMatrix[0])):
                 # print self.distanceMatrix[i][j], i ,j
                 if self.distanceMatrix[i][j] < 10 and i != j:
-                    self.newClusterList[i].append((j,self.distanceMatrix[i][j]))
+                    self.newClusterList[i].append((j,self.distanceMatrix[i][j], abs(i-j)))
 
     
 if __name__=="__main__":

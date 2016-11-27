@@ -82,6 +82,8 @@ def getCoreference(coreference, corefRadius):
 
 def isAppositive(np1, np2, coref, indexI, indexJ):
 
+    if(abs(indexJ-indexI) > 1):
+        return False
     ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
     if df['semanticClass'].loc[indexI] in ignoreSemanticClass or df['semanticClass'].loc[indexJ] in ignoreSemanticClass:
         return False
@@ -141,11 +143,16 @@ def distanceClusterProcessing(df,coreference, corefRadius):
     #                     df.loc[c, 'RefId'] = df.loc[c, 'Id']
     #                     currentid = df.loc[c, 'RefId']
     for cl in clusters:
-        print "Anaphora for " + df.loc[cl,'words'] + ":Mainid =" + df.loc[cl,'Id']
+        # print "Anaphora for " + df.loc[cl,'words'] + ":Mainid =" + df.loc[cl,'Id']
         if len(clusters[cl]) > 0:
             clusters[cl].sort(key=lambda x: x[1])
-            currentid = -1
-            df.loc[cl, 'RefId'] = df.loc[clusters[cl][0][0],'Id']
+            candidateRef = [i for i in clusters[cl] if i[1] == clusters[cl][0][1]]
+            candidateRef.sort(key=lambda x:x[2])
+            idofCandidate = df.loc[candidateRef[0][0],'Id']
+            # for each_obj in candidateRef:
+            #     if not str(df.loc[each_obj[0],'Id']).startswith('NEW'):
+            #         idofCandidate = df.loc[each_obj[0],'Id']
+            df.loc[cl, 'RefId'] = idofCandidate
 
             # for c in clusters[cl]:
             #
@@ -164,40 +171,64 @@ def distanceClusterProcessing(df,coreference, corefRadius):
                 #         df.loc[c, 'RefId'] = df.loc[c, 'Id']
                 #         currentid = df.loc[c, 'RefId']
 
-            print "/n"
-            print "/n"
-            print "/n"
+            # print "/n"
+            # print "/n"
+            # print "/n"
         else:
-            df.loc[cl, 'RefId'] = df.loc[cl, 'Id']
+            if cl > 1:
+                df.loc[cl, 'RefId'] = df.loc[cl-1, 'Id']
+            else:
+                df.loc[cl, 'RefId'] = df.loc[cl , 'Id']
 
     # #print clusters
 
 def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
+
+    if isAppositive(wordJ, wordI, coreference, indexI, indexJ):
+        print "appositive match for:" + wordJ +wordI
+        return 0
+
+
+    wordI = wordI.lower()
+    wordJ = wordJ.lower()
     d = sys.maxint
     demonym = demonynClassification.DemonymClassify()
     demonym.createDemonym()
 
+    commonWords = ['that','the', 'an', 'a', 'its', 'it', 'it\'s']
 
     wordList_i = wordI.strip().split()
     wordList_j = wordJ.strip().split()
 
     lenWordi = len(set(wordList_i))
     lenWordj = len(set(wordList_j))
-    matchWordCount  = len(set(wordList_i) & set(wordList_j))
+    mergeWordIJ = set(wordList_i) & set(wordList_j)
+    matchWordCount  = len(mergeWordIJ)
 
-    if isAppositive(wordJ, wordI, coreference, indexI, indexJ):
-        print "appositive match for:" + wordJ +wordI
-        return 0
+
+
+
 
     if wordI == wordJ:
+        if str(df.loc[indexJ,'Id']).startswith('NEW'):
+            return 2
         return 1
 
     if matchWordCount == min(lenWordj, lenWordi):
-        return 2
+        if len(mergeWordIJ - set(commonWords)) > 0:
+            if str(df.loc[indexJ,'Id']).startswith('NEW'):
+                return 3
+            return 2
 
+    for word in mergeWordIJ:
+        if word in commonWords:
+            matchWordCount -= 0.5
+    # no of mismatch words
+
+    penaltyformismatching = 0.05*(lenWordj+lenWordi -2*matchWordCount)
 
     if matchWordCount > 0:
-        return 10-matchWordCount;
+        return 10-matchWordCount + penaltyformismatching;
 
     if demonym.isDemonym(wordI, wordJ):
         return -1
