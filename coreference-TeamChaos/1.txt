@@ -1,3 +1,3089 @@
+tst1/a13.crf
+
+  nyt960327.0549/JJ
+  A0338/NNP
+  BC-AEROFLOT-FAMILIES-SUE/NNP
+  03-27/JJ
+  0292/CD
+  BC-/NN
+ -SUE-SCMP/NN
+ SUE/NNP OVER/NNP AREOFLOT/NNP CRASH/NNP DEATHS/NNP
+ PATRICIA/NNP YOUNG/NNP
+ South/NNP China/NNP Morning/NNP Post/NNP
+ a/DT writ/NN
+ loss/NN
+ damages/NNS
+ Hong/NNP Kong/NNP
+ seven/CD passengers/NNS
+ an/DT air/NN crash/NN
+ All/DT 75/CD people/NNS
+ board/NN the/DT Aeroflot/NNP Airbus/NNP
+ a/DT Siberian/JJ mountain/NN
+ March/NNP 1994/CD
+ Aeroflot/NNP general/JJ manager/NN
+ Hong/NNP Kong/NNP Vassili/NNP Tkatchenko/NNP
+ Tuesday/NNP
+ unaware/JJ
+ damages/NNS
+ interest/NN
+ costs/NNS
+ seven/CD passengers/NNS
+ who/WP
+ bound/NN
+ Novokuznetsk/NNP
+ Siberia/NNP
+ claims/NNS
+ negligence/NN
+ breach/NN
+ statutory/JJ duty/NN
+ breach/NN
+ contract/NN
+ the/DT part/NN
+ [/NN
+ ]/NN
+ Air/NNP industry/NN investigators/NNS
+ the/DT 15-year-old/JJ son/NN
+ Captain/NNP Yaroslav/NNP Kudrinsky/NNP
+ left/JJ Moscow/NNP
+ Black/NNP box/NN transcripts/NNS
+ Yana/NNP
+ Airline/JJ passengers/NNS
+ a/DT section/NN
+ the/DT Warsaw/NNP Convention/NNP
+ air/NN travel/NN
+ which/WDT
+ October/NNP 12/CD
+ 1929/CD
+ The/DT liability/NN
+ the/DT carrier/NN
+ death/NN
+ personal/JJ injury/NN
+ an/DT upper/JJ limit/NN
+ US/NNP $/$ 75,000/CD
+ larger/JJR amounts/NNS
+ the/DT courts/NNS
+ out-of-court/JJ settlements/NNS
+ Aviation/NNP consultant/NN Steve/NNP Miller/NNP
+ Trinity/NNP Aviation/NNP
+ unaware/NN
+ any/DT aviation/NN court/NN settlements/NNS
+ the/DT courts/NNS
+ unusual/JJ
+ Six/CD
+ the/DT claims/NNS
+ NYT-/NN
+ 1647EST/CD
+Anaphora for nyt960327.0549  A0338  BC-AEROFLOT-FAMILIES-SUE  03-27  0292  BC-:Mainid =NEW1
+Anaphora for AEROFLOT:Mainid =1
+Anaphora for FAMILIES:Mainid =2
+/n
+/n
+/n
+Anaphora for -SUE-SCMP:Mainid =NEW2
+Anaphora for FAMILIES:Mainid =3
+/n
+/n
+/n
+Anaphora for SUE OVER AREOFLOT CRASH DEATHS:Mainid =NEW3
+Anaphora for PATRICIA YOUNG:Mainid =NEW4
+Anaphora for South China Morning Post:Mainid =NEW5
+Anaphora for The Russian airline Aeroflot:Mainid =6
+/n
+/n
+/n
+Anaphora for a writ:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for loss:Mainid =NEW7
+Anaphora for damages:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for Hong Kong:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for the families:Mainid =7
+/n
+/n
+/n
+Anaphora for seven passengers:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for an air crash:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for All 75 people:Mainid =NEW12
+Anaphora for board the Aeroflot Airbus:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for it:Mainid =12
+/n
+/n
+/n
+Anaphora for a Siberian  mountain:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for March 1994:Mainid =NEW15
+Anaphora for Aeroflot general manager:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for Hong Kong Vassili Tkatchenko:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for Tuesday:Mainid =NEW18
+Anaphora for he:Mainid =15
+/n
+/n
+/n
+Anaphora for unaware:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for the writ:Mainid =16
+/n
+/n
+/n
+Anaphora for The writ:Mainid =17
+/n
+/n
+/n
+Anaphora for damages:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for interest:Mainid =NEW21
+Anaphora for costs:Mainid =NEW22
+Anaphora for seven passengers:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for the Moscow Airbus A310 flight:Mainid =19
+/n
+/n
+/n
+Anaphora for bound:Mainid =NEW25
+Anaphora for Hong Kong:Mainid =22
+/n
+/n
+/n
+Anaphora for Novokuznetsk:Mainid =NEW26
+Anaphora for Siberia:Mainid =NEW27
+Anaphora for It:Mainid =23
+Anaphora for claims:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for the deaths:Mainid =24
+/n
+/n
+/n
+Anaphora for negligence:Mainid =NEW29
+Anaphora for breach:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for statutory duty:Mainid =NEW31
+Anaphora for breach:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for contract:Mainid =NEW33
+Anaphora for the part:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for the defendant:Mainid =25
+/n
+/n
+/n
+Anaphora for Aeroflot:Mainid =26
+/n
+/n
+/n
+Anaphora for Air industry investigators:Mainid =NEW35
+Anaphora for the 15-year-old son:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for Captain Yaroslav Kudrinsky:Mainid =NEW37
+Anaphora for the Hong Kong-bound aircraft:Mainid =27
+/n
+/n
+/n
+Anaphora for it:Mainid =29
+/n
+/n
+/n
+Anaphora for left Moscow:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for Black box transcripts:Mainid =NEW39
+Anaphora for Eldar:Mainid =31
+Anaphora for Yana:Mainid =NEW40
+Anaphora for his
+13-year-old sister:Mainid =32
+Anaphora for Airline passengers:Mainid =NEW41
+/n
+/n
+/n
+Anaphora for a section:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for the Warsaw Convention:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for air travel:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW45
+Anaphora for October 12:Mainid =NEW46
+Anaphora for 1929:Mainid =NEW47
+Anaphora for The liability:Mainid =NEW48
+/n
+/n
+/n
+Anaphora for the carrier:Mainid =NEW49
+/n
+/n
+/n
+Anaphora for death:Mainid =NEW50
+Anaphora for personal injury:Mainid =NEW51
+Anaphora for passengers:Mainid =35
+/n
+/n
+/n
+Anaphora for an upper limit:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for US $75,000:Mainid =NEW53
+Anaphora for larger amounts:Mainid =NEW54
+Anaphora for the courts:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for out-of-court settlements:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for Aviation consultant Steve Miller:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for the managing director:Mainid =37
+/n
+/n
+/n
+Anaphora for Trinity Aviation:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for he:Mainid =38
+/n
+/n
+/n
+Anaphora for unaware:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for any aviation court settlements:Mainid =NEW60
+/n
+/n
+/n
+Anaphora for Hong Kong:Mainid =39
+/n
+/n
+/n
+Anaphora for it:Mainid =40
+/n
+/n
+/n
+Anaphora for the courts:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for unusual:Mainid =NEW62
+Anaphora for Hong Kong:Mainid =41
+/n
+/n
+/n
+Anaphora for Mr
+Miller:Mainid =42
+/n
+/n
+/n
+Anaphora for Six:Mainid =NEW63
+Anaphora for the claims:Mainid =NEW64
+/n
+/n
+/n
+Anaphora for the writs:Mainid =43
+/n
+/n
+/n
+Anaphora for family members who
+live outside Hong Kong:Mainid =44
+/n
+/n
+/n
+Anaphora for NYT-:Mainid =NEW65
+Anaphora for 03-27-96:Mainid =46
+Anaphora for 1647EST:Mainid =NEW66
+tst1/a14.crf
+
+  nyt960405.0560/JJ
+  A0222/NNP
+  BC-AIRLINE-LIABILITY-575/NNP
+  04-05/JJ
+  1094/CD
+  BC-/NN
+ -575/JJ @/NNP amp/NN
+ AMP/NNP
+
+  ADD-NYT/NNP
+  NEW/NNP
+  PRESSURES/NNP
+  ON/NNP
+  AIRLINE/NNP
+  CRASH-LIABILITY/NNP
+  ACCORD/NNP
+ lh/NN
+
+  MATTHEW/NNP
+  L./NNP
+  WALD/NNP
+  c.1996/NN
+  N.Y./NNP
+  Times/NNP
+  News/NNP
+  Service/NNP
+  WASHINGTON/NNP
+  @/NNP
+  amp/NN
+ MD/NNP
+ airlines/NNS
+ $/$ 75,000/CD limit/NN
+ damages/NNS
+ prospects/NNS
+ a/DT new/JJ agreement/NN
+ uncertain/JJ
+ the/DT U.S./NNP Department/NNP
+ Transportation/NNP
+ that/DT damage/NN suits/NNS
+ Americans/NNPS
+ the/DT United/NNP States/NNPS
+ Some/DT foreign/JJ airlines/NNS
+ that/DT demand/NN
+ This/DT
+ Efforts/NNS
+ 1977/CD
+ 1988/CD
+ several-fold/JJ and/CC
+ U.S./NNP officials/NNS
+ the/DT
+ Trial/NN lawyers/NNS
+ the/DT higher/JJR limits/NNS
+ low/JJ
+ aircraft/NN manufacturers/NNS
+ high/JJ limits/NNS
+ suits/NNS
+ The/DT amount/NN
+ time/NN
+ it/PRP taking/VBG
+ something/NN rational/NN
+ astonishing/JJ
+ Jeffrey/NNP N./NNP Shane/NNP
+ who/WP
+ assistant/JJ secretary/NN
+ transportation/NN
+ policy/NN
+ international/JJ affairs/NNS
+ 1989/CD
+ 1993/CD
+ 1934/CD
+ governs/NNS
+ who/WP
+ details/NNS cargo/NN rules/NNS
+ All/DT nations/NNS
+ commercial/JJ airlines/NNS
+ agree/NN
+ needs/NNS
+ a/DT lengthy/JJ trial/NN
+ which/WDT families/NNS
+ negligence/JJ @/NNP amp/NN
+ MD/NNP
+ which/WDT
+ higher/JJR damages/NNS
+ amp/NN
+ MD/NNP
+ general/JJ good/NN
+ the/DT limits/NNS
+ court/NN
+ American/NNP Airlines/NNPS
+ example/NN
+ families/NNS
+ the/DT people/NNS
+ who/WP
+ one/CD
+ planes/NNS
+ Colombia/NNP
+ December/NNP
+ the/DT same/JJ
+ the/DT 16/CD passengers/NNS
+ international/JJ trips/NNS
+ who/WP
+ the/DT American/JJ Eagle/NNP commuter/NN flight/NN
+ that/WDT
+ Roselawn/NNP
+ Ind./NNP
+ October/NNP 1994/CD
+ The/DT message/NN
+ what/WP
+ we/PRP
+ a/DT jury/NN
+ what/WP fairer/NN
+ Barry/NNP Lambert/NNP Harris/NNP
+ who/WP
+ a/DT realistic/JJ limit/NN
+ uniform/JJ system/NN
+ Representatives/NNS
+ the/DT world/NN
+ this/DT week/NN
+ Montreal/NNP
+ the/DT details/NNS
+ a/DT system/NN
+ no/DT limits/NNS
+ U.S./NNP airlines/NNS
+ an/DT antitrust/JJ exemption/NN
+ an/DT agreement/NN
+ which/WDT
+ subject/JJ
+ government/NN approval/NN
+ envision/NN
+ simple/JJ negotiations/NNS
+ economic/JJ damages/NNS
+ the/DT victim/NN
+ likely/JJ
+ the/DT remaining/VBG years/NNS
+ his/PRP$
+ her/PRP$ life/NN
+ normal/JJ life/NN expectancy/NN
+ The/DT sticking/VBG point/NN
+ which/WDT court/NN
+ disputes/NNS
+ suit/NN
+ the/DT country/NN
+ the/DT plane/NN
+ the/DT home/NN country/NN
+ the/DT airline/NN
+ a/DT country/NN
+ major/JJ operation/NN
+ the/DT country/NN
+ the/DT contract/NN
+ transportation/NN
+ The/DT
+ a/DT ``/`` fifth/JJ jurisdiction/NN
+ the/DT
+ overseas/JJ carriers/NNS
+ NYT-/NN
+ 2244EST/CD
+Anaphora for nyt960405.0560  A0222  BC-AIRLINE-LIABILITY-575  04-05  1094  BC-:Mainid =NEW1
+Anaphora for AIRLINE-LIABILITY:Mainid =2
+Anaphora for -575 @amp:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for AMP:Mainid =NEW3
+Anaphora for ADD-NYT  NEW  PRESSURES  ON  AIRLINE  CRASH-LIABILITY  ACCORD:Mainid =NEW4
+Anaphora for lh:Mainid =NEW5
+Anaphora for MATTHEW  L.  WALD  c.1996  N.Y.  Times  News  Service  WASHINGTON  @ amp:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for MD:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for The Warsaw Convention:Mainid =7
+/n
+/n
+/n
+Anaphora for the liability of an
+airline when passengers die in a plane crash:Mainid =8
+/n
+/n
+/n
+Anaphora for airlines:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for the accord:Mainid =11
+/n
+/n
+/n
+Anaphora for $75,000 limit:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for damages:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for prospects:Mainid =NEW11
+Anaphora for a new  agreement:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for uncertain:Mainid =NEW13
+Anaphora for the U.S. Department:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for Transportation:Mainid =NEW15
+Anaphora for the accord:Mainid =12
+/n
+/n
+/n
+Anaphora for that damage suits:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for Americans:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for the United States:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for Some foreign airlines:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for that demand:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for This:Mainid =NEW21
+Anaphora for the third effort:Mainid =13
+/n
+/n
+/n
+Anaphora for the $75,000 limit:Mainid =14
+/n
+/n
+/n
+Anaphora for Efforts:Mainid =NEW22
+Anaphora for 1977:Mainid =NEW23
+Anaphora for 1988:Mainid =NEW24
+Anaphora for the limit:Mainid =15
+/n
+/n
+/n
+Anaphora for several-fold and:Mainid =NEW25
+Anaphora for U.S. officials:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for United States:Mainid =17
+/n
+/n
+/n
+Anaphora for them:Mainid =18
+/n
+/n
+/n
+Anaphora for Trial lawyers:Mainid =NEW28
+Anaphora for the higher limits:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for low:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for aircraft manufacturers:Mainid =NEW31
+Anaphora for high limits:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for suits:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for them:Mainid =19
+/n
+/n
+/n
+Anaphora for The amount:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for time:Mainid =NEW35
+Anaphora for it taking:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for something rational:Mainid =NEW37
+Anaphora for astonishing:Mainid =NEW38
+Anaphora for Jeffrey N. Shane:Mainid =NEW39
+Anaphora for an aviation lawyer:Mainid =20
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for assistant secretary:Mainid =NEW41
+Anaphora for transportation:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for policy:Mainid =NEW43
+Anaphora for international affairs:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for 1989:Mainid =NEW45
+Anaphora for 1993:Mainid =NEW46
+Anaphora for The Warsaw Convention:Mainid =22
+/n
+/n
+/n
+Anaphora for United States:Mainid =23
+/n
+/n
+/n
+Anaphora for 1934:Mainid =NEW47
+Anaphora for governs:Mainid =NEW48
+Anaphora for who:Mainid =NEW49
+/n
+/n
+/n
+Anaphora for details cargo rules:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for All nations:Mainid =NEW51
+Anaphora for commercial airlines:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for the airlines:Mainid =24
+/n
+/n
+/n
+Anaphora for agree:Mainid =NEW53
+Anaphora for the document:Mainid =25
+/n
+/n
+/n
+Anaphora for needs:Mainid =NEW54
+Anaphora for the low liability limit:Mainid =26
+/n
+/n
+/n
+Anaphora for themselves:Mainid =27
+Anaphora for a lengthy  trial:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for which families:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for negligence @amp:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for MD:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for higher damages:Mainid =NEW60
+/n
+/n
+/n
+Anaphora for amp:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for MD:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for general good:Mainid =NEW63
+Anaphora for they:Mainid =28
+/n
+/n
+/n
+Anaphora for the limits:Mainid =NEW64
+/n
+/n
+/n
+Anaphora for court:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for American Airlines:Mainid =NEW66
+/n
+/n
+/n
+Anaphora for example:Mainid =NEW67
+Anaphora for families:Mainid =NEW68
+/n
+/n
+/n
+Anaphora for the people:Mainid =NEW69
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for one:Mainid =NEW71
+Anaphora for its:Mainid =29
+/n
+/n
+/n
+Anaphora for planes:Mainid =NEW72
+Anaphora for Colombia:Mainid =NEW73
+Anaphora for December:Mainid =NEW74
+Anaphora for it:Mainid =30
+/n
+/n
+/n
+Anaphora for the limit:Mainid =31
+/n
+/n
+/n
+Anaphora for it:Mainid =32
+/n
+/n
+/n
+Anaphora for the same:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for the 16 passengers:Mainid =NEW76
+/n
+/n
+/n
+Anaphora for international trips:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW78
+/n
+/n
+/n
+Anaphora for the American Eagle commuter flight:Mainid =NEW79
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW80
+/n
+/n
+/n
+Anaphora for Roselawn:Mainid =NEW81
+Anaphora for Ind.:Mainid =NEW82
+Anaphora for October 1994:Mainid =NEW83
+Anaphora for The message:Mainid =NEW84
+/n
+/n
+/n
+Anaphora for American:Mainid =33
+/n
+/n
+/n
+Anaphora for what:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for we:Mainid =NEW86
+Anaphora for a jury:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for what fairer:Mainid =NEW88
+/n
+/n
+/n
+Anaphora for Barry Lambert Harris:Mainid =NEW89
+Anaphora for who:Mainid =NEW90
+/n
+/n
+/n
+Anaphora for an acting administrator of the Federal Aviation
+Administration in the Bush administration:Mainid =34
+/n
+/n
+/n
+Anaphora for the airlines:Mainid =35
+/n
+/n
+/n
+Anaphora for a realistic  limit:Mainid =NEW91
+/n
+/n
+/n
+Anaphora for uniform system:Mainid =NEW92
+/n
+/n
+/n
+Anaphora for Representatives:Mainid =NEW93
+Anaphora for airlines:Mainid =36
+/n
+/n
+/n
+Anaphora for the world:Mainid =NEW94
+/n
+/n
+/n
+Anaphora for this week:Mainid =NEW95
+Anaphora for Montreal:Mainid =NEW96
+Anaphora for the details:Mainid =NEW97
+/n
+/n
+/n
+Anaphora for a system:Mainid =NEW98
+/n
+/n
+/n
+Anaphora for no limits:Mainid =NEW99
+/n
+/n
+/n
+Anaphora for U.S. airlines:Mainid =NEW100
+/n
+/n
+/n
+Anaphora for an antitrust exemption:Mainid =NEW101
+/n
+/n
+/n
+Anaphora for an agreement:Mainid =NEW102
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW103
+/n
+/n
+/n
+Anaphora for subject:Mainid =NEW104
+Anaphora for government approval:Mainid =NEW105
+Anaphora for The airlines:Mainid =38
+/n
+/n
+/n
+Anaphora for U.S. officials:Mainid =39
+/n
+/n
+/n
+Anaphora for envision:Mainid =NEW106
+Anaphora for simple negotiations:Mainid =NEW107
+/n
+/n
+/n
+Anaphora for families:Mainid =41
+/n
+/n
+/n
+Anaphora for economic damages:Mainid =NEW108
+/n
+/n
+/n
+Anaphora for the amount:Mainid =42
+/n
+/n
+/n
+Anaphora for the victim:Mainid =NEW109
+/n
+/n
+/n
+Anaphora for likely:Mainid =NEW110
+Anaphora for the remaining years:Mainid =NEW111
+/n
+/n
+/n
+Anaphora for his:Mainid =NEW112
+Anaphora for her life:Mainid =NEW113
+/n
+/n
+/n
+Anaphora for normal life expectancy:Mainid =NEW114
+/n
+/n
+/n
+Anaphora for The sticking point:Mainid =NEW115
+/n
+/n
+/n
+Anaphora for which court:Mainid =NEW116
+/n
+/n
+/n
+Anaphora for disputes:Mainid =NEW117
+Anaphora for negotiations:Mainid =47
+/n
+/n
+/n
+Anaphora for the current agreement:Mainid =48
+/n
+/n
+/n
+Anaphora for survivors:Mainid =49
+Anaphora for suit:Mainid =NEW118
+Anaphora for the country:Mainid =NEW119
+/n
+/n
+/n
+Anaphora for the plane:Mainid =NEW120
+/n
+/n
+/n
+Anaphora for the home country:Mainid =NEW121
+/n
+/n
+/n
+Anaphora for the airline:Mainid =NEW122
+/n
+/n
+/n
+Anaphora for a country:Mainid =NEW123
+/n
+/n
+/n
+Anaphora for the airline:Mainid =51
+/n
+/n
+/n
+Anaphora for its:Mainid =52
+/n
+/n
+/n
+Anaphora for major operation:Mainid =NEW124
+Anaphora for the country:Mainid =NEW125
+/n
+/n
+/n
+Anaphora for the contract:Mainid =NEW126
+/n
+/n
+/n
+Anaphora for transportation:Mainid =NEW127
+/n
+/n
+/n
+Anaphora for The:Mainid =NEW128
+/n
+/n
+/n
+Anaphora for United States:Mainid =53
+/n
+/n
+/n
+Anaphora for a   fifth jurisdiction:Mainid =NEW129
+/n
+/n
+/n
+Anaphora for Americans:Mainid =54
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW130
+/n
+/n
+/n
+Anaphora for United States:Mainid =55
+/n
+/n
+/n
+Anaphora for domestic carriers:Mainid =56
+/n
+/n
+/n
+Anaphora for here:Mainid =57
+/n
+/n
+/n
+Anaphora for they:Mainid =58
+/n
+/n
+/n
+Anaphora for here:Mainid =59
+/n
+/n
+/n
+Anaphora for the ``fifth jurisdiction:Mainid =60
+/n
+/n
+/n
+Anaphora for overseas carriers:Mainid =NEW131
+/n
+/n
+/n
+Anaphora for NYT-:Mainid =NEW132
+Anaphora for 04-05-96:Mainid =61
+Anaphora for 2244EST:Mainid =NEW133
+tst1/a15.crf
+ nyt960406.0216/JJ A0580/NNP BC-CRASH-BROWN-NYT/NNP @/NNP amp/NN
+ LR/NNP
+ 04-06/CD BC-/NN
+
+  -NYT/JJ
+  SOMBER/NNP
+  FAREWELL/NNP
+  IN/NNP
+  CROATIA/NNP
+  FOR/NNP
+  U.S./NNP
+  VICTIMS/NNP
+ th/NN
+
+  CHRIS/NNP
+  HEDGES/NNP
+  c.1996/NN
+  N.Y./NNP
+  Times/NNP
+  News/NNP
+  Service/NNP
+  DUBROVNIK/NNP
+ @/JJ amp/NN
+ MD/NNP
+ The/DT coffins/NNS
+ the/DT remains/NNS
+ a/DT plane/NN crash/NN Wednesday/NNP
+ two/CD C-17/JJ transport/NN planes/NNS
+ that/WDT
+ Dover/NNP Air/NNP Force/NNP Base/NNP
+ Delaware/NNP
+ Saturday/NNP morning/NN
+ Croatian/JJ and/CC American/JJ officials/NNS
+ 19/CD American/JJ
+ 19/CD Croatian/JJ honor/NN guards/NNS
+ the/DT last/JJ four/CD coffins/NNS
+ two/CD
+ the/DT American/JJ flag/NN
+ two/CD
+ the/DT Croatian/JJ flag/NN
+ the/DT tarmac/NN
+ Two/CD
+ those/DT
+ who/WP
+ the/DT crash/NN
+ President/NNP Franjo/NNP Tudjman/NNP
+ Croatia/NNP
+ who/WP
+ pain/NN
+ sorrow/NN
+ leave/NN
+ all/DT other/JJ senior/JJ U.S./NNP officials/NNS
+ behalf/NN
+ the/DT whole/NN
+ express/NN
+ sympathy/NN
+ the/DT families/NNS
+ those/DT
+ who/WP
+ memory/NN
+ a/DT high/JJ Croatian/JJ decoration/NN
+ a/DT brief/JJ euology/NN
+ the/DT American/JJ ambassador/NN
+ Croatia/NNP
+ Jesus/NNP
+ the/DT Sermon/NNP
+ the/DT Mount/NNP
+ the/DT peacemakers/NNS
+ our/PRP$ friends/NNS
+ colleagues/NNS
+ who/WP
+ a/DT mission/NN
+ peace/NN
+ The/DT Air/NNP Force/NNP T-43/NNP plane/NN
+ a/DT rocky/JJ hill/NN
+ St./NNP John/NNP
+ the/DT Baptist/NNP
+ Wednesday/NNP
+ heavy/JJ rain/NN
+ fog/NN
+ The/DT two/CD Croatians/NNPS
+ Brown/NNP
+ The/DT remaining/VBG bodies/NNS
+ many/JJ
+ forensic/JJ experts/NNS
+ the/DT
+ the/DT most/RBS fitting/JJ memorial/NN
+ peace/NN ``/``
+ a/DT reality/NN
+ the/DT ground/NN
+ a/DT
+ future/JJ
+ people/NNS
+ who/WP
+ the/DT last/JJ five/CD years/NNS
+ much/JJ
+ Americans/NNPS
+ Croats/NNPS
+ Bosnians/NNPS
+ the/DT ``/`` decent/JJ
+ honorable/JJ
+ ordinary/JJ lives/NNS
+ that/WDT
+ The/DT Roman/NNP Catholic/NNP archbishop/NN
+ Dubrovnik/NNP
+ A/DT bugler/NN
+ taps/NNS
+ the/DT runway/NN
+ a/DT clear/JJ sky/NN
+ the/DT 11-hour/JJ journey/NN
+ American/JJ investigators/NNS
+ the/DT
+ site/NN
+ a/DT debris-covered/JJ area/NN
+ orange/NN tape/NN
+ several/JJ pieces/NNS
+ wreckage/NN
+ tape/NN
+ The/DT
+ that/DT
+ the/DT causes/NNS
+ The/DT white/JJ tail/NN section/NN
+ A/DT long/JJ black/JJ burn/NN mark/NN
+ the/DT body/NN
+ lay/JJ part/NN
+ the/DT engine/NN
+ a/DT chunk/NN
+ the/DT fuselage/NN
+ NYT-/NN
+ 1541EST/CD
+appositive match for:CroatiaPeter W. Galbraith
+appositive match for:CroatiaPeter W. Galbraith
+appositive match for:CroatiaPeter W. Galbraith
+appositive match for:CroatiaPeter W. Galbraith
+Anaphora for nyt960406.0216 A0580 BC-CRASH-BROWN-NYT @amp:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for LR:Mainid =NEW2
+Anaphora for 04-06 BC-:Mainid =NEW3
+Anaphora for CRASH:Mainid =1
+Anaphora for BROWN:Mainid =2
+Anaphora for -NYT  SOMBER  FAREWELL  IN  CROATIA  FOR  U.S.  VICTIMS:Mainid =NEW4
+/n
+/n
+/n
+Anaphora for th:Mainid =NEW5
+Anaphora for CHRIS  HEDGES  c.1996  N.Y.  Times  News  Service  DUBROVNIK:Mainid =NEW6
+Anaphora for Croatia:Mainid =4
+/n
+/n
+/n
+Anaphora for @amp:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for MD:Mainid =NEW8
+Anaphora for The coffins:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for the remains:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for Commerce Secretary Ron Brown and 32 other Americans:Mainid =5
+/n
+/n
+/n
+Anaphora for a plane  crash Wednesday:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for two C-17 transport planes:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for Dover Air Force Base:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for Delaware:Mainid =NEW15
+Anaphora for a somber
+farewell ceremony:Mainid =10
+/n
+/n
+/n
+Anaphora for Dubrovnik:Mainid =11
+/n
+/n
+/n
+Anaphora for Saturday morning:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for Croatian and American officials:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for 19 American:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for 19 Croatian honor guards:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for the last four coffins:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for two:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for the American flag:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for two:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for the Croatian flag:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for the tarmac:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for Two:Mainid =NEW26
+Anaphora for those:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for the crash:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for Croatian
+citizens:Mainid =13
+/n
+/n
+/n
+Anaphora for President Franjo Tudjman:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for Croatia:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for the ceremony:Mainid =15
+/n
+/n
+/n
+Anaphora for his nation:Mainid =16
+Anaphora for pain:Mainid =NEW33
+Anaphora for sorrow:Mainid =NEW34
+Anaphora for Today:Mainid =18
+Anaphora for we:Mainid =19
+/n
+/n
+/n
+Anaphora for our:Mainid =20
+/n
+/n
+/n
+Anaphora for leave:Mainid =NEW35
+Anaphora for Ron Brown:Mainid =21
+/n
+/n
+/n
+Anaphora for all other senior U.S. officials:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for behalf:Mainid =NEW37
+Anaphora for the whole:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for Croatia:Mainid =23
+/n
+/n
+/n
+Anaphora for myself:Mainid =24
+Anaphora for I:Mainid =25
+Anaphora for express:Mainid =NEW39
+Anaphora for my:Mainid =26
+Anaphora for sympathy:Mainid =NEW40
+Anaphora for the families:Mainid =NEW41
+/n
+/n
+/n
+Anaphora for those:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for Tudjman:Mainid =28
+/n
+/n
+/n
+Anaphora for You:Mainid =29
+Anaphora for our:Mainid =30
+/n
+/n
+/n
+Anaphora for memory:Mainid =NEW44
+Anaphora for He:Mainid =31
+/n
+/n
+/n
+Anaphora for Brown:Mainid =32
+/n
+/n
+/n
+Anaphora for a high  Croatian decoration:Mainid =NEW45
+/n
+/n
+/n
+Anaphora for a brief  euology:Mainid =NEW46
+/n
+/n
+/n
+Anaphora for the American ambassador:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for Croatia:Mainid =NEW48
+/n
+/n
+/n
+Anaphora for Peter W. Galbraith:Mainid =34
+/n
+/n
+/n
+Anaphora for Saturday:Mainid =35
+/n
+/n
+/n
+Anaphora for Easter eve:Mainid =36
+Anaphora for Jesus:Mainid =NEW49
+Anaphora for the Sermon:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for the Mount:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for the ambassador:Mainid =37
+/n
+/n
+/n
+Anaphora for the peacemakers:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for they:Mainid =38
+Anaphora for the
+children of God:Mainid =39
+/n
+/n
+/n
+Anaphora for our friends:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for colleagues:Mainid =NEW54
+Anaphora for who:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for a mission:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for peace:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for The Air Force T-43 plane:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for a rocky  hill:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for St. John:Mainid =NEW60
+Anaphora for the Baptist:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for Wednesday:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for heavy rain:Mainid =NEW63
+Anaphora for fog:Mainid =NEW64
+Anaphora for The 35
+passengers on board:Mainid =45
+/n
+/n
+/n
+Anaphora for The two Croatians:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for Brown:Mainid =NEW66
+/n
+/n
+/n
+Anaphora for the only victims whose bodies
+have been identified:Mainid =48
+/n
+/n
+/n
+Anaphora for The remaining bodies:Mainid =NEW67
+/n
+/n
+/n
+Anaphora for many:Mainid =NEW68
+Anaphora for forensic experts:Mainid =NEW69
+Anaphora for the:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for United
+States:Mainid =49
+Anaphora for Galbraith:Mainid =50
+/n
+/n
+/n
+Anaphora for the most fitting memorial:Mainid =NEW71
+/n
+/n
+/n
+Anaphora for peace:Mainid =NEW72
+/n
+/n
+/n
+Anaphora for a reality:Mainid =NEW73
+/n
+/n
+/n
+Anaphora for the ground:Mainid =NEW74
+/n
+/n
+/n
+Anaphora for a:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for future:Mainid =NEW76
+Anaphora for people:Mainid =NEW77
+Anaphora for who:Mainid =NEW78
+/n
+/n
+/n
+Anaphora for the last five years:Mainid =NEW79
+/n
+/n
+/n
+Anaphora for much:Mainid =NEW80
+Anaphora for He:Mainid =52
+/n
+/n
+/n
+Anaphora for Americans:Mainid =NEW81
+/n
+/n
+/n
+Anaphora for Croats:Mainid =NEW82
+/n
+/n
+/n
+Anaphora for Bosnians:Mainid =NEW83
+Anaphora for the  decent:Mainid =NEW84
+/n
+/n
+/n
+Anaphora for honorable:Mainid =NEW85
+Anaphora for ordinary lives:Mainid =NEW86
+Anaphora for that:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for we
+Americans:Mainid =53
+/n
+/n
+/n
+Anaphora for The Roman Catholic archbishop:Mainid =NEW88
+/n
+/n
+/n
+Anaphora for Dubrovnik:Mainid =NEW89
+/n
+/n
+/n
+Anaphora for Zelimir Puljic:Mainid =55
+Anaphora for A bugler:Mainid =NEW90
+/n
+/n
+/n
+Anaphora for taps:Mainid =NEW91
+Anaphora for the
+planes:Mainid =56
+/n
+/n
+/n
+Anaphora for the runway:Mainid =NEW92
+/n
+/n
+/n
+Anaphora for a clear  sky:Mainid =NEW93
+/n
+/n
+/n
+Anaphora for the 11-hour journey:Mainid =NEW94
+/n
+/n
+/n
+Anaphora for American investigators:Mainid =NEW95
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW96
+/n
+/n
+/n
+Anaphora for crash:Mainid =57
+/n
+/n
+/n
+Anaphora for site:Mainid =NEW97
+Anaphora for Saturday:Mainid =58
+/n
+/n
+/n
+Anaphora for a debris-covered  area:Mainid =NEW98
+/n
+/n
+/n
+Anaphora for orange tape:Mainid =NEW99
+/n
+/n
+/n
+Anaphora for several pieces:Mainid =NEW100
+Anaphora for wreckage:Mainid =NEW101
+Anaphora for tape:Mainid =NEW102
+/n
+/n
+/n
+Anaphora for The:Mainid =NEW103
+/n
+/n
+/n
+Anaphora for investigating team:Mainid =59
+Anaphora for that:Mainid =NEW104
+/n
+/n
+/n
+Anaphora for the causes:Mainid =NEW105
+/n
+/n
+/n
+Anaphora for the
+accident:Mainid =60
+/n
+/n
+/n
+Anaphora for Dubrovnik:Mainid =61
+/n
+/n
+/n
+Anaphora for Saturday:Mainid =62
+/n
+/n
+/n
+Anaphora for The white tail section:Mainid =NEW106
+/n
+/n
+/n
+Anaphora for the plane:Mainid =63
+/n
+/n
+/n
+Anaphora for A long  black burn mark:Mainid =NEW107
+/n
+/n
+/n
+Anaphora for the body:Mainid =NEW108
+/n
+/n
+/n
+Anaphora for the aircraft:Mainid =64
+/n
+/n
+/n
+Anaphora for the steep, rocky hillside:Mainid =65
+/n
+/n
+/n
+Anaphora for lay part:Mainid =NEW109
+Anaphora for the engine:Mainid =NEW110
+/n
+/n
+/n
+Anaphora for a chunk:Mainid =NEW111
+/n
+/n
+/n
+Anaphora for the fuselage:Mainid =NEW112
+/n
+/n
+/n
+Anaphora for NYT-:Mainid =NEW113
+Anaphora for 04-06-96:Mainid =66
+Anaphora for 1541EST:Mainid =NEW114
+tst1/a16.crf
+
+  nyt960409.0732/JJ
+  A3781/NNP
+  BC-HK-AIRCRASH-CHINA-SCM/NNP
+  04-09/JJ
+  0270/CD
+  BC-HK-/NN
+ TWO/NNP DIE/NNP IN/NNP
+ c.1996/NN South/NNP China/NNP Morning/NNP Post/NNP
+ JONATHAN/NNP HILL/NNP
+ ADAM/NNP LEE/NNP
+ Macau/NNP
+ Tuesday/NNP
+ their/PRP$ helicopter/NN
+ The/DT China/NNP Southern/NNP Helicopter/NNP Company/NNP
+ way/NN
+ Zhuhai/NNP
+ an/DT oil/NN rig/NN
+ a/DT spokesman/NN
+ Hong/NNP Kong/NNP Civil/NNP Aviation/NNP Department/NNP
+ Other/JJ reports/NNS
+ Hong/NNP Kong/NNP airspace/NN
+ a/DT search/NN
+ Civil/NNP Aviation/NNP Department/NNP rescuers/NNS
+ Two/CD Government/NNP Flying/NNP Service/NNP helicopters/NNS
+ Marine/NNP Police/NNP
+ authorities/NNS later/RBR
+ Aeronautical/JJ Rescue/NNP Co-ordination/NNP Centre/NNP
+ the/DT wreckage/NN
+ the/DT Chinese/JJ island/NN
+ Someone/NN
+ heard/NN a/DT noise/NN
+ airport/NN authorities/NNS
+ a/DT
+ aviation/NN source/NN
+ a/DT helicopter/NN
+ authorities/NNS
+ who/WP
+ radar/NN contact/NN
+ 10/CD
+ the/DT site/NN
+ dead/JJ
+ officials/NNS
+ Sources/NNS
+ poor/JJ weather/NN
+ The/DT Royal/NNP Observatory/NNP
+ strong/JJ winds/NNS
+ the/DT area/NN
+ Rescuers/NNS
+ poor/JJ visibility/NN
+ NYT-/NN
+ 2213EDT/CD
+Anaphora for nyt960409.0732  A3781  BC-HK-AIRCRASH-CHINA-SCM  04-09  0270  BC-HK-:Mainid =NEW1
+Anaphora for AIRCRASH:Mainid =1
+Anaphora for CHINA:Mainid =2
+/n
+/n
+/n
+Anaphora for TWO DIE IN:Mainid =NEW2
+Anaphora for HELO CRASH:Mainid =40
+Anaphora for CHINA:Mainid =4
+/n
+/n
+/n
+Anaphora for c.1996 South China Morning Post:Mainid =NEW3
+/n
+/n
+/n
+Anaphora for JONATHAN HILL:Mainid =NEW4
+Anaphora for ADAM LEE:Mainid =NEW5
+Anaphora for Macau:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for Two Chinese crew members:Mainid =5
+/n
+/n
+/n
+Anaphora for Tuesday:Mainid =NEW7
+Anaphora for their helicopter:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for Macau:Mainid =8
+/n
+/n
+/n
+Anaphora for The China Southern Helicopter Company:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for aircraft:Mainid =9
+Anaphora for its:Mainid =10
+Anaphora for way:Mainid =NEW10
+Anaphora for Zhuhai:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for an oil rig:Mainid =NEW12
+Anaphora for it:Mainid =11
+Anaphora for a spokesman:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for Hong Kong Civil Aviation Department:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for Other reports:Mainid =NEW15
+Anaphora for the helicopter:Mainid =13
+/n
+/n
+/n
+Anaphora for The incident:Mainid =14
+/n
+/n
+/n
+Anaphora for Hong Kong airspace:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for a search:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for Civil Aviation Department rescuers:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for Two Government Flying Service helicopters:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for Macau:Mainid =16
+/n
+/n
+/n
+Anaphora for Marine Police:Mainid =NEW20
+Anaphora for the search:Mainid =17
+/n
+/n
+/n
+Anaphora for the Sikorsky 76:Mainid =18
+/n
+/n
+/n
+Anaphora for Mainland:Mainid =19
+Anaphora for authorities later:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for the department:Mainid =20
+/n
+/n
+/n
+Anaphora for Aeronautical Rescue Co-ordination Centre:Mainid =NEW22
+Anaphora for the wreckage:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for the Chinese island:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for Daiwaishan:Mainid =21
+Anaphora for Someone:Mainid =NEW25
+Anaphora for the island:Mainid =22
+/n
+/n
+/n
+Anaphora for heard a noise:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for Zhuhai:Mainid =23
+/n
+/n
+/n
+Anaphora for airport authorities:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for a:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for Macau:Mainid =24
+/n
+/n
+/n
+Anaphora for aviation source:Mainid =NEW29
+Anaphora for China:Mainid =25
+/n
+/n
+/n
+Anaphora for a helicopter:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for the crash:Mainid =26
+/n
+/n
+/n
+Anaphora for the island:Mainid =27
+/n
+/n
+/n
+Anaphora for Macau:Mainid =28
+/n
+/n
+/n
+Anaphora for authorities:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW32
+Anaphora for radar contact:Mainid =NEW33
+Anaphora for 10:Mainid =NEW34
+Anaphora for the
+pilots:Mainid =29
+/n
+/n
+/n
+Anaphora for the site:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for dead:Mainid =NEW36
+Anaphora for Zhuhai:Mainid =30
+/n
+/n
+/n
+Anaphora for officials:Mainid =NEW37
+Anaphora for the crew:Mainid =31
+/n
+/n
+/n
+Anaphora for Sources:Mainid =NEW38
+Anaphora for poor weather:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for the likely cause of the
+crash:Mainid =32
+/n
+/n
+/n
+Anaphora for The Royal Observatory:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for strong winds:Mainid =NEW41
+Anaphora for the area:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for the
+time:Mainid =34
+/n
+/n
+/n
+Anaphora for Rescuers:Mainid =NEW43
+Anaphora for poor visibility:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for China:Mainid =35
+/n
+/n
+/n
+Anaphora for the country of registration:Mainid =36
+/n
+/n
+/n
+Anaphora for the
+incident:Mainid =37
+/n
+/n
+/n
+Anaphora for Civil Aviation Department:Mainid =38
+/n
+/n
+/n
+Anaphora for NYT-:Mainid =NEW45
+Anaphora for 04-09-96:Mainid =39
+Anaphora for 2213EDT:Mainid =NEW46
+tst1/a17.crf
+ nyt960412.0309/JJ A7011/NNP BC-REID-/NNP
+ 04-12/JJ 0384/CD BC-/NN
+ -HNS/NN OTHER/NNP PILOTS/NNP REMEMBER/NNP
+ GEORGE/NNP RAINE/NNP
+ San/NNP Francisco/NNP Examiner/NNP HALF/NNP MOON/NNP BAY/NNP
+ Calif/NNP
+ 7-year-old/JJ Jessica/NNP Dubroff/NNP
+ her/PRP$ father/NN
+ Cheyenne/NNP
+ Wyo./NNP
+ the/DT same/JJ way/NN
+ anything/NN
+ passion/NN
+ attention/NN
+ detail/NN
+ I/PRP
+ leadership/NN
+ thoroughness/NN
+ Gary/NNP Petersen/NNP
+ Half/NNP Moon/NNP Bay/NNP Airport/NNP
+ capable/JJ
+ competent/NN
+ @/JJ amp/NN
+ MD/NNP
+ detailed/JJ
+ George/NNP Auld/NNP
+ who/WP
+ the/DT aircraft/NN
+ that/WDT
+ a/DT small/JJ plane/NN
+ 1970/CD
+ pilot/NN license/NN
+ the/DT late/JJ 1970s/NNS
+ four/CD years/NNS
+ They/PRP
+ other/JJ people/NNS
+ the/DT excitement/NN
+ the/DT type/NN
+ anything/NN half/DT way/NN
+ lessons/NNS
+ five/CD months/NNS
+ supportive/NN
+ effort/NN
+ the/DT youngest/JJS person/NN
+ a/DT round-trip/NN
+ cross-country/NN flight/NN
+ the/DT United/NNP States/NNPS
+ m/NN teaching/NN
+ anybody/NN
+ the/DT concepts/NNS
+ an/DT adult/NN
+ Forrest/NNP Storz/NNP
+ who/WP
+ lessons/NNS
+ the/DT airport/NN
+ community/NN and/CC
+ a/DT fourth/JJ term/NN
+ the/DT Coastside/NNP County/NNP Water/NNP District/NNP board/NN
+ He/PRP and/CC
+ his/PRP$ wife/NN
+ Ana/NNP
+ Our/PRP$ Lady/NN
+ the/DT Pillar/NNP Catholic/NNP Church/NNP
+ two/CD sons/NNS
+ Christopher/NNP
+ 27/CD
+ Occidental/NNP
+ Matthew/NNP
+ 23/CD
+ Half/NNP Moon/NNP Bay/NNP
+ NYT-/NN
+ 1145EDT/CD
+Anaphora for nyt960412.0309 A7011 BC-REID-:Mainid =NEW1
+Anaphora for FLIGHT-INSTRUCTO:Mainid =1
+Anaphora for 04-12 0384 BC-:Mainid =NEW2
+Anaphora for REID:Mainid =2
+/n
+/n
+/n
+Anaphora for FLIGHT-INSTRUCTOR:Mainid =3
+Anaphora for -HNS OTHER PILOTS REMEMBER:Mainid =NEW3
+Anaphora for JOE REID:Mainid =4
+/n
+/n
+/n
+Anaphora for GEORGE RAINE:Mainid =NEW4
+Anaphora for San Francisco Examiner HALF MOON BAY:Mainid =NEW5
+/n
+/n
+/n
+Anaphora for Calif:Mainid =NEW6
+Anaphora for Joe Reid:Mainid =6
+/n
+/n
+/n
+Anaphora for he:Mainid =53
+/n
+/n
+/n
+Anaphora for 7-year-old Jessica Dubroff:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for her father:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for Cheyenne:Mainid =NEW9
+Anaphora for Wyo.:Mainid =NEW10
+Anaphora for the same way:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for he:Mainid =10
+/n
+/n
+/n
+Anaphora for anything:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for passion:Mainid =NEW13
+Anaphora for attention:Mainid =NEW14
+Anaphora for detail:Mainid =NEW15
+Anaphora for I:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for his:Mainid =11
+/n
+/n
+/n
+Anaphora for leadership:Mainid =NEW17
+Anaphora for his:Mainid =12
+/n
+/n
+/n
+Anaphora for thoroughness:Mainid =NEW18
+Anaphora for Gary Petersen:Mainid =NEW19
+Anaphora for manager:Mainid =13
+Anaphora for Half Moon Bay Airport:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for He:Mainid =15
+/n
+/n
+/n
+Anaphora for capable:Mainid =NEW21
+Anaphora for competent:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for a real by-the-book guy:Mainid =16
+/n
+/n
+/n
+Anaphora for @amp:Mainid =NEW23
+Anaphora for MD:Mainid =NEW24
+Anaphora for detailed:Mainid =NEW25
+Anaphora for Reid:Mainid =17
+/n
+/n
+/n
+Anaphora for a broker at the Dean
+Witter Reynolds office in Palo Alto:Mainid =18
+/n
+/n
+/n
+Anaphora for president of the Half Moon
+Bay Pilots Association:Mainid =19
+/n
+/n
+/n
+Anaphora for George Auld:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for a longtime friend:Mainid =20
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for the aircraft:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW29
+Anaphora for he:Mainid =22
+/n
+/n
+/n
+Anaphora for Reid:Mainid =23
+/n
+/n
+/n
+Anaphora for a small  plane:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for 1970:Mainid =NEW31
+Anaphora for He:Mainid =24
+/n
+/n
+/n
+Anaphora for Reid:Mainid =25
+/n
+/n
+/n
+Anaphora for a Vietnam veteran:Mainid =26
+/n
+/n
+/n
+Anaphora for his:Mainid =27
+/n
+/n
+/n
+Anaphora for pilot license:Mainid =NEW32
+Anaphora for the late 1970s:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for an instructor:Mainid =28
+/n
+/n
+/n
+Anaphora for four years:Mainid =NEW34
+Anaphora for They:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for the plane:Mainid =29
+/n
+/n
+/n
+Anaphora for a 1975 single-engine Cessna 177B
+Cardinal:Mainid =30
+/n
+/n
+/n
+Anaphora for He:Mainid =31
+/n
+/n
+/n
+Anaphora for flying:Mainid =32
+/n
+/n
+/n
+Anaphora for other people:Mainid =NEW36
+Anaphora for the excitement:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for flying:Mainid =33
+/n
+/n
+/n
+Anaphora for Auld:Mainid =34
+/n
+/n
+/n
+Anaphora for Joe:Mainid =35
+/n
+/n
+/n
+Anaphora for the type:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for anything half way:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for Reid:Mainid =36
+/n
+/n
+/n
+Anaphora for lessons:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for Jessica:Mainid =37
+/n
+/n
+/n
+Anaphora for five months:Mainid =NEW41
+Anaphora for supportive:Mainid =NEW42
+Anaphora for her:Mainid =38
+/n
+/n
+/n
+Anaphora for effort:Mainid =NEW43
+Anaphora for the youngest person:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for a round-trip:Mainid =NEW45
+/n
+/n
+/n
+Anaphora for cross-country flight:Mainid =NEW46
+Anaphora for the United States:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for I:Mainid =39
+/n
+/n
+/n
+Anaphora for mteaching:Mainid =NEW48
+Anaphora for her:Mainid =40
+/n
+/n
+/n
+Anaphora for I:Mainid =41
+/n
+/n
+/n
+Anaphora for anybody:Mainid =NEW49
+Anaphora for he:Mainid =42
+/n
+/n
+/n
+Anaphora for she:Mainid =43
+Anaphora for the concepts:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for an adult:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for Forrest Storz:Mainid =NEW52
+Anaphora for who:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for flying:Mainid =44
+/n
+/n
+/n
+Anaphora for lessons:Mainid =NEW54
+/n
+/n
+/n
+Anaphora for the airport:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for Reid:Mainid =46
+/n
+/n
+/n
+Anaphora for ``an exceptional, competent pilot.:Mainid =47
+/n
+/n
+/n
+Anaphora for Reid:Mainid =48
+/n
+/n
+/n
+Anaphora for Half Moon Bay:Mainid =49
+/n
+/n
+/n
+Anaphora for community and:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for a fourth  term:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for the Coastside County Water District board:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for He:Mainid =50
+/n
+/n
+/n
+Anaphora for a member of the
+San Mateo County Airport Land Use Committee:Mainid =51
+/n
+/n
+/n
+Anaphora for chairman of the
+annual Half Moon Bay Fly-In and Air Show:Mainid =52
+/n
+/n
+/n
+Anaphora for He and:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for his wife:Mainid =NEW60
+/n
+/n
+/n
+Anaphora for Ana:Mainid =NEW61
+Anaphora for active parishioners:Mainid =57
+Anaphora for Our Lady:Mainid =NEW62
+Anaphora for the Pillar Catholic Church:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for They:Mainid =58
+/n
+/n
+/n
+Anaphora for two sons:Mainid =NEW64
+Anaphora for Christopher:Mainid =NEW65
+Anaphora for 27:Mainid =NEW66
+Anaphora for Occidental:Mainid =NEW67
+Anaphora for Matthew:Mainid =NEW68
+Anaphora for 23:Mainid =NEW69
+Anaphora for Half Moon Bay:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for NYT-:Mainid =NEW71
+Anaphora for 04-12-96:Mainid =62
+Anaphora for 1145EDT:Mainid =NEW72
+tst1/b11.crf
+
+  871112-0041./JJ
+  International/NNP
+  Corporate/NNP
+  Report/NNP
+  11/12/87/CD
+  WALL/NNP
+  STREET/NNP
+  JOURNAL/NNP
+ J/NNP
+ EUROP/NNP TENDER/NNP OFFERS/NNP
+ MERGERS/NNP
+ ACQUISITIONS/NNP
+ TNM/NNP
+ FINANCIAL/NNP
+ INSURANCE/NNP
+ MUTUAL/NNP FUNDS/NNP
+ ACCOUNTING/NNP
+ LEASING/NNP
+ FIN/NNP
+ INSURANCE/NNP
+ INS/NNP
+ BANKS/NNP
+ THRIFT/NNP INSTITUTIONS/NNP
+ BNK/NNP
+ BOND/NNP MARKET/NNP NEWS/NNP
+ BON/NNP
+ AUTOS/NNP
+ AUTO/NNP PARTS/NNP
+ AUT/NNP
+ BAYERISCHE/NNP MOTOREN/NNP WERKE/NNP AG/NNP
+ didnt/NNS
+ consolidated/JJ sales/NNS
+ earnings/NNS
+ a/DT rise/NN
+ group/NN sales/NNS
+ 19/CD billion/CD marks/NNS
+ 17.52/CD billion/CD marks/NNS
+ Moody/NNP Investors/NNP Service/NNP Inc./NNP
+ the/DT long-term/JJ debt/NN
+ DEN/NNP NORSKE/NNP CREDITBANK/NNP
+ review/NN
+ possible/JJ downgrading/NN
+ announcement/NN last/JJ Friday/NNP
+ trading/NN losses/NNS
+ more/JJR
+ 600/CD million/CD Norwegian/JJ kroner/NN
+ $/$ 94.3/CD million/CD
+ the/DT past/JJ month/NN
+ net/JJ income/NN
+ unauthorized/JJ dealing/NN
+ an/DT individual/JJ broker/NN
+ own/JJ portfolio/NN
+ DEUTSCHE/NNP GENOSSENSCHAFTS/NNP BANK/NNP
+ a/DT majority/NN stake/NN
+
+  the/DT
+  trade/NN
+  union-owned/JJ
+  insurance/NN
+  group/NN
+  VOLKSFUERSORGE/NNP
+ an/DT insurance/NN concern/NN
+ it/PRP
+ The/DT combination/NN
+
+  West/NNP
+  Germany/NNP
+  second-largest/JJ
+  retail-insurance/NN
+  concern/NN
+ A/DT spokesman/NN
+ the/DT trade-union/NN
+ company/NN
+ likely/JJ
+ more/JJR
+ 50/CD %/NN
+ LINDE/NNP AG/NNP
+ 6.7/CD %/NN
+ nine/CD months/NNS
+ 2.56/CD billion/CD West/JJ German/JJ marks/NNS
+ $/$ 1.54/CD billion/CD
+ 2.73/CD billion/CD marks/NNS
+ sales/NNS
+ much/JJ
+ 9/CD %/NN
+ the/DT result/NN
+ several/JJ large/JJ orders/NNS
+ the/DT fourth/JJ quarter/NN
+ earnings/NNS
+ likely/JJ
+ satisfactory/JJ
+ Chairman/NNP Hans/NNP Meinhardt/NNP
+ Analysts/NNS
+ domestic/JJ group/NN profit/NN
+ 106/CD million/CD marks/NNS
+ $/$ 63.7/CD million/CD
+ NATIONALE/NNP NEDERLANDEN/NNP N.V./NNP
+ a/DT definitive/JJ agreement/NN
+ the/DT next/JJ few/JJ weeks/NNS
+ MIDWESTERN/NNP UNITED/NNP LIFE/NNP INSURANCE/NNP CO./NNP
+ one/CD
+ its/PRP$ U.S./NNP subsidiaries/NNS
+ Ireland/NNP largest/JJS insurer/NN
+ the/DT operations/NNS
+ one/CD
+ other/JJ U.S./NNP units/NNS
+ hasnt/NNS
+ strategy/NN
+ North/JJ American/JJ presence/NN
+ expansion/NN
+ subsidiaries/NNS
+ new/JJ acquisitions/NNS
+appositive match for:Ireland largest insurerIRISH LIFE PLC.
+Anaphora for 871112-0041.  International  Corporate  Report  11  WALL  STREET  JOURNAL:Mainid =NEW1
+Anaphora for EUROP TENDER OFFERS:Mainid =NEW2
+Anaphora for MERGERS:Mainid =NEW3
+Anaphora for ACQUISITIONS:Mainid =NEW4
+Anaphora for TNM:Mainid =NEW5
+Anaphora for FINANCIAL:Mainid =NEW6
+Anaphora for INSURANCE:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for MUTUAL FUNDS:Mainid =NEW8
+Anaphora for ACCOUNTING:Mainid =NEW9
+Anaphora for LEASING:Mainid =NEW10
+Anaphora for FIN:Mainid =NEW11
+Anaphora for INSURANCE:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for INS:Mainid =NEW13
+Anaphora for BANKS:Mainid =NEW14
+Anaphora for THRIFT INSTITUTIONS:Mainid =NEW15
+Anaphora for BNK:Mainid =NEW16
+Anaphora for BOND MARKET NEWS:Mainid =NEW17
+Anaphora for BON:Mainid =NEW18
+Anaphora for AUTOS:Mainid =NEW19
+Anaphora for AUTO PARTS:Mainid =NEW20
+Anaphora for AUT:Mainid =NEW21
+Anaphora for BAYERISCHE MOTOREN WERKE AG:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for BMW:Mainid =1
+Anaphora for The auto maker:Mainid =2
+/n
+/n
+/n
+Anaphora for didnt:Mainid =NEW23
+Anaphora for consolidated sales:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for earnings:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for a rise:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for group sales:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for 19 billion marks:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for 1987:Mainid =3
+/n
+/n
+/n
+Anaphora for 17.52 billion marks:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for 1986:Mainid =4
+Anaphora for Moody Investors Service Inc.:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for the long-term debt:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for DEN NORSKE CREDITBANK:Mainid =NEW32
+Anaphora for review:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for possible downgrading:Mainid =NEW34
+Anaphora for the bank:Mainid =6
+/n
+/n
+/n
+Anaphora for announcement last Friday:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for it:Mainid =7
+/n
+/n
+/n
+Anaphora for trading losses:Mainid =NEW36
+Anaphora for more:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for 600 million Norwegian kroner:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for $94.3 million:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for the past month:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for 1987:Mainid =8
+/n
+/n
+/n
+Anaphora for net income:Mainid =NEW41
+Anaphora for unauthorized dealing:Mainid =NEW42
+Anaphora for an individual broker:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for the bank:Mainid =9
+/n
+/n
+/n
+Anaphora for own portfolio:Mainid =NEW44
+Anaphora for Moody:Mainid =10
+/n
+/n
+/n
+Anaphora for about $1.2 billion of debt:Mainid =13
+/n
+/n
+/n
+Anaphora for the review:Mainid =15
+/n
+/n
+/n
+Anaphora for DEUTSCHE GENOSSENSCHAFTS BANK:Mainid =NEW45
+Anaphora for it:Mainid =16
+/n
+/n
+/n
+Anaphora for a majority  stake:Mainid =NEW46
+/n
+/n
+/n
+Anaphora for the  trade  union-owned  insurance  group  VOLKSFUERSORGE:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for an insurance concern:Mainid =NEW48
+/n
+/n
+/n
+Anaphora for it:Mainid =NEW49
+/n
+/n
+/n
+Anaphora for The combination:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for Volksfuersorge:Mainid =20
+/n
+/n
+/n
+Anaphora for the insurance group R@amp;V ALLGEMEINE VERSICHERUNGS AG:Mainid =21
+/n
+/n
+/n
+Anaphora for West  Germany  second-largest  retail-insurance  concern:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for A spokesman:Mainid =NEW52
+Anaphora for the trade-union:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for company:Mainid =NEW54
+Anaphora for it:Mainid =24
+/n
+/n
+/n
+Anaphora for likely:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for more:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for 50 %:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for Volksfuersorge:Mainid =25
+/n
+/n
+/n
+Anaphora for LINDE AG:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for group sales:Mainid =26
+/n
+/n
+/n
+Anaphora for 6.7 %:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for 1987:Mainid =27
+/n
+/n
+/n
+Anaphora for nine months:Mainid =NEW60
+Anaphora for 2.56 billion West German marks:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for $1.54 billion:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for 2.73 billion marks:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for a year earlier:Mainid =28
+/n
+/n
+/n
+Anaphora for 1987:Mainid =29
+/n
+/n
+/n
+Anaphora for sales:Mainid =NEW64
+/n
+/n
+/n
+Anaphora for much:Mainid =NEW65
+Anaphora for 9%:Mainid =NEW66
+Anaphora for the result:Mainid =NEW67
+/n
+/n
+/n
+Anaphora for several large orders:Mainid =NEW68
+Anaphora for the fourth quarter:Mainid =NEW69
+/n
+/n
+/n
+Anaphora for The machinery maker:Mainid =30
+/n
+/n
+/n
+Anaphora for earnings:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for this year:Mainid =31
+/n
+/n
+/n
+Anaphora for likely:Mainid =NEW71
+/n
+/n
+/n
+Anaphora for satisfactory:Mainid =NEW72
+Anaphora for Chairman Hans Meinhardt:Mainid =NEW73
+Anaphora for Analysts:Mainid =NEW74
+Anaphora for domestic group profit:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for last year:Mainid =32
+/n
+/n
+/n
+Anaphora for 106 million marks:Mainid =NEW76
+/n
+/n
+/n
+Anaphora for $63.7 million:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for NATIONALE NEDERLANDEN N.V.:Mainid =NEW78
+Anaphora for it:Mainid =33
+/n
+/n
+/n
+Anaphora for a definitive  agreement:Mainid =NEW79
+/n
+/n
+/n
+Anaphora for the next few weeks:Mainid =NEW80
+/n
+/n
+/n
+Anaphora for MIDWESTERN UNITED LIFE INSURANCE CO.:Mainid =NEW81
+/n
+/n
+/n
+Anaphora for one:Mainid =NEW82
+/n
+/n
+/n
+Anaphora for its U.S. subsidiaries:Mainid =NEW83
+/n
+/n
+/n
+Anaphora for Ireland largest insurer:Mainid =NEW84
+Anaphora for IRISH LIFE PLC.:Mainid =36
+/n
+/n
+/n
+Anaphora for The Netherlands biggest insurance group:Mainid =37
+/n
+/n
+/n
+Anaphora for Midwestern United:Mainid =38
+Anaphora for the operations:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for one:Mainid =NEW86
+/n
+/n
+/n
+Anaphora for its:Mainid =39
+/n
+/n
+/n
+Anaphora for other U.S. units:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for the Dutch concern:Mainid =41
+/n
+/n
+/n
+Anaphora for hasnt:Mainid =NEW88
+Anaphora for its:Mainid =42
+/n
+/n
+/n
+Anaphora for strategy:Mainid =NEW89
+Anaphora for its:Mainid =43
+/n
+/n
+/n
+Anaphora for North American presence:Mainid =NEW90
+Anaphora for expansion:Mainid =NEW91
+Anaphora for subsidiaries:Mainid =NEW92
+/n
+/n
+/n
+Anaphora for new acquisitions:Mainid =NEW93
+tst1/b12.crf
+ 871125-0048./JJ Business/NNP Brief/NN
+
+  Communications/NNP
+  Satellite/NNP
+  Corp./NNP
+  11/25/87/CD
+  WALL/NNP
+  STREET/NNP
+  JOURNAL/NNP
+ J/NNP
+ CQ/NNP T/NNP TELECOMMUNICATIONS/NNP
+ BROADCASTING/NNP
+ TELEPHONE/NNP
+ TELEGRAPH/NNP
+ TEL/NNP
+ the/DT Federal/NNP Communications/NNPS Commission/NNP
+ a/DT proposal/NN
+ 50/CD %/NN rates/NNS
+ certain/JJ international/JJ telecommunication/NN services/NNS
+ exchange/NN
+ the/DT reductions/NNS
+ customers/NNS such/JJ
+ American/JJ Telephone/NNP @/NNP amp/NN
+ Telegraph/NNP Co./NNP
+ themselves/PRP
+ one/CD
+ two/CD new/JJ types/NNS
+ digital/NN satellite/NN services/NNS
+ a/DT 10-year/JJ period/NN
+ The/DT proposal/NN
+ part/NN
+ a/DT multi-year/JJ agreement/NN
+ that/DT guarantees/NNS
+ a/DT portion/NN
+ international/JJ business/NN
+ the/DT face/NN
+ competition/NN
+ fiber-optic/JJ cables/NNS
+ other/JJ customers/NNS
+ able/JJ
+ next/JJ year/NN
+ 1994/CD
+ much/JJ
+ 83/CD %/NN
+ a/DT customer/NN international/JJ circuits/NNS
+ allows/NNS telecommunications/NNS customers/NNS
+ satellite/JJ circuits/NNS
+ more/JJR
+ one/CD message/NN
+ a/DT time/NN
+Anaphora for 871125-0048. Business Brief:Mainid =NEW1
+Anaphora for Communications  Satellite  Corp.  11  WALL  STREET  JOURNAL:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for CQ TTELECOMMUNICATIONS:Mainid =NEW3
+Anaphora for BROADCASTING:Mainid =NEW4
+Anaphora for TELEPHONE:Mainid =NEW5
+Anaphora for TELEGRAPH:Mainid =NEW6
+Anaphora for TEL:Mainid =NEW7
+Anaphora for Communications Satellite Corp., Washington:Mainid =1
+/n
+/n
+/n
+Anaphora for it:Mainid =3
+Anaphora for the Federal Communications Commission:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for a proposal:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for 50 %rates:Mainid =NEW10
+Anaphora for certain international telecommunication services:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for exchange:Mainid =NEW12
+Anaphora for the reductions:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for customers such:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for American Telephone @amp:Mainid =NEW15
+Anaphora for Telegraph Co.:Mainid =NEW16
+Anaphora for themselves:Mainid =NEW17
+Anaphora for one:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for two new types:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for digital satellite services:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for a 10-year  period:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for Comsat:Mainid =4
+/n
+/n
+/n
+Anaphora for The proposal:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for part:Mainid =NEW23
+Anaphora for a multi-year  agreement:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for Comsat:Mainid =5
+/n
+/n
+/n
+Anaphora for AT@amp;T:Mainid =6
+/n
+/n
+/n
+Anaphora for that guarantees:Mainid =NEW25
+Anaphora for Comsat:Mainid =7
+/n
+/n
+/n
+Anaphora for a portion:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for the telephone company:Mainid =8
+/n
+/n
+/n
+Anaphora for international business:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for the face:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for competition:Mainid =NEW29
+Anaphora for fiber-optic cables:Mainid =NEW30
+Anaphora for Comsat:Mainid =9
+/n
+/n
+/n
+Anaphora for AT@amp;T:Mainid =10
+/n
+/n
+/n
+Anaphora for other customers:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for able:Mainid =NEW32
+Anaphora for the new digital service:Mainid =11
+/n
+/n
+/n
+Anaphora for next year:Mainid =NEW33
+Anaphora for 1994:Mainid =NEW34
+Anaphora for much:Mainid =NEW35
+Anaphora for 83 %:Mainid =NEW36
+Anaphora for a customer  international circuits:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for the price reductions:Mainid =12
+/n
+/n
+/n
+Anaphora for Digital service:Mainid =13
+/n
+/n
+/n
+Anaphora for allows telecommunications customers:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for satellite circuits:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for more:Mainid =NEW40
+Anaphora for one message:Mainid =NEW41
+/n
+/n
+/n
+Anaphora for a time:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for Comsat:Mainid =14
+/n
+/n
+/n
 tst1/b13.crf
  880111-0081/JJ Federal/NNP Mediators/NNP Expected/NNP
  Pan/NNP Am/NNP
@@ -82,6 +3168,8 @@ tst1/b13.crf
  ratification/NN
  didnt/NN
  action/NN
+appositive match for:William Genoesehead of the airline division of the International Brotherhood of Teamsters
+appositive match for:William T. Colemana Pan Am director and Washington attorney
 Anaphora for 880111-0081 Federal Mediators Expected:Mainid =NEW1
 Anaphora for Pan Am:Mainid =NEW2
 /n
@@ -136,9 +3224,6 @@ Anaphora for a 30-day  cooling:Mainid =NEW12
 Anaphora for period:Mainid =NEW13
 Anaphora for effect:Mainid =NEW14
 Anaphora for which:Mainid =NEW15
-/n
-/n
-/n
 Anaphora for the Teamsters:Mainid =6
 /n
 /n
@@ -464,9 +3549,6 @@ Anaphora for Mr. Genoese:Mainid =65
 /n
 /n
 Anaphora for said.:Mainid =NEW65
-/n
-/n
-/n
 Anaphora for We:Mainid =66
 /n
 /n
@@ -588,354 +3670,3096 @@ Anaphora for the union agreement with the company:Mainid =88
 /n
 /n
 /n
-                                                words       headNoun  \
-1                                              Pan Am             am   
-2            Teamsters From Contract Talks Teri Agins          agins   
-3                                           WSJ Staff          staff   
-4                         GOVMT PN LABOR AIR NEW YORK           york   
-5                        The National Mediation Board          board   
-6                                        Pan Am Corp.          corp.   
-7                                 its Teamsters union          union   
-8            their long-stalled contract negotiations   negotiations   
-9                                         The release        release   
-10                                         both sides          sides   
-11                                        arbitration    arbitration   
-12                                                one            one   
-13                                        the parties        parties   
-14                                  a 30-day  cooling        cooling   
-15                                             period         period   
-16                                             effect         effect   
-17                                              which          which   
-18                                      the Teamsters      teamsters   
-19                                               free           free   
-20                                    William Genoese        genoese   
-21  head of the airline division of the Internatio...      teamsters   
-22                                                 he             he   
-23                                                 he             he   
-24                                  heard late Friday         friday   
-25                          negotiator Walter Wallace        wallace   
-26                                          the board          board   
-27                                              plans          plans   
-28                                        the parties        parties   
-29                                       negotiations   negotiations   
-30                                     noon EST today          today   
-..                                                ...            ...   
-70                                      the past year           year   
-71                                      the coalition      coalition   
-72                                    a restructuring  restructuring   
-73                                             Pan Am             am   
-74                         a change in top management     management   
-75                                       Negotiations   negotiations   
-76                                 William T. Coleman        coleman   
-77          a Pan Am director and Washington attorney       attorney   
-78                                             Pan Am             am   
-79                                          directors      directors   
-80                                           tomorrow       tomorrow   
-81  the deadline set for the union wage-concession...      agreement   
-82                                                 It             it   
-83                                              clear          clear   
-84                                      the Teamsters      teamsters   
-85                                            release        release   
-86                                     that agreement      agreement   
-87                                      Last Saturday       saturday   
-88                                        Mr. Genoese        genoese   
-89                                                 he             he   
-90                                         a telegram       telegram   
-91                                        Mr. Coleman        coleman   
-92                                      the Teamsters      teamsters   
-93                                               plan           plan   
-94                       their talks with the company        company   
-95                                        Mr. Genoese        genoese   
-96                                                 he             he   
-97                                        a   cordial        cordial   
-98                                    initial meeting        meeting   
-99                          Mr. Coleman last Thursday       thursday   
+tst1/b14.crf
+ 880127-0073/JJ Rise/NNP
+ Labor/NNP Costs/NNP
+ Wage/NNP Agreements/NNP
+ 87/CD
+ Years/NNP Jeanne/NNP Saddler/NNP
+ WSJ/NNP Staff/NNP
+ LABOR/NNP ECO/NNP EMI/NNP WASHINGTON/NNP
+ Total/JJ compensation/NN costs/NNS
+ private/JJ industry/NN
+ pay/NN
+ benefits/NNS
+ 3.3/CD %/NN
+ a/DT 3.2/CD %/NN increase/NN
+ 1986/CD
+ The/DT increase/NN
+ smaller/JJR each/DT year/NN
+ 1981/CD
+ 9.8/CD %/NN
+ collective/JJ bargaining/NN agreements/NNS
+ last/JJ year/NN
+ an/DT average/JJ 2.2/CD %/NN wage/NN increase/NN
+ the/DT first/JJ year/NN
+ the/DT contract/NN
+ 2.1/CD %/NN
+ the/DT life/NN
+ the/DT pact/NN
+ The/DT industries/NNS
+ the/DT same/JJ percentage/NN pay/NN
+ they/PRP last/JJ
+ contract/NN accords/NNS
+ Officials/NNS
+ 1982/CD
+ current/JJ contract/NN settlements/NNS
+ lower/JJR average/NN wage/NN adjustments/NNS
+ the/DT bargaining/NN agreements/NNS
+ they/PRP
+ The/DT
+ agreements/NNS
+ higher/JJR
+ the/DT average/NN
+ rises/NNS
+ the/DT smallest/JJS increases/NNS
+ the/DT 20/CD years/NNS
+ the/DT statistics/NNS
+ dont/JJ
+ a/DT trend/NN
+ A/DT tighter/JJR labor/NN market/NN
+ the/DT services/NNS sector/NN
+ part/NN
+ the/DT reason/NN
+ the/DT compensation/NN increases/NNS
+ A/DT tighter/NN
+ market/NN
+ employees/NNS
+ higher/JJR pay/NN
+ benefits/NNS
+ its/PRP$ report/NN
+ major/JJ collective/JJ bargaining/NN agreements/NNS
+ the/DT average/JJ increase/NN
+ lump-sum/JJ payments/NNS
+ which/WDT
+ one-time/JJ payments/NNS
+ a/DT contract/NN ratification/NN
+ increases/NNS
+ arent/NN
+ arent/NN used/VBN
+ a/DT base/NN
+ future/JJ increases/NNS
+ half/NN
+ the/DT workers/NNS
+ big/JJ
+ contracts/NNS
+ Better-than-average/NN
+ settlements/NNS
+ construction/NN industry/NN workers/NNS
+ those/DT
+ the/DT Mid-Atlantic/JJ
+ Northeastern/JJ regions/NNS
+ responsible/JJ
+ the/DT narrowing/VBG trend/NN
+ pacts/NNS
+ 2.9/CD %/NN increases/NNS
+ the/DT first/JJ contract/NN year/NN
+ 3.1/CD %/NN
+ All/DT other/JJ industries/NNS
+ 1.9/CD %/NN
+ two/CD million/CD workers/NNS
+Anaphora for 880127-0073 Rise:Mainid =NEW1
+Anaphora for Labor Costs:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for Wage Agreements:Mainid =NEW3
+Anaphora for 87:Mainid =NEW4
+Anaphora for Years Jeanne Saddler:Mainid =NEW5
+Anaphora for WSJ Staff:Mainid =NEW6
+Anaphora for LABOR ECO EMI WASHINGTON:Mainid =NEW7
+Anaphora for The rise in labor costs and wage settlements:Mainid =5
+/n
+/n
+/n
+Anaphora for last year:Mainid =11
+/n
+/n
+/n
+Anaphora for Total compensation costs:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for private industry:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for pay:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for benefits:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for 3.3 %:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for last year:Mainid =13
+/n
+/n
+/n
+Anaphora for a 3.2  %increase:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for 1986:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for the department:Mainid =14
+/n
+/n
+/n
+Anaphora for The increase:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for these costs:Mainid =15
+/n
+/n
+/n
+Anaphora for smaller each year:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for 1981:Mainid =NEW17
+Anaphora for they:Mainid =16
+/n
+/n
+/n
+Anaphora for 9.8 %:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for the same as in 1980:Mainid =17
+/n
+/n
+/n
+Anaphora for collective bargaining agreements:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for last year:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for an average 2.2 %wage increase:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for the first year:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for the contract:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for 2.1 %:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for the life:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for the pact:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for The industries:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for the same percentage pay:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for they last:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for contract accords:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for the department:Mainid =26
+/n
+/n
+/n
+Anaphora for Officials:Mainid =NEW31
+Anaphora for it:Mainid =27
+Anaphora for the first time:Mainid =28
+/n
+/n
+/n
+Anaphora for 1982:Mainid =NEW32
+Anaphora for current contract settlements:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for lower average wage adjustments:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for the bargaining agreements:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for they:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for The:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for wage:Mainid =34
+/n
+/n
+/n
+Anaphora for agreements:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for last year:Mainid =35
+/n
+/n
+/n
+Anaphora for higher:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for the average:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for pay:Mainid =36
+/n
+/n
+/n
+Anaphora for rises:Mainid =NEW41
+Anaphora for 1986:Mainid =37
+/n
+/n
+/n
+Anaphora for the life of the settlements:Mainid =40
+/n
+/n
+/n
+Anaphora for the smallest increases:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for the 20 years:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for the Labor Department:Mainid =43
+/n
+/n
+/n
+Anaphora for the statistics:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for Department officials:Mainid =44
+/n
+/n
+/n
+Anaphora for this year higher wage increases:Mainid =46
+/n
+/n
+/n
+Anaphora for dont:Mainid =NEW45
+Anaphora for a trend:Mainid =NEW46
+/n
+/n
+/n
+Anaphora for A tighter  labor market:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for the services sector:Mainid =NEW48
+/n
+/n
+/n
+Anaphora for part:Mainid =NEW49
+Anaphora for the reason:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for the compensation increases:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for officials:Mainid =50
+/n
+/n
+/n
+Anaphora for A tighter:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for labor:Mainid =51
+/n
+/n
+/n
+Anaphora for market:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for employees:Mainid =NEW54
+Anaphora for higher pay:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for benefits:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for its report:Mainid =NEW57
+Anaphora for major collective bargaining agreements:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for the department:Mainid =53
+/n
+/n
+/n
+Anaphora for the average increase:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for lump-sum payments:Mainid =NEW60
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW61
+Anaphora for one-time payments:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for a contract  ratification:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for The payments:Mainid =56
+/n
+/n
+/n
+Anaphora for wage:Mainid =57
+/n
+/n
+/n
+Anaphora for increases:Mainid =NEW64
+/n
+/n
+/n
+Anaphora for they:Mainid =58
+/n
+/n
+/n
+Anaphora for arent:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for wages:Mainid =59
+Anaphora for arent used:Mainid =NEW66
+/n
+/n
+/n
+Anaphora for a base:Mainid =NEW67
+/n
+/n
+/n
+Anaphora for future increases:Mainid =NEW68
+/n
+/n
+/n
+Anaphora for half:Mainid =NEW69
+Anaphora for the workers:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for big:Mainid =NEW71
+Anaphora for labor:Mainid =60
+/n
+/n
+/n
+Anaphora for contracts:Mainid =NEW72
+Anaphora for last year:Mainid =61
+/n
+/n
+/n
+Anaphora for these payments:Mainid =62
+/n
+/n
+/n
+Anaphora for Better-than-average:Mainid =NEW73
+Anaphora for wage:Mainid =63
+/n
+/n
+/n
+Anaphora for settlements:Mainid =NEW74
+/n
+/n
+/n
+Anaphora for construction industry workers:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for those:Mainid =NEW76
+Anaphora for the Mid-Atlantic:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for Northeastern regions:Mainid =NEW78
+Anaphora for responsible:Mainid =NEW79
+Anaphora for the narrowing trend:Mainid =NEW80
+/n
+/n
+/n
+Anaphora for Construction:Mainid =64
+Anaphora for pacts:Mainid =NEW81
+Anaphora for 1987:Mainid =65
+Anaphora for 2.9 %increases:Mainid =NEW82
+Anaphora for the first contract year:Mainid =NEW83
+/n
+/n
+/n
+Anaphora for 3.1 %:Mainid =NEW84
+/n
+/n
+/n
+Anaphora for All other industries:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for last year:Mainid =68
+/n
+/n
+/n
+Anaphora for the first contract year:Mainid =69
+/n
+/n
+/n
+Anaphora for 1.9 %:Mainid =NEW86
+/n
+/n
+/n
+Anaphora for two million workers:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for agreements reached last year:Mainid =71
+/n
+/n
+/n
+tst1/b15.crf
 
-    position semanticClass     Id  RefId pronounType article appositive  \
-1          2       COMPANY   NEW2     17       False    NONE         NO   
-2          3       COMPANY   NEW3      2       False    NONE         NO   
-3          4       COMPANY   NEW4   NEW4       False    NONE         NO   
-4          5       COMPANY   NEW5   NEW5       False    NONE         NO   
-5          6       COMPANY   NEW6     18       False    NONE         NO   
-6          7       COMPANY      1   NEW2       False    NONE         NO   
-7          8       COMPANY      2     21       False    NONE         NO   
-8          9       OBJECTS     77     13       False    NONE         NO   
-9         10       OBJECTS   NEW7  NEW51       False    NONE         NO   
-10        11       OBJECTS   NEW8     15       False    NONE         NO   
-11        12       OBJECTS   NEW9     16       False    NONE         NO   
-12        13        NUMBER  NEW10  NEW62       False    NONE         NO   
-13        14       OBJECTS  NEW11     12       False     DEF         NO   
-14        15          TIME  NEW12  NEW27       False   INDEF         NO   
-15        16       OBJECTS  NEW13  NEW13       False    NONE         NO   
-16        17       OBJECTS  NEW14  NEW14       False    NONE         NO   
-17        18       OBJECTS  NEW15     73        True    NONE         NO   
-18        19       COMPANY      6     46       False     DEF         NO   
-19        20       OBJECTS  NEW16  NEW16       False    NONE         NO   
-20        21         HUMAN  NEW17  NEW46       False    NONE         NO   
-21        22       COMPANY      7  NEW17       False     DEF         NO   
-22        23       OBJECTS      9  NEW17        True    NONE         NO   
-23        24       OBJECTS     10  NEW17        True    NONE         NO   
-24        25          TIME  NEW18  NEW23       False    NONE         NO   
-25        26         HUMAN  NEW19  NEW19       False    NONE         NO   
-26        27       OBJECTS     11     22       False     DEF         NO   
-27        28       OBJECTS  NEW20  NEW20       False    NONE         NO   
-28        29       OBJECTS     12  NEW11       False     DEF         NO   
-29        30       OBJECTS     13     77       False    NONE         NO   
-30        31       OBJECTS  NEW21     81       False    NONE         NO   
-..       ...           ...    ...    ...         ...     ...        ...   
-70        71          TIME  NEW43  NEW11       False     DEF         NO   
-71        72       OBJECTS     35  NEW43       False     DEF         NO   
-72        73       OBJECTS  NEW44  NEW12       False   INDEF         NO   
-73        74       COMPANY     36   NEW2       False    NONE         NO   
-74        75       OBJECTS     37  NEW12       False   INDEF         NO   
-75        76       OBJECTS  NEW45  NEW45       False    NONE         NO   
-76        77         HUMAN  NEW46  NEW17       False    NONE         NO   
-77        78       COMPANY     39  NEW46       False   INDEF         NO   
-78        79       COMPANY     42   NEW2       False    NONE         NO   
-79        80       OBJECTS  NEW47  NEW47       False    NONE         NO   
-80        81          TIME  NEW48  NEW48       False    NONE         NO   
-81        82       OBJECTS     43  NEW48       False     DEF         NO   
-82        83       OBJECTS  NEW49  NEW49        True    NONE         NO   
-83        84       OBJECTS  NEW50  NEW42       False    NONE         NO   
-84        85       COMPANY     46      6       False     DEF         NO   
-85        86       OBJECTS  NEW51   NEW7       False    NONE         NO   
-86        87       OBJECTS     47     29       False    NONE         NO   
-87        88          TIME  NEW52  NEW52       False    NONE         NO   
-88        89         HUMAN     48  NEW52       False    NONE         NO   
-89        90       OBJECTS     49  NEW17        True    NONE         NO   
-90        91       OBJECTS  NEW53  NEW12       False   INDEF         NO   
-91        92         HUMAN  NEW54     59       False    NONE         NO   
-92        93       COMPANY     51      6       False     DEF         NO   
-93        94       OBJECTS  NEW55  NEW55       False    NONE         NO   
-94        95       OBJECTS     52     19       False     DEF         NO   
-95        96         HUMAN     55  NEW52       False    NONE         NO   
-96        97       OBJECTS     56  NEW17        True    NONE         NO   
-97        98       OBJECTS  NEW56  NEW12       False   INDEF         NO   
-98        99       OBJECTS  NEW57     58       False    NONE         NO   
-99       100         HUMAN  NEW58  NEW54       False    NONE         NO   
+  880311-0130/JJ
+  Northwest/NNP
+  Attendants/NNPS
+  Snub/NNP
+  Airline/NNP
+  Contract/NNP
+  Changes/NNP
+  NWA/NNP
+  LABOR/NNP
+  AIR/NNP
+  ST./NNP
+  PAUL/NNP
+ Minn/NNP
+ new/JJ wage/NN
+ work/NN rules/NNS
+ unacceptable/JJ
+ a/DT strike/NN threat/NN
+ a/DT yearlong/JJ stalemate/NN
+ Wednesday/NNP
+ it/PRP
+ new/JJ contract/NN terms/NNS
+ April/NNP 1/CD
+ leaders/NNS
+ a/DT
+ a/DT statement/NN
+ passengers/NNS
+ reservations/NNS
+ the/DT Easter/NNP
+ other/JJ arrangements/NNS
+ The/DT Teamsters/NNPS
+ guarantees/NNS
+ the/DT other/JJ unions/NNS
+ a/DT
+ An/DT Air/NNP Line/NNP Pilots/NNP Association/NNP spokesman/NN
+ havent/NN
+ A/DT spokesman/NN
+ the/DT machinists/NNS
+ A/DT Northwest/NNP spokesman/NN
+ management/NN
+ disappointed/JJ
+ threat/NN
+ service./NN ``/``
+ didnt/NN
+ the/DT imposed/VBN
+ contract/NN
+ policy/NN
+ bargaining/NN table/NN
+ something/NN better/RBR
+ board/NN
+ Chairman/NNP Steven/NNP G./NNP Rothmeier/NNP
+ competent/JJ management/NN
+Anaphora for 880311-0130  Northwest  Attendants  Snub  Airline  Contract  Changes  NWA  LABOR  AIR  ST.  PAUL:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for Minn:Mainid =NEW2
+Anaphora for The Northwest Airlines flight attendants union:Mainid =4
+/n
+/n
+/n
+Anaphora for new wage:Mainid =NEW3
+/n
+/n
+/n
+Anaphora for work rules:Mainid =NEW4
+Anaphora for the NWA Inc. unit:Mainid =7
+/n
+/n
+/n
+Anaphora for unacceptable:Mainid =NEW5
+Anaphora for a strike  threat:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for a yearlong  stalemate:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for the union:Mainid =9
+/n
+/n
+/n
+Anaphora for Northwest:Mainid =10
+/n
+/n
+/n
+Anaphora for Wednesday:Mainid =NEW8
+Anaphora for it:Mainid =NEW9
+Anaphora for new contract terms:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for the attendants:Mainid =11
+/n
+/n
+/n
+Anaphora for April 1:Mainid =NEW11
+Anaphora for Union:Mainid =12
+Anaphora for leaders:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for Northwest:Mainid =13
+/n
+/n
+/n
+Anaphora for a:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for strike:Mainid =14
+/n
+/n
+/n
+Anaphora for a statement:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for passengers:Mainid =NEW15
+Anaphora for reservations:Mainid =NEW16
+Anaphora for Northwest:Mainid =15
+/n
+/n
+/n
+Anaphora for the Easter:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for other arrangements:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for The union:Mainid =16
+/n
+/n
+/n
+Anaphora for a Teamsters chapter:Mainid =17
+/n
+/n
+/n
+Anaphora for The Teamsters:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for guarantees:Mainid =NEW20
+Anaphora for the other unions:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for a:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for walkout:Mainid =24
+Anaphora for An Air Line Pilots Association spokesman:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for union leaders:Mainid =25
+/n
+/n
+/n
+Anaphora for havent:Mainid =NEW24
+Anaphora for the meeting:Mainid =26
+/n
+/n
+/n
+Anaphora for A spokesman:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for the machinists:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for Northwest largest union:Mainid =28
+/n
+/n
+/n
+Anaphora for A Northwest  spokesman:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for management:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for disappointed:Mainid =NEW29
+Anaphora for the union:Mainid =31
+/n
+/n
+/n
+Anaphora for threat:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for holiday:Mainid =32
+Anaphora for service.:Mainid =NEW31
+Anaphora for We:Mainid =33
+Anaphora for they:Mainid =34
+/n
+/n
+/n
+Anaphora for didnt:Mainid =NEW32
+Anaphora for the imposed:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for contract:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for policy:Mainid =NEW35
+Anaphora for they:Mainid =35
+/n
+/n
+/n
+Anaphora for bargaining table:Mainid =NEW36
+Anaphora for something better:Mainid =NEW37
+Anaphora for themselves:Mainid =36
+Anaphora for he:Mainid =37
+Anaphora for The attendants union:Mainid =38
+/n
+/n
+/n
+Anaphora for the company:Mainid =40
+/n
+/n
+/n
+Anaphora for board:Mainid =NEW38
+Anaphora for Chairman Steven G. Rothmeier:Mainid =NEW39
+Anaphora for competent management:Mainid =NEW40
+/n
+/n
+/n
+tst1/b16.crf
+ 880316-0101/JJ Chrysler/NNP
+ Create/NNP Grievance/NNP Process/NNP
+ Non-Union/NNP Staff/NNP Jacob/NNP M./NNP Schlesinger/NNP
+ WSJ/NNP Staff/NNP
+ C/NNP LABOR/NNP AUT/NNP ROCHESTER/NNP
+ Mich/NNP
+ this/DT year/NN
+ the/DT
+ unusual/JJ step/NN
+ its/PRP$ non-union/JJ white-collar/JJ employees./NN
+ understand/NN
+ that/WDT
+ dramatic/JJ restructuring/NN
+ many/JJ employees/NNS
+ management/NN decisions/NNS
+ actions/NNS
+ Anthony/NNP P./NNP St./NNP John/NNP
+ the/DT auto/NN maker/NN Chrysler/NNP Motors/NNP subsidiary/NN
+ a/DT speech/NN
+ Oakland/NNP University/NNP
+ yesterday/NN
+ Employees/NNS
+ credibility/NN
+ similar/JJ
+ a/DT traditional/JJ union/NN grievance/NN procedure/NN
+ the/DT first/JJ time/NN
+ discipline/NN
+ discharge/NN
+ employment/NN opportunity/NN disputes/NNS
+ several/JJ steps/NNS
+ final/JJ arbitration/NN
+ a/DT neutral/JJ third/JJ party/NN
+ Chrysler/NNP move/NN
+ the/DT turmoil/NN
+ current/JJ cost-cutting/NN
+ restructuring/NN
+ forces/NNS
+ which/WDT
+ many/JJ industrial/JJ companies/NNS
+ changing/JJ wage/NN
+ benefit/NN plans/NNS
+ white-collar/JJ rolls/NNS
+ the/DT wake/NN
+ acquisition/NN last/JJ year/NN
+ American/NNP Motors/NNP Corp/NNP
+ 6,000/CD salaried/JJ workers/NNS
+ the/DT United/NNP Auto/NNP Workers/NNP union/NN
+ Some/DT analysts/NNS
+ further/DT union/NN
+ Several/JJ management/NN consultants/NNS
+ common/JJ
+ government/NN employees/NNS
+ such/JJ
+ non-union/JJ employees/NNS
+ a/DT major/JJ private/JJ company./NN
+ the/DT potential/NN
+ supervisory/NN
+ management/NN responsibility/NN
+ authority/NN
+ Jerrold/NNP Bratkovich/NNP
+ the/DT Los/NNP Angeles/NNP office/NN
+ the/DT Hay/NNP Group/NNP
+ a/DT management/NN consulting/NN firm/NN
+ That/DT one/CD
+ the/DT main/JJ reasons/NNS employers/NNS
+ unionization/NN
+ A/DT Chrysler/NNP spokesman/NN
+ a/DT couple/NN
+ other/JJ companies/NNS
+ that/WDT
+ couldnt/NN recall/NN
+ which/WDT companies/NNS
+ A/DT more/RBR common/JJ business/NN approach/NN
+ the/DT ``/`` open-door/JJ
+ policy/NN such/JJ
+ that/DT
+ International/NNP Business/NNP Machines/NNPS Corp./NNP
+ any/DT employee/NN
+ who/WP
+ a/DT problem/NN
+ which/WDT
+ satisfaction/NN
+ the/DT complaint/NN
+ the/DT attention/NN
+ higher/JJR management/NN
+ an/DT IBM/NNP spokesman/NN
+ the/DT employee/NN
+ the/DT problem/NN
+ the/DT
+ chief/JJ executive/NN officer/NN
+ later/RBR this/DT year/NN
+ The/DT details/NNS havent/NN
+ a/DT slide/NN
+ presentation/NN
+ all/DT ``/`` professional/JJ
+ administrative/JJ
+ management/NN
+ executive/NN employees/NNS
+ -represented/JJ workers/NNS
+Anaphora for 880316-0101 Chrysler:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for Create Grievance Process:Mainid =NEW2
+Anaphora for Non-Union Staff Jacob M. Schlesinger:Mainid =NEW3
+/n
+/n
+/n
+Anaphora for WSJ Staff:Mainid =NEW4
+/n
+/n
+/n
+Anaphora for CLABOR AUT ROCHESTER:Mainid =NEW5
+Anaphora for Mich:Mainid =NEW6
+Anaphora for Chrysler Corp.:Mainid =2
+/n
+/n
+/n
+Anaphora for this year:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for unusual step:Mainid =NEW9
+Anaphora for a formal grievance procedure:Mainid =3
+/n
+/n
+/n
+Anaphora for its non-union white-collar employees.:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for We:Mainid =6
+Anaphora for understand:Mainid =NEW11
+Anaphora for that:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for Chrysler:Mainid =7
+/n
+/n
+/n
+Anaphora for dramatic restructuring:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for many employees:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for management decisions:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for actions:Mainid =NEW16
+Anaphora for Anthony P. St. John:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for vice president for human resources:Mainid =8
+/n
+/n
+/n
+Anaphora for the auto maker Chrysler Motors subsidiary:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for a speech:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for Oakland University:Mainid =NEW20
+Anaphora for here:Mainid =10
+Anaphora for yesterday:Mainid =NEW21
+Anaphora for Employees:Mainid =NEW22
+Anaphora for they:Mainid =11
+/n
+/n
+/n
+Anaphora for management:Mainid =12
+/n
+/n
+/n
+Anaphora for credibility:Mainid =NEW23
+Anaphora for Mr. St. John:Mainid =13
+/n
+/n
+/n
+Anaphora for the company:Mainid =14
+/n
+/n
+/n
+Anaphora for an "alternative disputes resolution" system:Mainid =15
+/n
+/n
+/n
+Anaphora for similar:Mainid =NEW24
+Anaphora for a traditional  union grievance procedure:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for the first time:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for these employees:Mainid =16
+/n
+/n
+/n
+Anaphora for a formal and impartial internal mechanism:Mainid =17
+/n
+/n
+/n
+Anaphora for discipline:Mainid =NEW27
+Anaphora for discharge:Mainid =NEW28
+Anaphora for employment opportunity disputes:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for Mr. St. John:Mainid =18
+/n
+/n
+/n
+Anaphora for The process:Mainid =19
+/n
+/n
+/n
+Anaphora for several steps:Mainid =NEW30
+Anaphora for final arbitration:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for a neutral  third party:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for Chrysler move:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for the turmoil:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for its:Mainid =21
+/n
+/n
+/n
+Anaphora for current cost-cutting:Mainid =NEW35
+Anaphora for restructuring:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for forces:Mainid =NEW37
+Anaphora for which:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for many industrial companies:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for The auto maker:Mainid =22
+/n
+/n
+/n
+Anaphora for changing wage:Mainid =NEW40
+Anaphora for benefit plans:Mainid =NEW41
+Anaphora for its:Mainid =23
+/n
+/n
+/n
+Anaphora for white-collar rolls:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for the wake:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for its:Mainid =24
+/n
+/n
+/n
+Anaphora for acquisition last year:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for American Motors Corp:Mainid =NEW45
+/n
+/n
+/n
+Anaphora for Chrysler:Mainid =25
+/n
+/n
+/n
+Anaphora for about 31,000 white-collar employees in the U.S.:Mainid =26
+/n
+/n
+/n
+Anaphora for 6,000 salaried workers:Mainid =NEW46
+/n
+/n
+/n
+Anaphora for the United Auto Workers union:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for Some analysts:Mainid =NEW48
+Anaphora for the move:Mainid =27
+/n
+/n
+/n
+Anaphora for further union:Mainid =NEW49
+/n
+/n
+/n
+Anaphora for the white-collar ranks:Mainid =28
+/n
+/n
+/n
+Anaphora for Several management consultants:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for a formal grievance procedure with third-party arbitration:Mainid =29
+/n
+/n
+/n
+Anaphora for common:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for government employees:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for they:Mainid =30
+/n
+/n
+/n
+Anaphora for such:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for a policy:Mainid =31
+/n
+/n
+/n
+Anaphora for non-union employees:Mainid =NEW54
+/n
+/n
+/n
+Anaphora for a major  private company.:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for It:Mainid =32
+/n
+/n
+/n
+Anaphora for the potential:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for supervisory:Mainid =NEW57
+Anaphora for management responsibility:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for authority:Mainid =NEW59
+Anaphora for Jerrold Bratkovich:Mainid =NEW60
+Anaphora for a vice president:Mainid =33
+/n
+/n
+/n
+Anaphora for the Los Angeles office:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for the Hay Group:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for a management  consulting firm:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for That one:Mainid =NEW64
+Anaphora for the main reasons employers:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for unionization:Mainid =NEW66
+Anaphora for A Chrysler  spokesman:Mainid =NEW67
+/n
+/n
+/n
+Anaphora for the company:Mainid =37
+/n
+/n
+/n
+Anaphora for a couple:Mainid =NEW68
+/n
+/n
+/n
+Anaphora for other companies:Mainid =NEW69
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for arbitration for nonunion employees:Mainid =38
+/n
+/n
+/n
+Anaphora for he:Mainid =39
+Anaphora for couldnt recall:Mainid =NEW71
+Anaphora for which companies:Mainid =NEW72
+/n
+/n
+/n
+Anaphora for A more  common business approach:Mainid =NEW73
+/n
+/n
+/n
+Anaphora for the  open-door:Mainid =NEW74
+/n
+/n
+/n
+Anaphora for policy such:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW76
+/n
+/n
+/n
+Anaphora for International Business Machines Corp.:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for any employee:Mainid =NEW78
+/n
+/n
+/n
+Anaphora for who:Mainid =NEW79
+Anaphora for a problem:Mainid =NEW80
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW81
+/n
+/n
+/n
+Anaphora for satisfaction:Mainid =NEW82
+Anaphora for the complaint:Mainid =NEW83
+/n
+/n
+/n
+Anaphora for the attention:Mainid =NEW84
+/n
+/n
+/n
+Anaphora for higher management:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for an IBM spokesman:Mainid =NEW86
+/n
+/n
+/n
+Anaphora for the employee:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for the problem:Mainid =NEW88
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW89
+/n
+/n
+/n
+Anaphora for IBM:Mainid =41
+/n
+/n
+/n
+Anaphora for chief executive officer:Mainid =NEW90
+/n
+/n
+/n
+Anaphora for the spokesman:Mainid =42
+/n
+/n
+/n
+Anaphora for Chrysler:Mainid =43
+/n
+/n
+/n
+Anaphora for its system:Mainid =44
+/n
+/n
+/n
+Anaphora for later this year:Mainid =NEW91
+/n
+/n
+/n
+Anaphora for The details havent:Mainid =NEW92
+/n
+/n
+/n
+Anaphora for Chrysler:Mainid =46
+/n
+/n
+/n
+Anaphora for a slide:Mainid =NEW93
+/n
+/n
+/n
+Anaphora for Mr. St. John:Mainid =47
+/n
+/n
+/n
+Anaphora for presentation:Mainid =NEW94
+Anaphora for the policy:Mainid =48
+/n
+/n
+/n
+Anaphora for all  professional:Mainid =NEW95
+Anaphora for administrative:Mainid =NEW96
+Anaphora for management:Mainid =NEW97
+/n
+/n
+/n
+Anaphora for executive employees:Mainid =NEW98
+/n
+/n
+/n
+Anaphora for It:Mainid =49
+/n
+/n
+/n
+Anaphora for a four-step grievance process:Mainid =50
+/n
+/n
+/n
+Anaphora for UAW:Mainid =51
+Anaphora for -represented workers:Mainid =NEW99
+/n
+/n
+/n
+tst1/b17.crf
+ 880505-0157/JJ Reagan/NNP Doubts/NNP
+ ll/NN Sign/NNP
+ An/DT Arms/NNP Pact/NN
+ Summit/NNP FREST/NNP NUK/NNP ARO/NNP EXE/NNP CHICAGO/NNP
+ there/EX
+ little/JJ chance/NN
+ Soviet/JJ leader/NN Mikhail/NNP Gorbachev/NNP
+ Moscow/NNP
+ this/DT month/NN
+ questions/NNS
+ members/NNS
+ the/DT National/NNP Strategy/NNP Forum/NNP
+ it/PRP
+ doubtful/JJ
+ a/DT strategic/JJ arms/NNS reduction/NN
+ START/NNP
+ treaty/NN
+ time/NN
+ Administration/NNP aides/NNS
+ weeks/NNS
+ there/EX
+ many/JJ disagreements/NNS
+ remarks/NNS
+ bluntest/JJS public/JJ assessment/NN
+ both/DT
+ hope/NN
+ an/DT agreement/NN
+ intermediate-range/JJ nuclear/JJ missiles/NNS
+ a/DT summit/NN meeting/NN
+ Washington/NNP last/JJ December/NNP
+ the/DT Senate/NNP
+ time/NN
+ Our/PRP$ desire/NN
+ able/JJ
+ such/PDT a/DT treaty/NN
+ parity/NN
+ U.S./NNP
+ Soviet/NNP strategic/JJ arsenals/NNS
+Anaphora for 880505-0157 Reagan Doubts:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for He:Mainid =1
+Anaphora for ll Sign:Mainid =NEW2
+Anaphora for An Arms Pact:Mainid =NEW3
+Anaphora for Summit FREST NUK ARO EXE CHICAGO:Mainid =NEW4
+Anaphora for President Reagan:Mainid =2
+/n
+/n
+/n
+Anaphora for there:Mainid =NEW5
+/n
+/n
+/n
+Anaphora for little chance:Mainid =NEW6
+Anaphora for he:Mainid =3
+/n
+/n
+/n
+Anaphora for Soviet leader Mikhail Gorbachev:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for a strategic arms agreement:Mainid =4
+/n
+/n
+/n
+Anaphora for their summit:Mainid =26
+/n
+/n
+/n
+Anaphora for Moscow:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for this month:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for questions:Mainid =NEW10
+Anaphora for members:Mainid =NEW11
+Anaphora for the National Strategy Forum:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for here:Mainid =7
+Anaphora for Mr. Reagan:Mainid =8
+/n
+/n
+/n
+Anaphora for it:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for doubtful:Mainid =NEW14
+Anaphora for a strategic  arms reduction:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for START:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for treaty:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for time:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for Administration aides:Mainid =NEW19
+Anaphora for weeks:Mainid =NEW20
+Anaphora for there:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for many disagreements:Mainid =NEW22
+Anaphora for a treaty:Mainid =11
+/n
+/n
+/n
+Anaphora for Mr. Reagan:Mainid =12
+/n
+/n
+/n
+Anaphora for remarks:Mainid =NEW23
+Anaphora for his:Mainid =13
+Anaphora for bluntest public assessment:Mainid =NEW24
+Anaphora for Mr. Reagan:Mainid =14
+/n
+/n
+/n
+Anaphora for both:Mainid =NEW25
+Anaphora for he:Mainid =15
+/n
+/n
+/n
+Anaphora for Mr. Gorbachev:Mainid =16
+/n
+/n
+/n
+Anaphora for hope:Mainid =NEW26
+Anaphora for an agreement:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for intermediate-range nuclear missiles:Mainid =NEW28
+Anaphora for a summit  meeting:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for Washington last December:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for the Senate:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for time:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for the Moscow summit:Mainid =19
+/n
+/n
+/n
+Anaphora for he:Mainid =21
+/n
+/n
+/n
+Anaphora for Our desire:Mainid =NEW33
+Anaphora for we:Mainid =23
+/n
+/n
+/n
+Anaphora for able:Mainid =NEW34
+Anaphora for a START treaty:Mainid =24
+/n
+/n
+/n
+Anaphora for this Moscow summit:Mainid =25
+/n
+/n
+/n
+Anaphora for we:Mainid =27
+/n
+/n
+/n
+Anaphora for the other one at the Washington summit:Mainid =28
+/n
+/n
+/n
+Anaphora for Mr. Reagan:Mainid =31
+/n
+/n
+/n
+Anaphora for such a treaty:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for it:Mainid =32
+/n
+/n
+/n
+Anaphora for parity:Mainid =NEW36
+Anaphora for U.S.:Mainid =NEW37
+Anaphora for Soviet strategic arsenals:Mainid =NEW38
+/n
+/n
+/n
+tst1/b18.crf
+ 880516-0071/JJ U.S/NNP
 
-    number properName gender demonym animacy  
-1     SING        YES   NONE   False  INANIM  
-2   PLURAL        YES   NONE   False  INANIM  
-3     SING        YES   NONE   False  INANIM  
-4     SING        YES   NONE   False  INANIM  
-5     SING        YES   NONE   False  INANIM  
-6     SING        YES    NaN   False  INANIM  
-7     SING         NO    NaN   False  INANIM  
-8   PLURAL         NO    NaN   False  INANIM  
-9     SING         NO   NONE   False  INANIM  
-10  PLURAL         NO   NONE   False  INANIM  
-11    SING         NO   NONE   False  INANIM  
-12    SING         NO   NONE   False  INANIM  
-13  PLURAL         NO   NONE   False  INANIM  
-14    SING         NO   NONE   False  INANIM  
-15    SING         NO   NONE   False  INANIM  
-16    SING         NO   NONE   False  INANIM  
-17    SING         NO   NONE   False  INANIM  
-18  PLURAL         NO    NaN   False  INANIM  
-19    SING         NO   NONE   False  INANIM  
-20    SING        YES   NONE   False    ANIM  
-21  PLURAL         NO    NaN   False  INANIM  
-22    SING         NO    NaN   False  INANIM  
-23    SING         NO    NaN   False  INANIM  
-24    SING         NO   NONE   False  INANIM  
-25    SING         NO   NONE   False    ANIM  
-26    SING         NO    NaN   False  INANIM  
-27  PLURAL         NO   NONE   False  INANIM  
-28  PLURAL         NO    NaN   False  INANIM  
-29  PLURAL         NO    NaN   False  INANIM  
-30    SING         NO   NONE   False  INANIM  
-..     ...        ...    ...     ...     ...  
-70    SING         NO   NONE   False  INANIM  
-71    SING         NO    NaN   False  INANIM  
-72    SING         NO   NONE   False  INANIM  
-73    SING        YES    NaN   False  INANIM  
-74    SING         NO    NaN   False  INANIM  
-75  PLURAL        YES   NONE   False  INANIM  
-76    SING        YES   Male   False    ANIM  
-77    SING         NO    NaN   False  INANIM  
-78    SING        YES    NaN   False  INANIM  
-79  PLURAL         NO   NONE   False  INANIM  
-80    SING         NO   NONE   False  INANIM  
-81    SING         NO    NaN   False  INANIM  
-82    SING        YES   NONE   False  INANIM  
-83    SING         NO   NONE   False  INANIM  
-84  PLURAL         NO    NaN   False  INANIM  
-85    SING         NO   NONE   False  INANIM  
-86    SING         NO    NaN   False  INANIM  
-87    SING        YES   NONE   False  INANIM  
-88    SING        YES    NaN   False    ANIM  
-89    SING         NO    NaN   False  INANIM  
-90    SING         NO   NONE   False  INANIM  
-91    SING        YES   Male   False    ANIM  
-92  PLURAL         NO    NaN   False  INANIM  
-93    SING         NO   NONE   False  INANIM  
-94    SING         NO    NaN   False  INANIM  
-95    SING        YES    NaN   False    ANIM  
-96    SING         NO    NaN   False  INANIM  
-97    SING         NO   NONE   False  INANIM  
-98    SING         NO   NONE   False  INANIM  
-99    SING         NO   NONE   False    ANIM  
+  Mediator/NNP
+  Says/NNP
+  Eastern/NNP
+  Negotiations/NNP
+  Are/NNP
+  Progressing/NNP
+ Near/NNP Critical/NNP Stage/NNP Paulette/NNP Thomas/NNP
+ WSJ/NNP Staff/NNP
+ TEX/NNP LABOR/NNP GOVMT/NNP AIR/NNP
+ months/NNS
+ quiet/JJ
+ productive/JJ meetings/NNS
+ negotiators/NNS
+ the/DT bitter/JJ labor/NN battle/NN
+ Eastern/NNP Airlines/NNPS
+ a/DT critical/JJ phase/NN
+ the/DT company/NN
+ the/DT International/NNP Association/NNP
+ Machinists/NNS
+ January/NNP
+ hundreds/NNS
+ differences/NNS
+ We/PRP
+ the/DT point/NN
+ a/DT short/JJ time/NN
+ terms/NNS
+ the/DT gut/NN issues/NNS
+ comments/NNS
+ the/DT first/JJ indication/NN
+ progress/NN
+ Eastern/NNP
+ a/DT unit/NN
+ Texas/NNP Air/NNP Corp./NNP
+ steep/JJ wage/NN cuts/NNS
+ its/PRP$
+ 10,000/CD machinists/NNS
+ baggage/NN handlers/NNS
+ part/NN
+ a/DT plan/NN
+ profitability/NN
+ shrunk/NN
+ capacity/NN
+ 13/CD %/NN
+ the/DT past/JJ year/NN
+ an/DT interview/NN
+ the/DT ever-growing/JJ clamor/NN
+ public/JJ demonstrations/NNS
+ letter-writing/JJ campaigns/NNS
+ political/JJ lobbying/NN
+ antagonism/NN
+ the/DT bargaining/NN table/NN
+ Litigation/NN
+ charges/NNS
+ counter-charges/NNS
+ m/NNS
+ that/DT
+ the/DT extent/NN
+ which/WDT
+ this/DT case/NN
+ anything/NN
+ every/DT day/NN
+ the/DT 26th/CD
+ January/NNP
+ the/DT exception/NN
+ three/CD periods/NNS
+ 10/CD days/NNS
+ anger/NN
+ the/DT growing/VBG perception/NN
+ the/DT mediation/NN process/NN
+ fruitless/JJ
+ futile/NN
+ Last/JJ week/NN
+ instance/NN
+ Florida/NNP Gov/NNP
+ Bob/NNP Martinez/NNP
+ a/DT news/NN release/NN
+ a/DT stalemate/NN
+ both/DT sides/NNS
+ part/NN
+ officials/NNS
+ the/DT National/NNP Mediation/NNP Board/NNP
+ a/DT deadline/NN
+ U.S./NNP labor/NN law/NN
+ airlines/NNS
+ the/DT mediator/NN
+ an/DT impasse/NN
+ a/DT 30-day/JJ countdown/NN
+ which/WDT management/NN
+ last/JJ contract/NN offer/NN
+ the/DT union/NN
+ free/JJ
+ I/PRP
+ there/EX
+ any/DT prospect/NN
+ each/DT side/NN
+ concessions/NNS
+ possible/JJ
+ Charles/NNP Bryan/NNP
+ a/DT strike/NN
+ the/DT pilot/NN
+ flight/NN attendant/NN unions/NNS
+ concessions/NNS
+ the/DT coming/JJ months/NNS
+ anxious/JJ
+ elaborate/JJ preparations/NNS
+ non-union/JJ workers/NNS
+ continue/NN
+ Last/JJ week/NN
+ ran/JJ newspaper/NN advertising/NN
+ Frank/NNP Borman/NNP
+ unsafe/JJ
+ A/DT week/NN
+ the/DT
+ a/DT criminal/JJ conspiracy/NN
+ stock/NN price/NN
+ employees/NNS
+ shareholders/NNS
+ their/PRP$ members/NNS
+ Congress/NNP demanding/VBG
+ the/DT 30-day/JJ countdown/NN
+ Thursday/NNP
+ 3,000/CD
+ members/NNS
+ part/NN
+ a/DT lunch-time/JJ demonstration/NN
+ downtown/JJ Miami/NNP
+ upset/JJ
+ the/DT level/NN
+ tenor/NN
+ the/DT recent/JJ clamor/NN
+ a/DT period/NN
+ April/NNP
+ Miami/NNP
+ Eastern/NNP
+ Boston/NNP
+ things/NNS
+appositive match for:Phil Bakespresident and chief executive officer of Eastern
+appositive match for:Charles Bryanhead of the machinists union at Eastern
+appositive match for:Frank Bormanthe former astronaut and former Eastern president
+Anaphora for 880516-0071 U.S:Mainid =NEW1
+Anaphora for Mediator  Says  Eastern  Negotiations  Are  Progressing:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for Near Critical Stage Paulette Thomas:Mainid =NEW3
+Anaphora for WSJ Staff:Mainid =NEW4
+Anaphora for TEX LABOR GOVMT AIR:Mainid =NEW5
+Anaphora for months:Mainid =NEW6
+/n
+/n
+/n
+Anaphora for quiet:Mainid =NEW7
+Anaphora for productive meetings:Mainid =NEW8
+Anaphora for negotiators:Mainid =NEW9
+Anaphora for the bitter labor battle:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for Eastern Airlines:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for a critical  phase:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for the talks:Mainid =3
+/n
+/n
+/n
+Anaphora for a federal mediator:Mainid =4
+/n
+/n
+/n
+Anaphora for Harry Bickford:Mainid =5
+/n
+/n
+/n
+Anaphora for representatives:Mainid =8
+Anaphora for the company:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for the International Association:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for Machinists:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for January:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for hundreds:Mainid =NEW17
+Anaphora for differences:Mainid =NEW18
+Anaphora for We:Mainid =NEW19
+Anaphora for the point:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for a short  time:Mainid =NEW21
+/n
+/n
+/n
+Anaphora for we:Mainid =11
+Anaphora for terms:Mainid =NEW22
+Anaphora for the gut issues:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for he:Mainid =12
+/n
+/n
+/n
+Anaphora for Mr. Bickford:Mainid =13
+/n
+/n
+/n
+Anaphora for comments:Mainid =NEW24
+Anaphora for the first indication:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for progress:Mainid =NEW26
+Anaphora for the high-stakes, 16-month confrontation over labor costs:Mainid =14
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for a unit:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for Texas Air Corp.:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for steep wage cuts:Mainid =NEW30
+Anaphora for its:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for 10,000 machinists:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for baggage handlers:Mainid =NEW33
+Anaphora for part:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for a plan:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for the ailing carrier:Mainid =18
+/n
+/n
+/n
+Anaphora for profitability:Mainid =NEW36
+Anaphora for it:Mainid =19
+/n
+/n
+/n
+Anaphora for shrunk:Mainid =NEW37
+Anaphora for its:Mainid =20
+/n
+/n
+/n
+Anaphora for capacity:Mainid =NEW38
+Anaphora for 13 %:Mainid =NEW39
+Anaphora for the past year:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for the cost concessions:Mainid =21
+/n
+/n
+/n
+Anaphora for an interview:Mainid =NEW41
+/n
+/n
+/n
+Anaphora for Mr. Bickford:Mainid =22
+/n
+/n
+/n
+Anaphora for the ever-growing clamor:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for public demonstrations:Mainid =NEW43
+Anaphora for letter-writing campaigns:Mainid =NEW44
+Anaphora for political lobbying:Mainid =NEW45
+Anaphora for antagonism:Mainid =NEW46
+Anaphora for the bargaining table:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for Litigation:Mainid =NEW48
+Anaphora for charges:Mainid =NEW49
+Anaphora for counter-charges:Mainid =NEW50
+Anaphora for I:Mainid =23
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW51
+Anaphora for Mr. Bickford, an 18-year mediation veteran:Mainid =24
+/n
+/n
+/n
+Anaphora for the extent:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW53
+/n
+/n
+/n
+Anaphora for it:Mainid =25
+/n
+/n
+/n
+Anaphora for this case:Mainid =NEW54
+Anaphora for I:Mainid =26
+/n
+/n
+/n
+Anaphora for anything:Mainid =NEW55
+Anaphora for it:Mainid =27
+/n
+/n
+/n
+Anaphora for "We:Mainid =28
+Anaphora for Mr. Bickford:Mainid =29
+/n
+/n
+/n
+Anaphora for every day:Mainid =NEW56
+Anaphora for the 26th:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for January:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for the exception:Mainid =NEW59
+/n
+/n
+/n
+Anaphora for three periods:Mainid =NEW60
+Anaphora for 10 days:Mainid =NEW61
+Anaphora for Mr. Bickford:Mainid =30
+/n
+/n
+/n
+Anaphora for anger:Mainid =NEW62
+Anaphora for the growing perception:Mainid =NEW63
+/n
+/n
+/n
+Anaphora for the mediation process:Mainid =NEW64
+/n
+/n
+/n
+Anaphora for fruitless:Mainid =NEW65
+Anaphora for futile:Mainid =NEW66
+Anaphora for Last week:Mainid =NEW67
+/n
+/n
+/n
+Anaphora for instance:Mainid =NEW68
+Anaphora for Florida Gov:Mainid =NEW69
+Anaphora for Bob Martinez:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for a news  release:Mainid =NEW71
+/n
+/n
+/n
+Anaphora for mediation:Mainid =31
+/n
+/n
+/n
+Anaphora for a stalemate:Mainid =NEW72
+/n
+/n
+/n
+Anaphora for both sides:Mainid =NEW73
+Anaphora for the bargaining table:Mainid =32
+/n
+/n
+/n
+Anaphora for their:Mainid =33
+/n
+/n
+/n
+Anaphora for part:Mainid =NEW74
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =34
+/n
+/n
+/n
+Anaphora for officials:Mainid =NEW75
+Anaphora for the National Mediation Board:Mainid =NEW76
+/n
+/n
+/n
+Anaphora for a deadline:Mainid =NEW77
+/n
+/n
+/n
+Anaphora for the talks:Mainid =35
+/n
+/n
+/n
+Anaphora for U.S. labor law:Mainid =NEW78
+/n
+/n
+/n
+Anaphora for airlines:Mainid =NEW79
+Anaphora for the mediator:Mainid =NEW80
+/n
+/n
+/n
+Anaphora for an impasse:Mainid =NEW81
+/n
+/n
+/n
+Anaphora for a 30-day  countdown:Mainid =NEW82
+/n
+/n
+/n
+Anaphora for which management:Mainid =NEW83
+/n
+/n
+/n
+Anaphora for its:Mainid =37
+/n
+/n
+/n
+Anaphora for last contract offer:Mainid =NEW84
+Anaphora for the union:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for free:Mainid =NEW86
+Anaphora for I:Mainid =NEW87
+/n
+/n
+/n
+Anaphora for there:Mainid =NEW88
+Anaphora for any prospect:Mainid =NEW89
+Anaphora for a negotiated settlement:Mainid =38
+/n
+/n
+/n
+Anaphora for Phil Bakes:Mainid =39
+Anaphora for president and chief executive officer of Eastern:Mainid =40
+/n
+/n
+/n
+Anaphora for The union:Mainid =43
+/n
+/n
+/n
+Anaphora for it:Mainid =44
+/n
+/n
+/n
+Anaphora for each side:Mainid =NEW90
+Anaphora for concessions:Mainid =NEW91
+/n
+/n
+/n
+Anaphora for A settlement through mediation:Mainid =45
+/n
+/n
+/n
+Anaphora for possible:Mainid =NEW92
+Anaphora for Charles Bryan:Mainid =NEW93
+Anaphora for head of the machinists union at Eastern:Mainid =46
+/n
+/n
+/n
+Anaphora for I:Mainid =49
+/n
+/n
+/n
+Anaphora for a strike:Mainid =NEW94
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =50
+/n
+/n
+/n
+Anaphora for he:Mainid =51
+/n
+/n
+/n
+Anaphora for the Machinists union:Mainid =52
+/n
+/n
+/n
+Anaphora for the pilot:Mainid =NEW95
+/n
+/n
+/n
+Anaphora for flight attendant unions:Mainid =NEW96
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =53
+/n
+/n
+/n
+Anaphora for management:Mainid =54
+/n
+/n
+/n
+Anaphora for concessions:Mainid =NEW97
+/n
+/n
+/n
+Anaphora for the coming months:Mainid =NEW98
+/n
+/n
+/n
+Anaphora for anxious:Mainid =NEW99
+Anaphora for a strike:Mainid =55
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =56
+/n
+/n
+/n
+Anaphora for elaborate preparations:Mainid =NEW100
+Anaphora for the airline:Mainid =57
+/n
+/n
+/n
+Anaphora for non-union workers:Mainid =NEW101
+Anaphora for talks:Mainid =58
+/n
+/n
+/n
+Anaphora for continue:Mainid =NEW102
+Anaphora for Mr. Bickford:Mainid =59
+/n
+/n
+/n
+Anaphora for Last week:Mainid =NEW103
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =60
+/n
+/n
+/n
+Anaphora for ran newspaper advertising:Mainid =NEW104
+Anaphora for Frank Borman:Mainid =NEW105
+Anaphora for the former astronaut and former Eastern president:Mainid =61
+/n
+/n
+/n
+Anaphora for the airline:Mainid =65
+/n
+/n
+/n
+Anaphora for unsafe:Mainid =NEW106
+Anaphora for A week:Mainid =NEW107
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =66
+/n
+/n
+/n
+Anaphora for the:Mainid =NEW108
+/n
+/n
+/n
+Anaphora for Machinist:Mainid =67
+Anaphora for pilot unions:Mainid =68
+/n
+/n
+/n
+Anaphora for them:Mainid =69
+Anaphora for a criminal  conspiracy:Mainid =NEW109
+/n
+/n
+/n
+Anaphora for Texas Air:Mainid =70
+/n
+/n
+/n
+Anaphora for stock price:Mainid =NEW110
+Anaphora for Eastern:Mainid =71
+/n
+/n
+/n
+Anaphora for Texas Air:Mainid =72
+/n
+/n
+/n
+Anaphora for employees:Mainid =NEW111
+Anaphora for shareholders:Mainid =NEW112
+Anaphora for their members:Mainid =NEW113
+/n
+/n
+/n
+Anaphora for Congress demanding:Mainid =NEW114
+Anaphora for the National Mediation Board:Mainid =73
+/n
+/n
+/n
+Anaphora for the 30-day countdown:Mainid =NEW115
+/n
+/n
+/n
+Anaphora for the talks:Mainid =74
+/n
+/n
+/n
+Anaphora for Thursday:Mainid =NEW116
+Anaphora for 3,000:Mainid =NEW117
+Anaphora for union:Mainid =75
+/n
+/n
+/n
+Anaphora for members:Mainid =NEW118
+/n
+/n
+/n
+Anaphora for part:Mainid =NEW119
+/n
+/n
+/n
+Anaphora for a lunch-time  demonstration:Mainid =NEW120
+/n
+/n
+/n
+Anaphora for downtown Miami:Mainid =NEW121
+/n
+/n
+/n
+Anaphora for Texas Air:Mainid =76
+/n
+/n
+/n
+Anaphora for Gov. Martinez:Mainid =77
+/n
+/n
+/n
+Anaphora for Mr. Bickford:Mainid =78
+/n
+/n
+/n
+Anaphora for he:Mainid =79
+/n
+/n
+/n
+Anaphora for upset:Mainid =NEW122
+Anaphora for the level:Mainid =NEW123
+/n
+/n
+/n
+Anaphora for tenor:Mainid =NEW124
+Anaphora for the recent clamor:Mainid =NEW125
+/n
+/n
+/n
+Anaphora for the talks:Mainid =80
+/n
+/n
+/n
+Anaphora for a period:Mainid =NEW126
+/n
+/n
+/n
+Anaphora for April:Mainid =NEW127
+Anaphora for Miami:Mainid =NEW128
+/n
+/n
+/n
+Anaphora for Eastern:Mainid =NEW129
+/n
+/n
+/n
+Anaphora for Boston:Mainid =NEW130
+Anaphora for he:Mainid =83
+/n
+/n
+/n
+Anaphora for things:Mainid =NEW131
+tst1/b19.crf
+ 880614-0077/JJ Early/JJ Aluminum/NN Talks/NNS
+ Steel/NNP Union/NNP
 
-[99 rows x 14 columns]
-                                    words      headNoun  position  \
-100                         no commitment    commitment       101   
-101                          concessions.  concessions.       102   
-102                          That meeting       meeting       103   
-103                              it clear         clear       104   
-104                           Mr. Coleman       coleman       105   
-105                         the Teamsters     teamsters       106   
-106                                Pan Am            am       107   
-107                      one source close         close       108   
-108                      the negotiations  negotiations       109   
-109                                    we            we       110   
-110                                    re            re       111   
-111                           the company       company       112   
-112                                  this          this       113   
-113                           Mr. Genoese       genoese       114   
-114                                 said.         said.       115   
-115                                    We            we       116   
-116                                    re            re       117   
-117                              any more          more       118   
-118                                Pan Am            am       119   
-119                                    We            we       120   
-120                                    re            re       121   
-121                      strike procedure     procedure       122   
-122                             The union         union       123   
-123                                    it            it       124   
-124                               willing       willing       125   
-125                           arbitration   arbitration       126   
-126                                     A             a       127   
-127                                Pan Am            am       128   
-128                             spokesman     spokesman       129   
-129                         The Teamsters     teamsters       130   
-130           The federal mediation board         board       131   
-131              several earlier requests      requests       132   
-132                             the union         union       133   
-133                      the negotiations  negotiations       134   
-134                   Pan Am pilots union         union       135   
-135                                    it            it       136   
-136                          an agreement     agreement       137   
-137                           concessions   concessions       138   
-138                           the company       company       139   
-139                                 today         today       140   
-140              A pilot  union spokesman     spokesman       141   
-141                           the leaders       leaders       142   
-142                         the agreement     agreement       143   
-143                                 their         their       144   
-144                            membership    membership       145   
-145                          ratification  ratification       146   
-146                                    He            he       147   
-147                                    he            he       148   
-148                                 didnt         didnt       149   
-149                         the Teamsters     teamsters       150   
-150                                action        action       151   
-151  the union agreement with the company       company       152   
-
-    semanticClass     Id  RefId pronounType article appositive  number  \
-100       OBJECTS  NEW59  NEW59       False    NONE         NO    SING   
-101       OBJECTS  NEW60  NEW60       False    NONE         NO    SING   
-102       OBJECTS     58  NEW57       False    NONE         NO    SING   
-103       OBJECTS  NEW61  NEW42       False    NONE         NO    SING   
-104         HUMAN     59  NEW54       False    NONE         NO    SING   
-105       COMPANY     60      6       False     DEF         NO  PLURAL   
-106       COMPANY     61   NEW2       False    NONE         NO    SING   
-107        NUMBER  NEW62  NEW10       False    NONE         NO    SING   
-108       OBJECTS     62     76       False     DEF         NO  PLURAL   
-109       OBJECTS     63     63        True    NONE         NO    SING   
-110       OBJECTS  NEW63  NEW66       False    NONE         NO    SING   
-111       OBJECTS     64     23       False     DEF         NO    SING   
-112       OBJECTS  NEW64  NEW64        True    NONE         NO    SING   
-113         HUMAN     65  NEW52       False    NONE         NO    SING   
-114       OBJECTS  NEW65      7       False    NONE         NO    SING   
-115       OBJECTS     66     68        True    NONE         NO    SING   
-116       OBJECTS  NEW66  NEW63       False    NONE         NO    SING   
-117       OBJECTS  NEW67  NEW67       False    NONE         NO    SING   
-118       COMPANY     67   NEW2       False    NONE         NO    SING   
-119       OBJECTS     68     66        True    NONE         NO    SING   
-120       OBJECTS  NEW68  NEW63       False    NONE         NO    SING   
-121       OBJECTS  NEW69  NEW69       False    NONE         NO    SING   
-122       OBJECTS     69   NEW6       False    NONE         NO    SING   
-123       OBJECTS     70     26        True    NONE         NO    SING   
-124       OBJECTS  NEW70  NEW70       False    NONE         NO    SING   
-125       OBJECTS     71   NEW9       False    NONE         NO    SING   
-126       OBJECTS  NEW71  NEW78       False    NONE         NO    SING   
-127       COMPANY     72   NEW2       False    NONE         NO    SING   
-128       OBJECTS  NEW72  NEW78       False    NONE         NO    SING   
-129       COMPANY     73   NEW3       False    NONE         NO  PLURAL   
-130       OBJECTS     74     14       False    NONE         NO    SING   
-131       OBJECTS  NEW73  NEW73       False    NONE         NO  PLURAL   
-132       OBJECTS     75     31       False     DEF         NO    SING   
-133       OBJECTS     76     62       False     DEF         NO  PLURAL   
-134       COMPANY  NEW74   NEW2       False    NONE         NO    SING   
-135       OBJECTS     78     26        True    NONE         NO    SING   
-136       OBJECTS  NEW75  NEW22       False   INDEF         NO    SING   
-137       OBJECTS  NEW76  NEW32       False    NONE         NO  PLURAL   
-138       OBJECTS  NEW77     23       False     DEF         NO    SING   
-139          TIME     81  NEW21       False    NONE         NO    SING   
-140       OBJECTS  NEW78  NEW71       False    NONE         NO    SING   
-141       OBJECTS  NEW79  NEW11       False     DEF         NO  PLURAL   
-142       OBJECTS     83     34       False     DEF         NO    SING   
-143       OBJECTS     84     77       False    NONE         NO    SING   
-144       OBJECTS  NEW80  NEW80       False    NONE         NO    SING   
-145       OBJECTS  NEW81  NEW81       False    NONE         NO    SING   
-146       OBJECTS     85     85        True    NONE         NO    SING   
-147       OBJECTS     86  NEW17        True    NONE         NO    SING   
-148       OBJECTS  NEW82  NEW82       False    NONE         NO    SING   
-149       COMPANY     87      6       False     DEF         NO  PLURAL   
-150       OBJECTS  NEW83  NEW83       False    NONE         NO    SING   
-151       OBJECTS     88     23       False     DEF         NO    SING   
-
-    properName gender demonym animacy  
-100         NO   NONE   False  INANIM  
-101         NO   NONE   False  INANIM  
-102         NO    NaN   False  INANIM  
-103         NO   NONE   False  INANIM  
-104        YES    NaN   False    ANIM  
-105         NO    NaN   False  INANIM  
-106        YES    NaN   False  INANIM  
-107         NO   NONE   False  INANIM  
-108         NO    NaN   False  INANIM  
-109         NO    NaN   False  INANIM  
-110         NO   NONE   False  INANIM  
-111         NO    NaN   False  INANIM  
-112         NO   NONE   False  INANIM  
-113        YES    NaN   False    ANIM  
-114         NO   NONE   False  INANIM  
-115        YES    NaN   False  INANIM  
-116         NO   NONE   False  INANIM  
-117         NO   NONE   False  INANIM  
-118        YES    NaN   False  INANIM  
-119        YES    NaN   False  INANIM  
-120         NO   NONE   False  INANIM  
-121         NO   NONE   False  INANIM  
-122         NO    NaN   False  INANIM  
-123         NO    NaN   False  INANIM  
-124         NO   NONE   False  INANIM  
-125         NO    NaN   False  INANIM  
-126        YES   NONE   False  INANIM  
-127        YES    NaN   False  INANIM  
-128         NO   NONE   False  INANIM  
-129        YES    NaN   False  INANIM  
-130         NO    NaN   False  INANIM  
-131         NO   NONE   False  INANIM  
-132         NO    NaN   False  INANIM  
-133         NO    NaN   False  INANIM  
-134         NO   NONE   False  INANIM  
-135         NO    NaN   False  INANIM  
-136         NO   NONE   False  INANIM  
-137         NO   NONE   False  INANIM  
-138         NO   NONE   False  INANIM  
-139         NO    NaN   False  INANIM  
-140         NO   NONE   False  INANIM  
-141         NO   NONE   False  INANIM  
-142         NO    NaN   False  INANIM  
-143         NO    NaN   False  INANIM  
-144         NO   NONE   False  INANIM  
-145         NO   NONE   False  INANIM  
-146        YES    NaN   False  INANIM  
-147         NO    NaN   False  INANIM  
-148         NO   NONE   False  INANIM  
-149         NO    NaN   False  INANIM  
-150         NO   NONE   False  INANIM  
-151         NO    NaN   False  INANIM  
+  2/CD
+  Firms/NNS
+  LABOR/NNP
+  AA/NNP
+  RLM/NNP
+  MIN/NNP
+  ST./NNP
+  LOUIS/NNP
+ yesterday/NN
+ Aug./NNP 9/CD
+ Local/JJ presidents/NNS
+ meeting/NN
+ an/DT effort/NN
+ concessions/NNS granted/VBN
+ 1986/CD
+ The/DT current/JJ pacts/NNS
+ Aluminum/NNP Co./NNP
+ America/NNP
+ Reynolds/NNP Metals/NNP Co./NNP
+ next/JJ May/NNP 31/CD
+ any/DT new/JJ accord/NN
+ one/CD
+ we/PRP
+ share/NN
+ normal/JJ circumstances/NNS
+ wouldnt/NNS
+ next/JJ year/NN
+ Pittsburgh-based/JJ Alcoa/NNP
+ Reynolds/NNP
+ Richmond/NNP
+ Va./NNP
+ The/DT union/NN action/NN
+ a/DT similar/JJ decision/NN Friday/NNP
+ the/DT Aluminum/NNP
+ Brick/NNP
+ Glass/NNP Workers/NNP union/NN
+ which/WDT
+ concert/NN
+ the/DT two/CD unions/NNS
+ 21,000/CD
+ employees/NNS
+appositive match for:ReynoldsRichmond
+appositive match for:ReynoldsRichmond
+appositive match for:RichmondVa.
+Anaphora for 880614-0077 Early Aluminum Talks:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for Steel Union:Mainid =NEW2
+Anaphora for 2 Firms  LABOR  AA  RLM  MIN  ST.  LOUIS:Mainid =NEW3
+Anaphora for The United Steelworkers union:Mainid =2
+/n
+/n
+/n
+Anaphora for yesterday:Mainid =NEW4
+Anaphora for early contract talks:Mainid =3
+/n
+/n
+/n
+Anaphora for Aug. 9:Mainid =NEW5
+Anaphora for the nation two biggest aluminum makers:Mainid =4
+/n
+/n
+/n
+Anaphora for Local presidents:Mainid =NEW6
+Anaphora for meeting:Mainid =NEW7
+Anaphora for here:Mainid =6
+Anaphora for the early bargaining:Mainid =7
+/n
+/n
+/n
+Anaphora for an effort:Mainid =NEW8
+Anaphora for concessions granted:Mainid =NEW9
+Anaphora for 1986:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for The current pacts:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for Aluminum Co.:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for America:Mainid =NEW13
+Anaphora for Reynolds Metals Co.:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for next May 31:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for any new accord:Mainid =NEW16
+Anaphora for one:Mainid =NEW17
+Anaphora for we:Mainid =NEW18
+Anaphora for the current contracts:Mainid =10
+/n
+/n
+/n
+Anaphora for 1986:Mainid =11
+/n
+/n
+/n
+Anaphora for then:Mainid =16
+Anaphora for Mr. Becker:Mainid =18
+Anaphora for union members:Mainid =19
+/n
+/n
+/n
+Anaphora for share:Mainid =NEW19
+Anaphora for those gains:Mainid =21
+Anaphora for the sacrifices they made:Mainid =22
+/n
+/n
+/n
+Anaphora for normal circumstances:Mainid =NEW20
+Anaphora for wouldnt:Mainid =NEW21
+Anaphora for next year:Mainid =NEW22
+/n
+/n
+/n
+Anaphora for Pittsburgh-based Alcoa:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for Reynolds:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for Richmond:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for Va.:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for the early talks:Mainid =26
+/n
+/n
+/n
+Anaphora for The union action:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for a similar  decision Friday:Mainid =NEW28
+Anaphora for the Aluminum:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for Brick:Mainid =NEW30
+Anaphora for Glass Workers union:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for which:Mainid =NEW32
+Anaphora for concert:Mainid =NEW33
+Anaphora for the Steelworkers:Mainid =28
+/n
+/n
+/n
+Anaphora for the two unions:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for 21,000:Mainid =NEW35
+Anaphora for Alcoa:Mainid =29
+/n
+/n
+/n
+Anaphora for Reynolds:Mainid =30
+/n
+/n
+/n
+Anaphora for employees:Mainid =NEW36
+tst1/b20.crf
+ 880729-0142/JJ OPEC/NNP Appears/NNP
+ a/DT Price/NNP War/NNP
+ Output/NNP Sags/NNP
+ Quota/NNP Violator/NNP Reforms/NNP James/NNP Tanner/NNP
+ WSJ/NNP Staff/NNP
+ MDEST/NNP PET/NNP MON/NNP
+ the/DT brink/NN
+ recent/JJ major/JJ price/NN declines/NNS
+ a/DT sharp/JJ rise/NN
+ OPEC/NNP production/NN
+ much/JJ
+ one/CD million/CD barrels/NNS
+ a/DT day/NN
+ the/DT year/NN peak/NN
+ 20/CD million/CD barrels/NNS
+ a/DT day/NN
+ this/DT month/NN
+ there/EX
+ new/JJ indications/NNS
+ that/WDT
+ arent/NN making/VBG
+ any/DT promises/NNS
+ its/PRP$ government/NN
+ conciliatory/JJ gestures/NNS
+ OPEC/NNP yesterday/NN
+ the/DT arrival/NN
+ Abu/NNP Dhabi/NNP
+ OPEC/NNP new/JJ secretary-general/JJ
+ a/DT letter/NN
+ Sheik/NNP Zayed/NNP Al/NNP Nahyyan/NNP
+ recent/JJ renunciation/NN
+ its/PRP$ assigned/JJ quota/NN
+ 948,000/CD barrels/NNS
+ a/DT day/NN
+ The/DT chief/JJ conciliatory/JJ note/NN
+ the/DT round/NN
+ talks/NNS
+ Mr./NNP Subroto/NNP
+ the/DT Emirates/NNP official/JJ news/NN agency/NN
+ the/DT forefront/NN
+ decisions/NNS and/CC
+ the/DT stability/NN
+ the/DT market/NN
+ The/DT
+ report/NN
+ mention/NN
+ senior/JJ oil/NN officials/NNS
+ Dow/NNP Jones/NNP International/NNP Petroleum/NNP Report/NNP
+ isnt/NN backing/VBG
+ demand/NN
+ a/DT higher/JJR
+ quota/NN
+ Industry/NN
+ place/NN
+ 1.2/CD million/CD
+ 1.5/CD million/CD barrels/NNS
+ such/JJ excess/JJ output/NN
+ the/DT Emirates/NNP
+ an/DT issue/NN
+ the/DT world/NN oil/NN markets/NNS
+ last/JJ month/NN
+ Emirates/NNS officials/NNS
+ public/JJ
+ intent/NN
+ That/DT
+ new/JJ attention/NN
+ concern/NN
+ other/JJ exporters/NNS
+ Iraq/NNP
+ a/DT result/NN
+ fallout/NN
+ war/NN
+ Iran/NNP
+ afraid/JJ
+ there/EX
+ no/DT control/NN
+ affairs/NNS
+ addition/NN
+ visit/NN
+ committee/NN
+ five/CD leading/VBG
+ ministers/NNS
+ next/JJ Wednesday/NNP
+ Lausanne/NNP
+ Switzerland/NNP
+ the/DT problem/NN
+ unilateral/JJ
+ decision/NN
+ headquarters/NNS
+ details/NNS
+ the/DT meeting./NN
+ tentative/NN
+ depends/NNS
+ the/DT outcome/NN
+ spokesman/NN
+ much/JJ
+ 5/CD %/NN
+ PetroLogistics/NNS Ltd./NNP
+ a/DT Geneva-based/JJ consulting/NN firm/NN
+ that/WDT
+ monitors/NNS
+ line/NN
+ demand/NN
+ oil/NN
+ the/DT second/JJ half/NN
+ a/DT current/JJ report/NN
+ Charles/NNP L./NNP McSpadden/NNP
+ comfort/NN zone/NN
+appositive match for:the United Arab EmiratesOPEC most notable quota violator
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:LausanneSwitzerland
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:the United Arab EmiratesOPEC
+appositive match for:Abu DhabiOPEC
+appositive match for:Abu DhabiOPEC
+Anaphora for 880729-0142 OPEC Appears:Mainid =NEW1
+/n
+/n
+/n
+Anaphora for a Price  War:Mainid =NEW2
+/n
+/n
+/n
+Anaphora for Output Sags:Mainid =NEW3
+Anaphora for Quota Violator Reforms James Tanner:Mainid =NEW4
+Anaphora for WSJ Staff:Mainid =NEW5
+Anaphora for MDEST PET MON:Mainid =NEW6
+Anaphora for The Organization of Petroleum Exporting Countries:Mainid =2
+/n
+/n
+/n
+Anaphora for the brink:Mainid =NEW7
+/n
+/n
+/n
+Anaphora for a possible price war:Mainid =3
+/n
+/n
+/n
+Anaphora for recent major price declines:Mainid =NEW8
+/n
+/n
+/n
+Anaphora for a sharp  rise:Mainid =NEW9
+/n
+/n
+/n
+Anaphora for OPEC production:Mainid =NEW10
+/n
+/n
+/n
+Anaphora for total cartel output:Mainid =7
+/n
+/n
+/n
+Anaphora for much:Mainid =NEW11
+/n
+/n
+/n
+Anaphora for one million barrels:Mainid =NEW12
+/n
+/n
+/n
+Anaphora for a day:Mainid =NEW13
+/n
+/n
+/n
+Anaphora for the year peak:Mainid =NEW14
+/n
+/n
+/n
+Anaphora for 20 million barrels:Mainid =NEW15
+/n
+/n
+/n
+Anaphora for a day:Mainid =NEW16
+/n
+/n
+/n
+Anaphora for this month:Mainid =NEW17
+/n
+/n
+/n
+Anaphora for there:Mainid =NEW18
+/n
+/n
+/n
+Anaphora for new indications:Mainid =NEW19
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW20
+/n
+/n
+/n
+Anaphora for the United Arab Emirates:Mainid =10
+/n
+/n
+/n
+Anaphora for OPEC most notable quota violator:Mainid =11
+/n
+/n
+/n
+Anaphora for the cartel:Mainid =15
+/n
+/n
+/n
+Anaphora for The Emirates:Mainid =16
+/n
+/n
+/n
+Anaphora for arent making:Mainid =NEW21
+Anaphora for any promises:Mainid =NEW22
+Anaphora for its government:Mainid =NEW23
+/n
+/n
+/n
+Anaphora for conciliatory gestures:Mainid =NEW24
+/n
+/n
+/n
+Anaphora for OPEC yesterday:Mainid =NEW25
+/n
+/n
+/n
+Anaphora for The gestures:Mainid =19
+/n
+/n
+/n
+Anaphora for the arrival:Mainid =NEW26
+/n
+/n
+/n
+Anaphora for Abu Dhabi:Mainid =NEW27
+/n
+/n
+/n
+Anaphora for OPEC new secretary-general:Mainid =NEW28
+/n
+/n
+/n
+Anaphora for Subroto:Mainid =21
+/n
+/n
+/n
+Anaphora for Mr. Subroto:Mainid =22
+/n
+/n
+/n
+Anaphora for a letter:Mainid =NEW29
+/n
+/n
+/n
+Anaphora for Sheik Zayed Al Nahyyan:Mainid =NEW30
+/n
+/n
+/n
+Anaphora for the Emirates ruler:Mainid =23
+/n
+/n
+/n
+Anaphora for Nigeria oil minister and OPEC president:Mainid =25
+/n
+/n
+/n
+Anaphora for the Emirates:Mainid =29
+/n
+/n
+/n
+Anaphora for recent renunciation:Mainid =NEW31
+/n
+/n
+/n
+Anaphora for its assigned quota:Mainid =NEW32
+/n
+/n
+/n
+Anaphora for 948,000 barrels:Mainid =NEW33
+/n
+/n
+/n
+Anaphora for a day:Mainid =NEW34
+/n
+/n
+/n
+Anaphora for The chief conciliatory note:Mainid =NEW35
+/n
+/n
+/n
+Anaphora for the round:Mainid =NEW36
+/n
+/n
+/n
+Anaphora for talks:Mainid =NEW37
+/n
+/n
+/n
+Anaphora for Mr. Subroto:Mainid =NEW38
+/n
+/n
+/n
+Anaphora for Sheik Zayed:Mainid =33
+/n
+/n
+/n
+Anaphora for the Emirates official news agency:Mainid =NEW39
+/n
+/n
+/n
+Anaphora for the ruler:Mainid =37
+/n
+/n
+/n
+Anaphora for his country:Mainid =38
+Anaphora for the forefront:Mainid =NEW40
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =40
+/n
+/n
+/n
+Anaphora for decisions and:Mainid =NEW41
+/n
+/n
+/n
+Anaphora for the stability:Mainid =NEW42
+/n
+/n
+/n
+Anaphora for the market:Mainid =NEW43
+/n
+/n
+/n
+Anaphora for The:Mainid =NEW44
+/n
+/n
+/n
+Anaphora for news agency:Mainid =41
+/n
+/n
+/n
+Anaphora for report:Mainid =NEW45
+/n
+/n
+/n
+Anaphora for mention:Mainid =NEW46
+Anaphora for the Emirates production level:Mainid =42
+/n
+/n
+/n
+Anaphora for senior oil officials:Mainid =NEW47
+/n
+/n
+/n
+Anaphora for the Emirates:Mainid =45
+/n
+/n
+/n
+Anaphora for Dow Jones International Petroleum Report:Mainid =NEW48
+/n
+/n
+/n
+Anaphora for yesterday:Mainid =46
+/n
+/n
+/n
+Anaphora for the government:Mainid =47
+/n
+/n
+/n
+Anaphora for isnt backing:Mainid =NEW49
+Anaphora for its:Mainid =48
+/n
+/n
+/n
+Anaphora for demand:Mainid =NEW50
+/n
+/n
+/n
+Anaphora for a higher:Mainid =NEW51
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =49
+/n
+/n
+/n
+Anaphora for quota:Mainid =NEW52
+/n
+/n
+/n
+Anaphora for current production:Mainid =50
+/n
+/n
+/n
+Anaphora for the target:Mainid =51
+/n
+/n
+/n
+Anaphora for Industry:Mainid =NEW53
+Anaphora for place:Mainid =NEW54
+Anaphora for the Emirates current production:Mainid =52
+/n
+/n
+/n
+Anaphora for 1.2 million:Mainid =NEW55
+/n
+/n
+/n
+Anaphora for 1.5 million barrels:Mainid =NEW56
+/n
+/n
+/n
+Anaphora for a day:Mainid =54
+/n
+/n
+/n
+Anaphora for such excess output:Mainid =NEW57
+/n
+/n
+/n
+Anaphora for the Emirates:Mainid =NEW58
+/n
+/n
+/n
+Anaphora for it:Mainid =56
+/n
+/n
+/n
+Anaphora for an issue:Mainid =NEW59
+Anaphora for OPEC:Mainid =57
+/n
+/n
+/n
+Anaphora for the world oil markets:Mainid =NEW60
+/n
+/n
+/n
+Anaphora for last month:Mainid =NEW61
+/n
+/n
+/n
+Anaphora for Emirates officials:Mainid =NEW62
+/n
+/n
+/n
+Anaphora for public:Mainid =NEW63
+Anaphora for their:Mainid =60
+/n
+/n
+/n
+Anaphora for intent:Mainid =NEW64
+Anaphora for their quota:Mainid =61
+/n
+/n
+/n
+Anaphora for That:Mainid =NEW65
+/n
+/n
+/n
+Anaphora for new attention:Mainid =NEW66
+/n
+/n
+/n
+Anaphora for OPEC output:Mainid =63
+/n
+/n
+/n
+Anaphora for it:Mainid =65
+/n
+/n
+/n
+Anaphora for concern:Mainid =NEW67
+Anaphora for other exporters:Mainid =NEW68
+Anaphora for Iraq:Mainid =NEW69
+Anaphora for the system:Mainid =66
+/n
+/n
+/n
+Anaphora for a result:Mainid =NEW70
+/n
+/n
+/n
+Anaphora for fallout:Mainid =NEW71
+Anaphora for its:Mainid =67
+/n
+/n
+/n
+Anaphora for war:Mainid =NEW72
+/n
+/n
+/n
+Anaphora for Iran:Mainid =NEW73
+Anaphora for they:Mainid =68
+Anaphora for afraid:Mainid =NEW74
+Anaphora for the UAE:Mainid =69
+/n
+/n
+/n
+Anaphora for there:Mainid =NEW75
+/n
+/n
+/n
+Anaphora for no control:Mainid =NEW76
+Anaphora for the others:Mainid =70
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =71
+/n
+/n
+/n
+Anaphora for affairs:Mainid =NEW77
+Anaphora for addition:Mainid =NEW78
+Anaphora for Mr. Subroto:Mainid =72
+/n
+/n
+/n
+Anaphora for visit:Mainid =NEW79
+Anaphora for Abu Dhabi:Mainid =73
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =74
+/n
+/n
+/n
+Anaphora for price:Mainid =75
+/n
+/n
+/n
+Anaphora for committee:Mainid =NEW80
+Anaphora for five leading:Mainid =NEW81
+Anaphora for oil:Mainid =76
+/n
+/n
+/n
+Anaphora for ministers:Mainid =NEW82
+Anaphora for next Wednesday:Mainid =NEW83
+Anaphora for Lausanne:Mainid =NEW84
+Anaphora for Switzerland:Mainid =NEW85
+/n
+/n
+/n
+Anaphora for the problem:Mainid =NEW86
+/n
+/n
+/n
+Anaphora for the Emirates:Mainid =77
+/n
+/n
+/n
+Anaphora for unilateral:Mainid =NEW87
+Anaphora for quota:Mainid =78
+/n
+/n
+/n
+Anaphora for decision:Mainid =NEW88
+Anaphora for world oil prices:Mainid =79
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =81
+/n
+/n
+/n
+Anaphora for headquarters:Mainid =NEW89
+Anaphora for yesterday:Mainid =82
+/n
+/n
+/n
+Anaphora for details:Mainid =NEW90
+Anaphora for the meeting.:Mainid =NEW91
+/n
+/n
+/n
+Anaphora for It:Mainid =83
+Anaphora for tentative:Mainid =NEW92
+Anaphora for it:Mainid =84
+/n
+/n
+/n
+Anaphora for depends:Mainid =NEW93
+Anaphora for the outcome:Mainid =NEW94
+/n
+/n
+/n
+Anaphora for the talks in the UAE:Mainid =85
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =87
+/n
+/n
+/n
+Anaphora for spokesman:Mainid =NEW95
+Anaphora for total OPEC output:Mainid =88
+/n
+/n
+/n
+Anaphora for much:Mainid =NEW96
+/n
+/n
+/n
+Anaphora for 5%:Mainid =NEW97
+Anaphora for the recent run-up:Mainid =90
+/n
+/n
+/n
+Anaphora for Saudi Arabia:Mainid =91
+Anaphora for the cartel biggest producer:Mainid =92
+/n
+/n
+/n
+Anaphora for PetroLogistics Ltd.:Mainid =NEW98
+Anaphora for a Geneva-based  consulting firm:Mainid =NEW99
+/n
+/n
+/n
+Anaphora for that:Mainid =NEW100
+/n
+/n
+/n
+Anaphora for monitors:Mainid =NEW101
+Anaphora for OPEC output:Mainid =94
+/n
+/n
+/n
+Anaphora for 20 million barrels a day in the first week of the month:Mainid =97
+/n
+/n
+/n
+Anaphora for That:Mainid =100
+/n
+/n
+/n
+Anaphora for line:Mainid =NEW102
+Anaphora for demand:Mainid =NEW103
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =101
+/n
+/n
+/n
+Anaphora for oil:Mainid =NEW104
+/n
+/n
+/n
+Anaphora for the second half:Mainid =NEW105
+/n
+/n
+/n
+Anaphora for a current  report:Mainid =NEW106
+/n
+/n
+/n
+Anaphora for world oil markets:Mainid =102
+/n
+/n
+/n
+Anaphora for Charles L. McSpadden:Mainid =NEW107
+Anaphora for manager of petroleum analysis:Mainid =104
+/n
+/n
+/n
+Anaphora for manager of petroleum planning:Mainid =106
+/n
+/n
+/n
+Anaphora for The 19 million barrels a day:Mainid =108
+/n
+/n
+/n
+Anaphora for OPEC:Mainid =110
+/n
+/n
+/n
+Anaphora for comfort zone:Mainid =NEW108
+Anaphora for Mr. Szabo:Mainid =111
+/n
+/n
+/n

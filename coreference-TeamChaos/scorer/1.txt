@@ -1,41 +1,54 @@
-{'ID':55,'text':'Mr. Genoese','referrent':[u'48']}  ->  {'ID':48,'text':'Mr. Genoese','referrent':[u'NEW52']}
-{'ID':87,'text':'the Teamsters','referrent':[u'73']}  ->  {'ID':73,'text':'The Teamsters','referrent':[u'60']}
-{'ID':36,'text':'Pan Am','referrent':[u'25']}  ->  {'ID':25,'text':'Pan Am','referrent':[u'20']}
+{'ID':42,'text':'Pan Am','referrent':[u'36']}  ->  {'ID':36,'text':'Pan Am','referrent':[u'42']}
+{'ID':75,'text':'the union','referrent':[u'69']}  ->  {'ID':69,'text':'The union','referrent':[u'75']}
+{'ID':19,'text':'the talks','referrent':[u'52']}  ->  {'ID':52,'text':'their talks with the company','referrent':[u'19']}
+{'ID':71,'text':'arbitration','referrent':[u'16']}  ->  {'ID':16,'text':'arbitration','referrent':[u'71']}
+{'ID':55,'text':'Mr. Genoese','referrent':[u'48']}  ->  {'ID':48,'text':'Mr. Genoese','referrent':[u'55']}
+{'ID':12,'text':'the parties','referrent':[u'15']}  ->  {'ID':15,'text':'both parties','referrent':[u'X3']}
+{'ID':88,'text':'the union's agreement with the company','referrent':[u'83']}  ->  {'ID':83,'text':'the agreement','referrent':[u'34']}
+{'ID':23,'text':'the company','referrent':[u'64']}  ->  {'ID':64,'text':'the company','referrent':[u'23']}
+{'ID':51,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'51']}
+{'ID':32,'text':'that coalition','referrent':[u'35']}  ->  {'ID':35,'text':'the coalition','referrent':[u'32']}
+{'ID':1,'text':'Pan Am Corp.','referrent':[u'X1']}  ->  {'ID':X1,'text':'The National Mediation Board','referrent':['']}
+{'ID':63,'text':'we','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':[u'68']}
+{'ID':22,'text':'the board','referrent':[u'24']}  ->  {'ID':24,'text':'the board','referrent':[u'22']}
 {'ID':73,'text':'The Teamsters','referrent':[u'60']}  ->  {'ID':60,'text':'the Teamsters','referrent':[u'51']}
-{'ID':15,'text':'both parties','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'both sides','referrent':['']}
-{'ID':1,'text':'Pan Am Corp.','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':88,'text':'the unions agreement with the company','referrent':[u'83']}  ->  {'ID':83,'text':'the agreement','referrent':[u'75']}
-{'ID':60,'text':'the Teamsters','referrent':[u'51']}  ->  {'ID':51,'text':'the Teamsters','referrent':[u'46']}
-{'ID':56,'text':'he','referrent':[u'49']}  ->  {'ID':49,'text':'he','referrent':[u'10']}
-{'ID':6,'text':'the Teamsters','referrent':[u'2']}  ->  {'ID':2,'text':'its Teamsters union','referrent':[u'NEW3']}
-{'ID':58,'text':'That meeting','referrent':[u'NEW57']}  ->  {'ID':NEW57,'text':'initial meeting','referrent':['']}
-{'ID':25,'text':'Pan Am','referrent':[u'20']}  ->  {'ID':20,'text':'Pan Am','referrent':[u'17']}
-{'ID':46,'text':'the Teamsters','referrent':[u'31']}  ->  {'ID':31,'text':'the Teamsters union','referrent':[u'7']}
-{'ID':16,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
-{'ID':62,'text':'the negotiations','referrent':[u'13']}  ->  {'ID':13,'text':'negotiations','referrent':[u'77']}
-{'ID':47,'text':'that agreement','referrent':[u'29']}  ->  {'ID':29,'text':'The agreement','referrent':['']}
-{'ID':76,'text':'the negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'13']}
-{'ID':20,'text':'Pan Am','referrent':[u'17']}  ->  {'ID':17,'text':'Pan Am','referrent':[u'1']}
-{'ID':13,'text':'negotiations','referrent':[u'77']}  ->  {'ID':77,'text':'their long-stalled contract negotiations','referrent':['']}
-{'ID':17,'text':'Pan Am','referrent':[u'1']}  ->  {'ID':1,'text':'Pan Am Corp.','referrent':[u'NEW2']}
-{'ID':61,'text':'Pan Am','referrent':[u'42']}  ->  {'ID':42,'text':'Pan Am','referrent':[u'39']}
-{'ID':49,'text':'he','referrent':[u'10']}  ->  {'ID':10,'text':'he','referrent':[u'9']}
-{'ID':18,'text':'the National Mediation Board','referrent':[u'14']}  ->  {'ID':14,'text':'the mediation board','referrent':[u'12']}
+{'ID':85,'text':'He','referrent':[u'86']}  ->  {'ID':86,'text':'he','referrent':[u'56']}
+{'ID':52,'text':'their talks with the company','referrent':[u'19']}  ->  {'ID':19,'text':'the talks','referrent':[u'52']}
+{'ID':20,'text':'Pan Am','referrent':[u'17']}  ->  {'ID':17,'text':'Pan Am','referrent':[u'20']}
+{'ID':18,'text':'the National Mediation Board','referrent':[u'14']}  ->  {'ID':14,'text':'the mediation board','referrent':[u'11']}
+{'ID':68,'text':'We','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':[u'68']}
+{'ID':48,'text':'Mr. Genoese','referrent':[u'55']}  ->  {'ID':55,'text':'Mr. Genoese','referrent':[u'48']}
+{'ID':72,'text':'Pan Am','referrent':[u'67']}  ->  {'ID':67,'text':'Pan Am','referrent':[u'72']}
+{'ID':2,'text':'its Teamsters union','referrent':[u'31']}  ->  {'ID':31,'text':'the Teamsters union','referrent':[u'2']}
+{'ID':10,'text':'he','referrent':[u'9']}  ->  {'ID':9,'text':'he','referrent':[u'10']}
+{'ID':66,'text':'We','referrent':[u'68']}  ->  {'ID':68,'text':'We','referrent':[u'66']}
+{'ID':69,'text':'The union','referrent':[u'75']}  ->  {'ID':75,'text':'the union','referrent':[u'69']}
+{'ID':24,'text':'the board','referrent':[u'22']}  ->  {'ID':22,'text':'the board','referrent':[u'24']}
+{'ID':67,'text':'Pan Am','referrent':[u'72']}  ->  {'ID':72,'text':'Pan Am','referrent':[u'67']}
+{'ID':35,'text':'the coalition','referrent':[u'32']}  ->  {'ID':32,'text':'that coalition','referrent':[u'35']}
+{'ID':29,'text':'The agreement','referrent':[u'34']}  ->  {'ID':34,'text':'the agreement','referrent':[u'83']}
+{'ID':76,'text':'the negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'76']}
+{'ID':9,'text':'he','referrent':[u'10']}  ->  {'ID':10,'text':'he','referrent':[u'9']}
+{'ID':62,'text':'the negotiations','referrent':[u'76']}  ->  {'ID':76,'text':'the negotiations','referrent':[u'62']}
+{'ID':49,'text':'he','referrent':[u'56']}  ->  {'ID':56,'text':'he','referrent':[u'49']}
+{'ID':64,'text':'the company','referrent':[u'23']}  ->  {'ID':23,'text':'the company','referrent':[u'64']}
+{'ID':31,'text':'the Teamsters union','referrent':[u'2']}  ->  {'ID':2,'text':'its Teamsters union','referrent':[u'31']}
+{'ID':6,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'51']}
+{'ID':14,'text':'the mediation board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
+{'ID':13,'text':'negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'76']}
+{'ID':81,'text':'today','referrent':[u'X3']}  ->  {'ID':X3,'text':'today','referrent':['']}
+{'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'76']}  ->  {'ID':76,'text':'the negotiations','referrent':[u'62']}
+{'ID':74,'text':'The federal mediation board','referrent':[u'24']}  ->  {'ID':24,'text':'the board','referrent':[u'22']}
+{'ID':17,'text':'Pan Am','referrent':[u'20']}  ->  {'ID':20,'text':'Pan Am','referrent':[u'17']}
 {'ID':65,'text':'Mr. Genoese','referrent':[u'55']}  ->  {'ID':55,'text':'Mr. Genoese','referrent':[u'48']}
-{'ID':59,'text':'Mr. Coleman','referrent':[u'NEW54']}  ->  {'ID':NEW54,'text':'Mr. Coleman','referrent':['']}
-{'ID':70,'text':'it','referrent':[u'33']}  ->  {'ID':33,'text':'it','referrent':[u'26']}
-{'ID':51,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'31']}
-{'ID':67,'text':'Pan Am','referrent':[u'61']}  ->  {'ID':61,'text':'Pan Am','referrent':[u'42']}
-{'ID':10,'text':'he','referrent':[u'9']}  ->  {'ID':9,'text':'he','referrent':[u'NEW7']}
-{'ID':68,'text':'We','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':['']}
-Number of pronouns resolved: 5 (0.33)
-Number of common nouns resolved: 7 (0.27)
-Number of proper nouns resolved: 18 (0.64)
-Response resolutions: 60
-Truth resolutions: 69
-Total correct: 30
-Document b13 Score:  0.43
-
--------------------------------------------------
-Final accuracy score: 0.4348
--------------------------------------------------
+{'ID':56,'text':'he','referrent':[u'49']}  ->  {'ID':49,'text':'he','referrent':[u'56']}
+{'ID':47,'text':'that agreement','referrent':[u'34']}  ->  {'ID':34,'text':'the agreement','referrent':[u'83']}
+{'ID':61,'text':'Pan Am','referrent':[u'67']}  ->  {'ID':67,'text':'Pan Am','referrent':[u'72']}
+{'ID':60,'text':'the Teamsters','referrent':[u'51']}  ->  {'ID':51,'text':'the Teamsters','referrent':[u'46']}
+{'ID':46,'text':'the Teamsters','referrent':[u'51']}  ->  {'ID':51,'text':'the Teamsters','referrent':[u'46']}
+{'ID':87,'text':'the Teamsters','referrent':[u'60']}  ->  {'ID':60,'text':'the Teamsters','referrent':[u'51']}
+{'ID':36,'text':'Pan Am','referrent':[u'42']}  ->  {'ID':42,'text':'Pan Am','referrent':[u'36']}
+{'ID':11,'text':'the board','referrent':[u'22']}  ->  {'ID':22,'text':'the board','referrent':[u'24']}
+{'ID':58,'text':'That meeting','referrent':[u'X6']}  ->  {'ID':X6,'text':'meeting','referrent':['']}
+{'ID':16,'text':'arbitration','referrent':[u'71']}  ->  {'ID':71,'text':'arbitration','referrent':[u'16']}
+{'ID':25,'text':'Pan Am','referrent':[u'20']}  ->  {'ID':20,'text':'Pan Am','referrent':[u'17']}

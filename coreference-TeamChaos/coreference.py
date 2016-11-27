@@ -80,7 +80,11 @@ def getCoreference(coreference, corefRadius):
     distanceClusterProcessing(df, coreference,corefRadius)
 
 
-def isAppositive(np1, np2, coref):
+def isAppositive(np1, np2, coref, indexI, indexJ):
+
+    ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
+    if df['semanticClass'].loc[indexI] in ignoreSemanticClass or df['semanticClass'].loc[indexJ] in ignoreSemanticClass:
+        return False
     regex = np1 + '[ ]*,[ ]*' + np2
     p = re.compile(regex)  # define pattern
     text = coref.fullText  # whole document text
@@ -173,6 +177,7 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
     demonym = demonynClassification.DemonymClassify()
     demonym.createDemonym()
 
+
     wordList_i = wordI.strip().split()
     wordList_j = wordJ.strip().split()
 
@@ -180,7 +185,8 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
     lenWordj = len(set(wordList_j))
     matchWordCount  = len(set(wordList_i) & set(wordList_j))
 
-    if isAppositive(wordJ, wordI, coreference):
+    if isAppositive(wordJ, wordI, coreference, indexI, indexJ):
+        print "appositive match for:" + wordJ +wordI
         return 0
 
     if wordI == wordJ:
@@ -280,8 +286,8 @@ if __name__ == "__main__":
             df['RefId'] = -1
 
             getCoreference(coreference, corefRadius)
-            print df[1:100]
-            print df[100:240]
+            # print df[1:100]
+            # print df[100:240]
             columnReturnList = ['words','Id','RefId']
             slicedDF = df[columnReturnList]
             # print slicedDF

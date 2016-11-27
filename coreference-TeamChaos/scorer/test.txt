@@ -1,55 +1,396 @@
-{'ID':51,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
-{'ID':23,'text':'the company','referrent':[u'64']}  ->  {'ID':64,'text':'the company','referrent':[u'23']}
-{'ID':58,'text':'That meeting','referrent':[u'NEW57']}  ->  {'ID':NEW57,'text':'initial meeting','referrent':['']}
-{'ID':66,'text':'We','referrent':[u'68']}  ->  {'ID':68,'text':'We','referrent':[u'66']}
-{'ID':18,'text':'the National Mediation Board','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'The National Mediation Board','referrent':['']}
-{'ID':1,'text':'Pan Am Corp.','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':10,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
-{'ID':67,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}  ->  {'ID':13,'text':'negotiations','referrent':[u'77']}
-{'ID':56,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
-{'ID':68,'text':'We','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':[u'68']}
-{'ID':16,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
-{'ID':87,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
-{'ID':11,'text':'the board','referrent':[u'22']}  ->  {'ID':22,'text':'the board','referrent':[u'11']}
-{'ID':6,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'6']}
-{'ID':49,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
+{'ID':2,'text':'FAMILIES','referrent':[u'3']}  ->  {'ID':3,'text':'FAMILIES','referrent':[u'2']}
+{'ID':3,'text':'FAMILIES','referrent':[u'2']}  ->  {'ID':2,'text':'FAMILIES','referrent':[u'3']}
+{'ID':6,'text':'The Russian airline Aeroflot','referrent':[u'26']}  ->  {'ID':26,'text':'Aeroflot','referrent':[u'6']}
+{'ID':39,'text':'Hong Kong','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'Hong Kong','referrent':['']}
+{'ID':12,'text':'it','referrent':[u'29']}  ->  {'ID':29,'text':'it','referrent':[u'12']}
+{'ID':16,'text':'the writ','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'a writ','referrent':['']}
+{'ID':41,'text':'Hong Kong','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'Hong Kong','referrent':['']}
+{'ID':22,'text':'Hong Kong','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'Hong Kong','referrent':['']}
+{'ID':42,'text':'Mr Miller','referrent':[u'NEW57']}  ->  {'ID':NEW57,'text':'Aviation consultant Steve Miller','referrent':['']}
+{'ID':26,'text':'Aeroflot','referrent':[u'6']}  ->  {'ID':6,'text':'The Russian airline Aeroflot','referrent':[u'26']}
+{'ID':29,'text':'it','referrent':[u'12']}  ->  {'ID':12,'text':'it','referrent':[u'29']}
+Number of pronouns resolved: 2 (0.33)
+Number of common nouns resolved: 1 (0.11)
+Number of proper nouns resolved: 8 (0.57)
+Response resolutions: 24
+Truth resolutions: 29
+Total correct: 11
+Document a13 Score:  0.38
+
+{'ID':30,'text':'it','referrent':[u'32']}  ->  {'ID':32,'text':'it','referrent':[u'30']}
+{'ID':31,'text':'the limit','referrent':[u'15']}  ->  {'ID':15,'text':'the limit','referrent':[u'31']}
+{'ID':15,'text':'the limit','referrent':[u'31']}  ->  {'ID':31,'text':'the limit','referrent':[u'15']}
+{'ID':32,'text':'it','referrent':[u'30']}  ->  {'ID':30,'text':'it','referrent':[u'32']}
+{'ID':53,'text':'United States','referrent':[u'17']}  ->  {'ID':17,'text':'United States','referrent':[u'23']}
+{'ID':55,'text':'United States','referrent':[u'17']}  ->  {'ID':17,'text':'United States','referrent':[u'23']}
+{'ID':54,'text':' Americans ','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'Americans','referrent':['']}
+{'ID':35,'text':'the  airlines ','referrent':[u'24']}  ->  {'ID':24,'text':'the airlines','referrent':[u'35']}
+{'ID':7,'text':'The Warsaw Convention','referrent':[u'22']}  ->  {'ID':22,'text':'The Warsaw Convention','referrent':[u'7']}
+{'ID':22,'text':'The Warsaw Convention','referrent':[u'7']}  ->  {'ID':7,'text':'The Warsaw Convention','referrent':[u'22']}
+{'ID':36,'text':'airlines','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'airlines','referrent':['']}
+{'ID':23,'text':'United States','referrent':[u'17']}  ->  {'ID':17,'text':'United States','referrent':[u'23']}
+{'ID':38,'text':'The airlines','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'airlines','referrent':['']}
+{'ID':17,'text':'United States','referrent':[u'23']}  ->  {'ID':23,'text':'United States','referrent':[u'17']}
+{'ID':24,'text':'the airlines','referrent':[u'35']}  ->  {'ID':35,'text':'the  airlines ','referrent':[u'24']}
+{'ID':57,'text':'here','referrent':[u'59']}  ->  {'ID':59,'text':'here','referrent':[u'57']}
+{'ID':11,'text':'the accord','referrent':[u'12']}  ->  {'ID':12,'text':'the accord','referrent':[u'11']}
+{'ID':26,'text':'the low liability limit','referrent':[u'15']}  ->  {'ID':15,'text':'the limit','referrent':[u'31']}
+{'ID':12,'text':'the accord','referrent':[u'11']}  ->  {'ID':11,'text':'the accord','referrent':[u'12']}
+{'ID':59,'text':'here','referrent':[u'57']}  ->  {'ID':57,'text':'here','referrent':[u'59']}
+Number of pronouns resolved: 2 (0.22)
+Number of common nouns resolved: 10 (0.42)
+Number of proper nouns resolved: 8 (0.67)
+Response resolutions: 34
+Truth resolutions: 45
+Total correct: 20
+Document a14 Score:  0.44
+
+{'ID':28,'text':'Tudjman','referrent':[u'NEW30']}  ->  {'ID':NEW30,'text':'President Franjo Tudjman','referrent':['']}
+{'ID':61,'text':'Dubrovnik','referrent':[u'11']}  ->  {'ID':11,'text':'Dubrovnik','referrent':[u'NEW89']}
+{'ID':50,'text':'Galbraith','referrent':[u'34']}  ->  {'ID':34,'text':'Peter W. Galbraith','referrent':[u'4']}
+{'ID':62,'text':'Saturday','referrent':[u'35']}  ->  {'ID':35,'text':'Saturday','referrent':[u'58']}
+{'ID':30,'text':'our','referrent':[u'20']}  ->  {'ID':20,'text':'our','referrent':[u'30']}
+{'ID':35,'text':'Saturday','referrent':[u'58']}  ->  {'ID':58,'text':'Saturday','referrent':[u'35']}
+{'ID':20,'text':'our','referrent':[u'30']}  ->  {'ID':30,'text':'our','referrent':[u'20']}
+{'ID':37,'text':'the ambassador','referrent':[u'NEW47']}  ->  {'ID':NEW47,'text':'the American ambassador','referrent':['']}
+{'ID':58,'text':'Saturday','referrent':[u'35']}  ->  {'ID':35,'text':'Saturday','referrent':[u'58']}
+Number of pronouns resolved: 0 (0.00)
+Number of common nouns resolved: 3 (0.18)
+Number of proper nouns resolved: 6 (0.26)
+Response resolutions: 31
+Truth resolutions: 46
+Total correct: 9
+Document a15 Score:  0.20
+
+{'ID':22,'text':'the island','referrent':[u'27']}  ->  {'ID':27,'text':'the island','referrent':[u'22']}
+{'ID':2,'text':'CHINA','referrent':[u'25']}  ->  {'ID':25,'text':'China','referrent':[u'2']}
+{'ID':24,'text':'Macau','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'Macau','referrent':['']}
+{'ID':25,'text':'China','referrent':[u'2']}  ->  {'ID':2,'text':'CHINA','referrent':[u'25']}
+{'ID':13,'text':'the helicopter','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'their helicopter','referrent':['']}
+{'ID':27,'text':'the island','referrent':[u'22']}  ->  {'ID':22,'text':'the island','referrent':[u'27']}
+{'ID':28,'text':'Macau','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'Macau','referrent':['']}
+{'ID':23,'text':'Zhuhai','referrent':[u'NEW11']}  ->  {'ID':NEW11,'text':'Zhuhai','referrent':['']}
+{'ID':30,'text':'Zhuhai','referrent':[u'NEW11']}  ->  {'ID':NEW11,'text':'Zhuhai','referrent':['']}
+{'ID':16,'text':'Macau','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'Macau','referrent':['']}
+{'ID':31,'text':'the crew','referrent':[u'5']}  ->  {'ID':5,'text':'Two Chinese crew members','referrent':[u'NEW19']}
+{'ID':18,'text':'the Sikorsky 76','referrent':[u'13']}  ->  {'ID':13,'text':'the helicopter','referrent':[u'NEW8']}
+{'ID':8,'text':'Macau','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'Macau','referrent':['']}
+{'ID':35,'text':'China','referrent':[u'2']}  ->  {'ID':2,'text':'CHINA','referrent':[u'25']}
+{'ID':4,'text':'CHINA','referrent':[u'25']}  ->  {'ID':25,'text':'China','referrent':[u'2']}
+Number of pronouns resolved: 0 (0.00)
+Number of common nouns resolved: 4 (0.29)
+Number of proper nouns resolved: 11 (0.58)
+Response resolutions: 25
+Truth resolutions: 35
+Total correct: 15
+Document a16 Score:  0.43
+
+{'ID':27,'text':'his','referrent':[u'11']}  ->  {'ID':11,'text':'his','referrent':[u'12']}
+{'ID':40,'text':'her','referrent':[u'38']}  ->  {'ID':38,'text':'her','referrent':[u'40']}
+{'ID':10,'text':'he','referrent':[u'53']}  ->  {'ID':53,'text':'he','referrent':[u'10']}
+{'ID':32,'text':'flying','referrent':[u'33']}  ->  {'ID':33,'text':'flying','referrent':[u'32']}
+{'ID':51,'text':'a member of the San Mateo County Airport Land Use Committee','referrent':[u'18']}  ->  {'ID':18,'text':'a broker at the Dean Witter Reynolds office in Palo Alto','referrent':[u'51']}
+{'ID':2,'text':'REID','referrent':[u'4']}  ->  {'ID':4,'text':'JOE REID','referrent':[u'2']}
+{'ID':48,'text':'Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':44,'text':'flying','referrent':[u'32']}  ->  {'ID':32,'text':'flying','referrent':[u'33']}
+{'ID':26,'text':'a Vietnam veteran','referrent':[u'16']}  ->  {'ID':16,'text':'a real by-the-book guy','referrent':[u'18']}
+{'ID':42,'text':'he','referrent':[u'53']}  ->  {'ID':53,'text':'he','referrent':[u'10']}
+{'ID':18,'text':'a broker at the Dean Witter Reynolds office in Palo Alto','referrent':[u'51']}  ->  {'ID':51,'text':'a member of the San Mateo County Airport Land Use Committee','referrent':[u'18']}
+{'ID':17,'text':'Reid','referrent':[u'23']}  ->  {'ID':23,'text':'Reid','referrent':[u'17']}
+{'ID':16,'text':'a real by-the-book guy','referrent':[u'18']}  ->  {'ID':18,'text':'a broker at the Dean Witter Reynolds office in Palo Alto','referrent':[u'51']}
+{'ID':46,'text':'Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':31,'text':'He','referrent':[u'15']}  ->  {'ID':15,'text':'He','referrent':[u'24']}
+{'ID':11,'text':'his','referrent':[u'12']}  ->  {'ID':12,'text':'his','referrent':[u'11']}
+{'ID':12,'text':'his','referrent':[u'11']}  ->  {'ID':11,'text':'his','referrent':[u'12']}
+{'ID':4,'text':'JOE REID','referrent':[u'2']}  ->  {'ID':2,'text':'REID','referrent':[u'4']}
+{'ID':6,'text':'Joe Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':34,'text':'Auld','referrent':[u'NEW26']}  ->  {'ID':NEW26,'text':'George Auld','referrent':['']}
+{'ID':33,'text':'flying','referrent':[u'32']}  ->  {'ID':32,'text':'flying','referrent':[u'33']}
+{'ID':38,'text':'her','referrent':[u'40']}  ->  {'ID':40,'text':'her','referrent':[u'38']}
+{'ID':35,'text':'Joe','referrent':[u'6']}  ->  {'ID':6,'text':'Joe Reid','referrent':[u'17']}
+{'ID':23,'text':'Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':36,'text':'Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':25,'text':'Reid','referrent':[u'17']}  ->  {'ID':17,'text':'Reid','referrent':[u'23']}
+{'ID':53,'text':'he','referrent':[u'10']}  ->  {'ID':10,'text':'he','referrent':[u'53']}
+{'ID':50,'text':'He','referrent':[u'15']}  ->  {'ID':15,'text':'He','referrent':[u'24']}
+Number of pronouns resolved: 10 (0.62)
+Number of common nouns resolved: 4 (0.36)
+Number of proper nouns resolved: 14 (0.61)
+Response resolutions: 43
+Truth resolutions: 50
+Total correct: 28
+Document a17 Score:  0.56
+
+{'ID':39,'text':'its','referrent':[u'42']}  ->  {'ID':42,'text':'its','referrent':[u'39']}
+{'ID':29,'text':'1987','referrent':[u'3']}  ->  {'ID':3,'text':'1987','referrent':[u'8']}
+{'ID':9,'text':'the bank','referrent':[u'6']}  ->  {'ID':6,'text':'the bank','referrent':[u'9']}
+{'ID':27,'text':'1987','referrent':[u'3']}  ->  {'ID':3,'text':'1987','referrent':[u'8']}
+{'ID':6,'text':'the bank','referrent':[u'9']}  ->  {'ID':9,'text':'the bank','referrent':[u'6']}
+{'ID':26,'text':'group sales','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'group sales','referrent':['']}
+{'ID':43,'text':'its','referrent':[u'39']}  ->  {'ID':39,'text':'its','referrent':[u'42']}
+{'ID':15,'text':'the review','referrent':[u'NEW33']}  ->  {'ID':NEW33,'text':'review','referrent':['']}
+{'ID':8,'text':'1987','referrent':[u'3']}  ->  {'ID':3,'text':'1987','referrent':[u'8']}
+{'ID':3,'text':'1987','referrent':[u'8']}  ->  {'ID':8,'text':'1987','referrent':[u'3']}
+{'ID':42,'text':'its','referrent':[u'39']}  ->  {'ID':39,'text':'its','referrent':[u'42']}
+Number of pronouns resolved: 3 (0.43)
+Number of common nouns resolved: 8 (0.62)
+Number of proper nouns resolved: 0 (0.00)
+Response resolutions: 24
+Truth resolutions: 31
+Total correct: 11
+Document b11 Score:  0.35
+
+{'ID':4,'text':'Comsat','referrent':[u'5']}  ->  {'ID':5,'text':'Comsat','referrent':[u'4']}
+{'ID':7,'text':'Comsat','referrent':[u'4']}  ->  {'ID':4,'text':'Comsat','referrent':[u'5']}
+{'ID':13,'text':'Digital service','referrent':[u'11']}  ->  {'ID':11,'text':'the new digital service','referrent':[u'NEW8']}
+{'ID':5,'text':'Comsat','referrent':[u'4']}  ->  {'ID':4,'text':'Comsat','referrent':[u'5']}
+{'ID':10,'text':'AT@amp;T','referrent':[u'6']}  ->  {'ID':6,'text':'AT@amp;T','referrent':[u'10']}
+{'ID':14,'text':'Comsat','referrent':[u'4']}  ->  {'ID':4,'text':'Comsat','referrent':[u'5']}
+{'ID':12,'text':'the price reductions','referrent':[u'NEW13']}  ->  {'ID':NEW13,'text':'the reductions','referrent':['']}
+{'ID':9,'text':'Comsat','referrent':[u'4']}  ->  {'ID':4,'text':'Comsat','referrent':[u'5']}
+{'ID':6,'text':'AT@amp;T','referrent':[u'10']}  ->  {'ID':10,'text':'AT@amp;T','referrent':[u'6']}
+Number of pronouns resolved: 0 (0.00)
+Number of common nouns resolved: 1 (0.33)
+Number of proper nouns resolved: 8 (0.89)
+Response resolutions: 11
+Truth resolutions: 13
+Total correct: 9
+Document b12 Score:  0.69
+
 {'ID':52,'text':'their talks with the company','referrent':[u'19']}  ->  {'ID':19,'text':'the talks','referrent':[u'52']}
+{'ID':48,'text':'Mr. Genoese','referrent':[u'55']}  ->  {'ID':55,'text':'Mr. Genoese','referrent':[u'48']}
+{'ID':17,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':68,'text':'We','referrent':[u'66']}  ->  {'ID':66,'text':'We','referrent':[u'68']}
+{'ID':66,'text':'We','referrent':[u'68']}  ->  {'ID':68,'text':'We','referrent':[u'66']}
+{'ID':13,'text':'negotiations','referrent':[u'77']}  ->  {'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}
+{'ID':64,'text':'the company','referrent':[u'23']}  ->  {'ID':23,'text':'the company','referrent':[u'64']}
+{'ID':61,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':56,'text':'he','referrent':[u'9']}  ->  {'ID':9,'text':'he','referrent':[u'10']}
+{'ID':75,'text':'the union','referrent':[u'31']}  ->  {'ID':31,'text':'the Teamsters union','referrent':[u'6']}
+{'ID':67,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':72,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':14,'text':'the mediation board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
+{'ID':74,'text':'The federal mediation board','referrent':[u'14']}  ->  {'ID':14,'text':'the mediation board','referrent':[u'11']}
+{'ID':49,'text':'he','referrent':[u'9']}  ->  {'ID':9,'text':'he','referrent':[u'10']}
+{'ID':9,'text':'he','referrent':[u'10']}  ->  {'ID':10,'text':'he','referrent':[u'9']}
+{'ID':55,'text':'Mr. Genoese','referrent':[u'48']}  ->  {'ID':48,'text':'Mr. Genoese','referrent':[u'55']}
+{'ID':11,'text':'the board','referrent':[u'22']}  ->  {'ID':22,'text':'the board','referrent':[u'11']}
+{'ID':59,'text':'Mr. Coleman','referrent':[u'NEW54']}  ->  {'ID':NEW54,'text':'Mr. Coleman','referrent':['']}
+{'ID':60,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':42,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':20,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':19,'text':'the talks','referrent':[u'52']}  ->  {'ID':52,'text':'their talks with the company','referrent':[u'19']}
 {'ID':24,'text':'the board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
 {'ID':7,'text':'head of the airline division of the International Brotherhood of Teamsters','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
-{'ID':9,'text':'he','referrent':[u'NEW17']}  ->  {'ID':NEW17,'text':'William Genoese','referrent':['']}
-{'ID':36,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':25,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':59,'text':'Mr. Coleman','referrent':[u'NEW54']}  ->  {'ID':NEW54,'text':'Mr. Coleman','referrent':['']}
-{'ID':42,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':72,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':19,'text':'the talks','referrent':[u'52']}  ->  {'ID':52,'text':'their talks with the company','referrent':[u'19']}
-{'ID':75,'text':'the union','referrent':[u'31']}  ->  {'ID':31,'text':'the Teamsters union','referrent':[u'6']}
-{'ID':60,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
-{'ID':74,'text':'The federal mediation board','referrent':[u'14']}  ->  {'ID':14,'text':'the mediation board','referrent':[u'NEW21']}
-{'ID':61,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
-{'ID':46,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
-{'ID':39,'text':'a Pan Am director and Washington attorney','referrent':[u'NEW46']}  ->  {'ID':NEW46,'text':'William T. Coleman','referrent':['']}
-{'ID':31,'text':'the Teamsters union','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
-{'ID':62,'text':'the negotiations','referrent':[u'76']}  ->  {'ID':76,'text':'the negotiations','referrent':[u'62']}
-{'ID':13,'text':'negotiations','referrent':[u'77']}  ->  {'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}
-{'ID':47,'text':'that agreement','referrent':[u'29']}  ->  {'ID':29,'text':'The agreement','referrent':[u'NEW6']}
-{'ID':22,'text':'the board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
-{'ID':76,'text':'the negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'76']}
-{'ID':32,'text':'that coalition','referrent':[u'NEW38']}  ->  {'ID':NEW38,'text':'a coalition','referrent':['']}
-{'ID':15,'text':'both parties','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'both sides','referrent':['']}
-{'ID':17,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':1,'text':'Pan Am Corp.','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
 {'ID':71,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
-{'ID':64,'text':'the company','referrent':[u'23']}  ->  {'ID':23,'text':'the company','referrent':[u'64']}
-{'ID':20,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':22,'text':'the board','referrent':[u'11']}  ->  {'ID':11,'text':'the board','referrent':[u'22']}
+{'ID':58,'text':'That meeting','referrent':[u'NEW57']}  ->  {'ID':NEW57,'text':'initial meeting','referrent':['']}
+{'ID':65,'text':'Mr. Genoese','referrent':[u'48']}  ->  {'ID':48,'text':'Mr. Genoese','referrent':[u'55']}
+{'ID':51,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':77,'text':'their long-stalled contract negotiations','referrent':[u'13']}  ->  {'ID':13,'text':'negotiations','referrent':[u'77']}
+{'ID':16,'text':'arbitration','referrent':[u'NEW9']}  ->  {'ID':NEW9,'text':'arbitration','referrent':['']}
+{'ID':32,'text':'that coalition','referrent':[u'NEW38']}  ->  {'ID':NEW38,'text':'a coalition','referrent':['']}
+{'ID':23,'text':'the company','referrent':[u'64']}  ->  {'ID':64,'text':'the company','referrent':[u'23']}
+{'ID':15,'text':'both parties','referrent':[u'NEW8']}  ->  {'ID':NEW8,'text':'both sides','referrent':['']}
+{'ID':25,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':31,'text':'the Teamsters union','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':6,'text':'the Teamsters','referrent':[u'46']}  ->  {'ID':46,'text':'the Teamsters','referrent':[u'6']}
+{'ID':76,'text':'the negotiations','referrent':[u'62']}  ->  {'ID':62,'text':'the negotiations','referrent':[u'76']}
+{'ID':46,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
+{'ID':18,'text':'the National Mediation Board','referrent':[u'NEW6']}  ->  {'ID':NEW6,'text':'The National Mediation Board','referrent':['']}
+{'ID':36,'text':'Pan Am','referrent':[u'NEW2']}  ->  {'ID':NEW2,'text':'Pan Am','referrent':['']}
+{'ID':10,'text':'he','referrent':[u'9']}  ->  {'ID':9,'text':'he','referrent':[u'10']}
+{'ID':47,'text':'that agreement','referrent':[u'29']}  ->  {'ID':29,'text':'The agreement','referrent':[u'NEW6']}
+{'ID':39,'text':'a Pan Am director and Washington attorney','referrent':[u'NEW46']}  ->  {'ID':NEW46,'text':'William T. Coleman','referrent':['']}
+{'ID':62,'text':'the negotiations','referrent':[u'76']}  ->  {'ID':76,'text':'the negotiations','referrent':[u'62']}
+{'ID':87,'text':'the Teamsters','referrent':[u'6']}  ->  {'ID':6,'text':'the Teamsters','referrent':[u'46']}
 Number of pronouns resolved: 6 (0.40)
-Number of common nouns resolved: 17 (0.65)
-Number of proper nouns resolved: 21 (0.75)
+Number of common nouns resolved: 18 (0.69)
+Number of proper nouns resolved: 24 (0.86)
 Response resolutions: 66
 Truth resolutions: 69
-Total correct: 44
-Document b13 Score:  0.64
+Total correct: 48
+Document b13 Score:  0.70
+
+{'ID':57,'text':'wage','referrent':[u'34']}  ->  {'ID':34,'text':'wage','referrent':[u'57']}
+{'ID':37,'text':'1986','referrent':[u'NEW14']}  ->  {'ID':NEW14,'text':'1986','referrent':['']}
+{'ID':63,'text':'wage','referrent':[u'34']}  ->  {'ID':34,'text':'wage','referrent':[u'57']}
+{'ID':40,'text':'the life of the settlements','referrent':[u'NEW25']}  ->  {'ID':NEW25,'text':'the life','referrent':['']}
+{'ID':61,'text':'last year','referrent':[u'11']}  ->  {'ID':11,'text':'last year','referrent':[u'13']}
+{'ID':44,'text':'Department officials','referrent':[u'50']}  ->  {'ID':50,'text':'officials','referrent':[u'44']}
+{'ID':68,'text':'last year','referrent':[u'11']}  ->  {'ID':11,'text':'last year','referrent':[u'13']}
+{'ID':50,'text':'officials','referrent':[u'44']}  ->  {'ID':44,'text':'Department officials','referrent':[u'50']}
+{'ID':26,'text':'the department','referrent':[u'14']}  ->  {'ID':14,'text':'the department','referrent':[u'26']}
+{'ID':51,'text':'labor','referrent':[u'60']}  ->  {'ID':60,'text':'labor','referrent':[u'51']}
+{'ID':53,'text':'the department','referrent':[u'14']}  ->  {'ID':14,'text':'the department','referrent':[u'26']}
+{'ID':11,'text':'last year','referrent':[u'13']}  ->  {'ID':13,'text':'last year','referrent':[u'11']}
+{'ID':34,'text':'wage','referrent':[u'57']}  ->  {'ID':57,'text':'wage','referrent':[u'34']}
+{'ID':13,'text':'last year','referrent':[u'11']}  ->  {'ID':11,'text':'last year','referrent':[u'13']}
+{'ID':69,'text':'the first contract year','referrent':[u'NEW83']}  ->  {'ID':NEW83,'text':'the first contract year','referrent':['']}
+{'ID':35,'text':'last year','referrent':[u'11']}  ->  {'ID':11,'text':'last year','referrent':[u'13']}
+{'ID':60,'text':'labor','referrent':[u'51']}  ->  {'ID':51,'text':'labor','referrent':[u'60']}
+{'ID':36,'text':'pay','referrent':[u'NEW10']}  ->  {'ID':NEW10,'text':'pay','referrent':['']}
+{'ID':14,'text':'the department','referrent':[u'26']}  ->  {'ID':26,'text':'the department','referrent':[u'14']}
+Number of pronouns resolved: 0 (0.00)
+Number of common nouns resolved: 18 (0.69)
+Number of proper nouns resolved: 1 (0.20)
+Response resolutions: 30
+Truth resolutions: 34
+Total correct: 19
+Document b14 Score:  0.56
+
+{'ID':34,'text':'they','referrent':[u'35']}  ->  {'ID':35,'text':'they','referrent':[u'34']}
+{'ID':35,'text':'they','referrent':[u'34']}  ->  {'ID':34,'text':'they','referrent':[u'35']}
+{'ID':10,'text':'Northwest','referrent':[u'13']}  ->  {'ID':13,'text':'Northwest','referrent':[u'10']}
+{'ID':16,'text':'The union','referrent':[u'4']}  ->  {'ID':4,'text':'The Northwest Airlines flight attendants union','referrent':[u'10']}
+{'ID':25,'text':'union leaders','referrent':[u'NEW12']}  ->  {'ID':NEW12,'text':'leaders','referrent':['']}
+{'ID':15,'text':'Northwest','referrent':[u'10']}  ->  {'ID':10,'text':'Northwest','referrent':[u'13']}
+{'ID':13,'text':'Northwest','referrent':[u'10']}  ->  {'ID':10,'text':'Northwest','referrent':[u'13']}
+{'ID':11,'text':'the attendants','referrent':[u'4']}  ->  {'ID':4,'text':'The Northwest Airlines flight attendants union','referrent':[u'10']}
+{'ID':40,'text':'the company','referrent':[u'7']}  ->  {'ID':7,'text':'the NWA Inc. unit','referrent':['']}
+Number of pronouns resolved: 2 (0.40)
+Number of common nouns resolved: 3 (0.33)
+Number of proper nouns resolved: 4 (0.40)
+Response resolutions: 16
+Truth resolutions: 24
+Total correct: 9
+Document b15 Score:  0.38
+
+{'ID':37,'text':'the company','referrent':[u'14']}  ->  {'ID':14,'text':'the company','referrent':[u'37']}
+{'ID':31,'text':'a policy','referrent':[u'3']}  ->  {'ID':3,'text':'a formal grievance procedure','referrent':[u'29']}
+{'ID':47,'text':'Mr. St. John','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. St. John','referrent':[u'18']}
+{'ID':24,'text':'its','referrent':[u'21']}  ->  {'ID':21,'text':'its','referrent':[u'23']}
+{'ID':7,'text':'Chrysler','referrent':[u'25']}  ->  {'ID':25,'text':'Chrysler','referrent':[u'7']}
+{'ID':43,'text':'Chrysler','referrent':[u'7']}  ->  {'ID':7,'text':'Chrysler','referrent':[u'25']}
+{'ID':25,'text':'Chrysler','referrent':[u'7']}  ->  {'ID':7,'text':'Chrysler','referrent':[u'25']}
+{'ID':50,'text':'a four-step grievance process','referrent':[u'3']}  ->  {'ID':3,'text':'a formal grievance procedure','referrent':[u'29']}
+{'ID':18,'text':'Mr. St. John','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. St. John','referrent':[u'18']}
+{'ID':49,'text':'It','referrent':[u'32']}  ->  {'ID':32,'text':'It','referrent':[u'49']}
+{'ID':12,'text':'management','referrent':[u'NEW97']}  ->  {'ID':NEW97,'text':'management','referrent':['']}
+{'ID':32,'text':'It','referrent':[u'49']}  ->  {'ID':49,'text':'It','referrent':[u'32']}
+{'ID':13,'text':'Mr. St. John','referrent':[u'18']}  ->  {'ID':18,'text':'Mr. St. John','referrent':[u'13']}
+{'ID':29,'text':'a formal grievance procedure with third-party arbitration','referrent':[u'3']}  ->  {'ID':3,'text':'a formal grievance procedure','referrent':[u'29']}
+{'ID':17,'text':'a formal and impartial internal mechanism','referrent':[u'3']}  ->  {'ID':3,'text':'a formal grievance procedure','referrent':[u'29']}
+{'ID':21,'text':'its','referrent':[u'23']}  ->  {'ID':23,'text':'its','referrent':[u'21']}
+{'ID':23,'text':'its','referrent':[u'21']}  ->  {'ID':21,'text':'its','referrent':[u'23']}
+{'ID':14,'text':'the company','referrent':[u'37']}  ->  {'ID':37,'text':'the company','referrent':[u'14']}
+{'ID':3,'text':'a formal grievance procedure','referrent':[u'29']}  ->  {'ID':29,'text':'a formal grievance procedure with third-party arbitration','referrent':[u'3']}
+{'ID':46,'text':'Chrysler','referrent':[u'7']}  ->  {'ID':7,'text':'Chrysler','referrent':[u'25']}
+{'ID':2,'text':'Chrysler Corp.','referrent':[u'7']}  ->  {'ID':7,'text':'Chrysler','referrent':[u'25']}
+Number of pronouns resolved: 5 (0.56)
+Number of common nouns resolved: 8 (0.44)
+Number of proper nouns resolved: 8 (0.62)
+Response resolutions: 36
+Truth resolutions: 40
+Total correct: 21
+Document b16 Score:  0.53
+
+{'ID':15,'text':'he','referrent':[u'3']}  ->  {'ID':3,'text':'he','referrent':[u'15']}
+{'ID':23,'text':'we','referrent':[u'27']}  ->  {'ID':27,'text':'we','referrent':[u'23']}
+{'ID':14,'text':'Mr. Reagan','referrent':[u'8']}  ->  {'ID':8,'text':'Mr. Reagan','referrent':[u'12']}
+{'ID':21,'text':'he','referrent':[u'3']}  ->  {'ID':3,'text':'he','referrent':[u'15']}
+{'ID':27,'text':'we','referrent':[u'23']}  ->  {'ID':23,'text':'we','referrent':[u'27']}
+{'ID':16,'text':'Mr. Gorbachev','referrent':[u'NEW7']}  ->  {'ID':NEW7,'text':'Soviet leader Mikhail Gorbachev','referrent':['']}
+{'ID':8,'text':'Mr. Reagan','referrent':[u'12']}  ->  {'ID':12,'text':'Mr. Reagan','referrent':[u'8']}
+{'ID':3,'text':'he','referrent':[u'15']}  ->  {'ID':15,'text':'he','referrent':[u'3']}
+{'ID':12,'text':'Mr. Reagan','referrent':[u'8']}  ->  {'ID':8,'text':'Mr. Reagan','referrent':[u'12']}
+{'ID':31,'text':'Mr. Reagan','referrent':[u'8']}  ->  {'ID':8,'text':'Mr. Reagan','referrent':[u'12']}
+Number of pronouns resolved: 5 (0.62)
+Number of common nouns resolved: 0 (0.00)
+Number of proper nouns resolved: 5 (0.45)
+Response resolutions: 17
+Truth resolutions: 23
+Total correct: 10
+Document b17 Score:  0.43
+
+{'ID':66,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':26,'text':'I','referrent':[u'23']}  ->  {'ID':23,'text':'I','referrent':[u'26']}
+{'ID':46,'text':'head of the machinists union at Eastern','referrent':[u'NEW93']}  ->  {'ID':NEW93,'text':'Charles Bryan','referrent':['']}
+{'ID':50,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':72,'text':'Texas Air','referrent':[u'70']}  ->  {'ID':70,'text':'Texas Air','referrent':[u'72']}
+{'ID':60,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':83,'text':'he','referrent':[u'12']}  ->  {'ID':12,'text':'he','referrent':[u'51']}
+{'ID':32,'text':'the bargaining table','referrent':[u'NEW47']}  ->  {'ID':NEW47,'text':'the bargaining table','referrent':['']}
+{'ID':30,'text':'Mr. Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+{'ID':77,'text':'Gov. Martinez','referrent':[u'NEW70']}  ->  {'ID':NEW70,'text':'Bob Martinez','referrent':['']}
+{'ID':56,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':58,'text':'talks','referrent':[u'3']}  ->  {'ID':3,'text':'the talks','referrent':[u'35']}
+{'ID':61,'text':'the former astronaut and former Eastern president','referrent':[u'NEW105']}  ->  {'ID':NEW105,'text':'Frank Borman','referrent':['']}
+{'ID':68,'text':'pilot unions','referrent':[u'NEW95']}  ->  {'ID':NEW95,'text':'the pilot','referrent':['']}
+{'ID':22,'text':'Mr. Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+{'ID':70,'text':'Texas Air','referrent':[u'72']}  ->  {'ID':72,'text':'Texas Air','referrent':[u'70']}
+{'ID':23,'text':'I','referrent':[u'26']}  ->  {'ID':26,'text':'I','referrent':[u'23']}
+{'ID':79,'text':'he','referrent':[u'12']}  ->  {'ID':12,'text':'he','referrent':[u'51']}
+{'ID':78,'text':'Mr. Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+{'ID':55,'text':'a strike','referrent':[u'NEW94']}  ->  {'ID':NEW94,'text':'a strike','referrent':['']}
+{'ID':71,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':57,'text':'the airline','referrent':[u'65']}  ->  {'ID':65,'text':'the airline','referrent':[u'57']}
+{'ID':53,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':3,'text':'the talks','referrent':[u'35']}  ->  {'ID':35,'text':'the talks','referrent':[u'3']}
+{'ID':5,'text':'Harry Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+{'ID':74,'text':'the talks','referrent':[u'3']}  ->  {'ID':3,'text':'the talks','referrent':[u'35']}
+{'ID':34,'text':'Eastern','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Eastern','referrent':['']}
+{'ID':35,'text':'the talks','referrent':[u'3']}  ->  {'ID':3,'text':'the talks','referrent':[u'35']}
+{'ID':73,'text':'the National Mediation Board','referrent':[u'NEW76']}  ->  {'ID':NEW76,'text':'the National Mediation Board','referrent':['']}
+{'ID':29,'text':'Mr. Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+{'ID':40,'text':'president and chief executive officer of Eastern','referrent':[u'39']}  ->  {'ID':39,'text':'Phil Bakes','referrent':['']}
+{'ID':80,'text':'the talks','referrent':[u'3']}  ->  {'ID':3,'text':'the talks','referrent':[u'35']}
+{'ID':76,'text':'Texas Air','referrent':[u'70']}  ->  {'ID':70,'text':'Texas Air','referrent':[u'72']}
+{'ID':65,'text':'the airline','referrent':[u'57']}  ->  {'ID':57,'text':'the airline','referrent':[u'65']}
+{'ID':13,'text':'Mr. Bickford','referrent':[u'22']}  ->  {'ID':22,'text':'Mr. Bickford','referrent':[u'13']}
+{'ID':59,'text':'Mr. Bickford','referrent':[u'13']}  ->  {'ID':13,'text':'Mr. Bickford','referrent':[u'22']}
+Number of pronouns resolved: 4 (0.25)
+Number of common nouns resolved: 10 (0.48)
+Number of proper nouns resolved: 22 (0.85)
+Response resolutions: 56
+Truth resolutions: 63
+Total correct: 36
+Document b18 Score:  0.57
+
+{'ID':29,'text':'Alcoa','referrent':[u'NEW23']}  ->  {'ID':NEW23,'text':'Pittsburgh-based Alcoa','referrent':['']}
+{'ID':11,'text':'1986','referrent':[u'NEW10']}  ->  {'ID':NEW10,'text':'1986','referrent':['']}
+{'ID':30,'text':'Reynolds','referrent':[u'NEW24']}  ->  {'ID':NEW24,'text':'Reynolds','referrent':['']}
+{'ID':3,'text':'early contract talks','referrent':[u'26']}  ->  {'ID':26,'text':'the early talks','referrent':[u'3']}
+{'ID':26,'text':'the early talks','referrent':[u'3']}  ->  {'ID':3,'text':'early contract talks','referrent':[u'26']}
+{'ID':7,'text':'the early bargaining','referrent':[u'26']}  ->  {'ID':26,'text':'the early talks','referrent':[u'3']}
+There are no pronouns to resolve in this document.
+Number of common nouns resolved: 4 (0.33)
+Number of proper nouns resolved: 2 (0.40)
+Response resolutions: 11
+Truth resolutions: 17
+Total correct: 6
+Document b19 Score:  0.35
+
+{'ID':73,'text':'Abu Dhabi','referrent':[u'NEW27']}  ->  {'ID':NEW27,'text':'Abu Dhabi','referrent':['']}
+{'ID':50,'text':'current production','referrent':[u'52']}  ->  {'ID':52,'text':'the Emirates current production','referrent':[u'29']}
+{'ID':54,'text':'a day','referrent':[u'NEW13']}  ->  {'ID':NEW13,'text':'a day','referrent':['']}
+{'ID':82,'text':'yesterday','referrent':[u'46']}  ->  {'ID':46,'text':'yesterday','referrent':[u'82']}
+{'ID':46,'text':'yesterday','referrent':[u'82']}  ->  {'ID':82,'text':'yesterday','referrent':[u'46']}
+{'ID':21,'text':'Subroto','referrent':[u'22']}  ->  {'ID':22,'text':'Mr. Subroto','referrent':[u'NEW38']}
+{'ID':78,'text':'quota','referrent':[u'NEW52']}  ->  {'ID':NEW52,'text':'quota','referrent':['']}
+{'ID':102,'text':'world oil markets','referrent':[u'NEW60']}  ->  {'ID':NEW60,'text':'the world oil markets','referrent':['']}
+{'ID':29,'text':'the Emirates','referrent':[u'45']}  ->  {'ID':45,'text':'the Emirates','referrent':[u'29']}
+{'ID':77,'text':'the Emirates','referrent':[u'29']}  ->  {'ID':29,'text':'the Emirates','referrent':[u'45']}
+{'ID':33,'text':'Sheik Zayed','referrent':[u'NEW30']}  ->  {'ID':NEW30,'text':'Sheik Zayed Al Nahyyan','referrent':['']}
+{'ID':11,'text':'OPECs most notable quota violator','referrent':[u'10']}  ->  {'ID':10,'text':'the United Arab Emirates','referrent':[u'29']}
+{'ID':94,'text':'OPEC output','referrent':[u'63']}  ->  {'ID':63,'text':'OPEC output','referrent':[u'94']}
+{'ID':72,'text':'Mr. Subroto','referrent':[u'22']}  ->  {'ID':22,'text':'Mr. Subroto','referrent':[u'NEW38']}
+{'ID':76,'text':'oil','referrent':[u'NEW104']}  ->  {'ID':NEW104,'text':'oil','referrent':['']}
+{'ID':10,'text':'the United Arab Emirates','referrent':[u'29']}  ->  {'ID':29,'text':'the Emirates','referrent':[u'45']}
+{'ID':61,'text':'their quota','referrent':[u'NEW52']}  ->  {'ID':NEW52,'text':'quota','referrent':['']}
+{'ID':45,'text':'the Emirates','referrent':[u'29']}  ->  {'ID':29,'text':'the Emirates','referrent':[u'45']}
+{'ID':63,'text':'OPEC output','referrent':[u'94']}  ->  {'ID':94,'text':'OPEC output','referrent':[u'63']}
+{'ID':7,'text':'total cartel output','referrent':[u'88']}  ->  {'ID':88,'text':'total OPEC output','referrent':[u'40']}
+{'ID':37,'text':'the ruler','referrent':[u'23']}  ->  {'ID':23,'text':'the Emirates ruler','referrent':[u'29']}
+Number of pronouns resolved: 0 (0.00)
+Number of common nouns resolved: 10 (0.42)
+Number of proper nouns resolved: 11 (0.31)
+Response resolutions: 64
+Truth resolutions: 68
+Total correct: 21
+Document b20 Score:  0.31
 
 -------------------------------------------------
-Final accuracy score: 0.6377
+Final accuracy score: 0.4651
 -------------------------------------------------
