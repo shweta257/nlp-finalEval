@@ -84,11 +84,14 @@ def isAppositive(np1, np2, coref, indexI, indexJ):
 
     if(abs(indexJ-indexI) > 1):
         return False
+
     np1.replace(']','\]').replace('[','\[')
     np2.replace(']','\]').replace('[','\[')
     # To remove false positive cases of Appositive
-    #ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
-    ignoreSemanticClass = ['TIME', 'NUMBER']
+
+    ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
+    # ignoreSemanticClass = ['TIME', 'NUMBER']
+
     if df['semanticClass'].loc[indexI] in ignoreSemanticClass or df['semanticClass'].loc[indexJ] in ignoreSemanticClass:
         return False
 
@@ -198,8 +201,8 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
         return 0
 
 
-    wordI = wordI.lower()
-    wordJ = wordJ.lower()
+    wordI.lower()
+    wordJ.lower()
     d = sys.maxint
     demonym = demonynClassification.DemonymClassify()
     demonym.createDemonym()
@@ -232,7 +235,8 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
     for word in mergeWordIJ:
         if word in commonWords:
             matchWordCount -= 0.5
-    # no of mismatch words
+
+    #  no of mismatch words
 
     penaltyformismatching = 0.05*(lenWordj+lenWordi -2*matchWordCount)
 
