@@ -87,8 +87,8 @@ def isAppositive(np1, np2, coref, indexI, indexJ):
     np1.replace(']','\]').replace('[','\[')
     np2.replace(']','\]').replace('[','\[')
     # To remove false positive cases of Appositive
-    ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
-    # ignoreSemanticClass = ['TIME', 'NUMBER']
+    #ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
+    ignoreSemanticClass = ['TIME', 'NUMBER']
     if df['semanticClass'].loc[indexI] in ignoreSemanticClass or df['semanticClass'].loc[indexJ] in ignoreSemanticClass:
         return False
 
@@ -101,6 +101,7 @@ def isAppositive(np1, np2, coref, indexI, indexJ):
         return False
     except:
         print regex
+        return False
 
 
 def wordSubsumes(wordList1, wordList2):
@@ -157,9 +158,9 @@ def distanceClusterProcessing(df,coreference, corefRadius):
             candidateRef = [i for i in clusters[cl] if i[1] == clusters[cl][0][1]]
             candidateRef.sort(key=lambda x:x[2])
             idofCandidate = df.loc[candidateRef[0][0],'Id']
-            for each_obj in candidateRef:
-                if not str(df.loc[each_obj[0],'Id']).startswith('NEW'):
-                    idofCandidate = df.loc[each_obj[0],'Id']
+            # for each_obj in candidateRef:
+            #     if not str(df.loc[each_obj[0],'Id']).startswith('NEW'):
+            #         idofCandidate = df.loc[each_obj[0],'Id']
             df.loc[cl, 'RefId'] = idofCandidate
 
             # for c in clusters[cl]:
