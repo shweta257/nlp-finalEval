@@ -367,11 +367,11 @@ class CoReferenceHandler():
                         newnpPhrase += ' '
                     prevWord = word
                 newnpPhrase = newnpPhrase.strip()
-                if len(newnpPhrase) != 1 or newnpPhrase.lower() in self.ignoreWordList:
-                    # print newnpPhrase
-                    npElement = NPElement(newnpPhrase, 'NEW'+str(self.counter), '')
-                    self.nounPhrase.append(npElement)
-                    self.counter += 1
+                if len(newnpPhrase) > 0 :
+                    if len(newnpPhrase) != 1 or newnpPhrase.lower() in self.ignoreWordList:
+                        npElement = NPElement(newnpPhrase, 'NEW'+str(self.counter), '')
+                        self.nounPhrase.append(npElement)
+                        self.counter += 1
 
             else:
                 for child in t:

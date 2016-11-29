@@ -84,15 +84,23 @@ def isAppositive(np1, np2, coref, indexI, indexJ):
 
     if(abs(indexJ-indexI) > 1):
         return False
+    np1.replace(']','\]').replace('[','\[')
+    np2.replace(']','\]').replace('[','\[')
+    # To remove false positive cases of Appositive
     ignoreSemanticClass = ['TIME', 'OBJECTS', 'NUMBER']
+    # ignoreSemanticClass = ['TIME', 'NUMBER']
     if df['semanticClass'].loc[indexI] in ignoreSemanticClass or df['semanticClass'].loc[indexJ] in ignoreSemanticClass:
         return False
+
     regex = np1 + '[ ]*,[ ]*' + np2
-    p = re.compile(regex)  # define pattern
-    text = coref.fullText  # whole document text
-    if len(p.findall(text)) > 0:
-        return True
-    return False
+    try:
+        p = re.compile(regex)  # define pattern
+        text = coref.fullText  # whole document text
+        if len(p.findall(text)) > 0:
+            return True
+        return False
+    except:
+        print regex
 
 
 def wordSubsumes(wordList1, wordList2):
@@ -149,9 +157,9 @@ def distanceClusterProcessing(df,coreference, corefRadius):
             candidateRef = [i for i in clusters[cl] if i[1] == clusters[cl][0][1]]
             candidateRef.sort(key=lambda x:x[2])
             idofCandidate = df.loc[candidateRef[0][0],'Id']
-            # for each_obj in candidateRef:
-            #     if not str(df.loc[each_obj[0],'Id']).startswith('NEW'):
-            #         idofCandidate = df.loc[each_obj[0],'Id']
+            for each_obj in candidateRef:
+                if not str(df.loc[each_obj[0],'Id']).startswith('NEW'):
+                    idofCandidate = df.loc[each_obj[0],'Id']
             df.loc[cl, 'RefId'] = idofCandidate
 
             # for c in clusters[cl]:
@@ -306,9 +314,10 @@ if __name__ == "__main__":
                 corefIdList.append(each_obj.corefId)
 
             words = [word.strip() for word in words]
-            #print words
+            # print words
 
             df = pd.DataFrame(words, columns=['words'])
+            # print df
             df['headNoun'] = df['words'].map(lambda x: x.lower().split()[-1])
             df['position'] = df.index + 1
             df['semanticClass'] = 'OBJECT'
