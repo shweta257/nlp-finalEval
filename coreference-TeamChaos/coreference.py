@@ -199,7 +199,8 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
         return 0
 
 
-   
+    wordI.lower()
+    wordJ.lower()
     d = sys.maxint
     demonym = demonynClassification.DemonymClassify()
     demonym.createDemonym()
@@ -229,12 +230,13 @@ def calculateDistance(df,coreference, indexI, indexJ, wordI, wordJ, length, r):
                 return 3
             return 2
 
-#     for word in mergeWordIJ:
-#         if word in commonWords:
-#             matchWordCount -= 0.5
-#     # no of mismatch words
+    for word in mergeWordIJ:
+        if word in commonWords:
+            matchWordCount -= 0.5
 
-#     penaltyformismatching = 0.05*(lenWordj+lenWordi -2*matchWordCount)
+    #  no of mismatch words
+
+    penaltyformismatching = 0.05*(lenWordj+lenWordi -2*matchWordCount)
 
     if matchWordCount > 0:
         return 10-matchWordCount + penaltyformismatching;
